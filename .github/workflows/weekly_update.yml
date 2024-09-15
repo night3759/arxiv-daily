@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Arxiv Papers Daily
+name: Update link weekly
 
 # Controls when the workflow will run
 on:
