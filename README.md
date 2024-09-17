@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-07**|**Modeling Drivers' Risk Perception via Attention to Improve Driving Assistance**|Abhijat Biswas et.al.|[2409.04738](http://arxiv.org/abs/2409.04738)|null|
 |**2024-09-09**|**Online Residual Learning from Offline Experts for Pedestrian Tracking**|Anastasios Vlachos et.al.|[2409.04069](http://arxiv.org/abs/2409.04069)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
@@ -29,6 +30,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178](http://arxiv.org/abs/2409.10178)|null|
+|**2024-09-16**|**GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**|Anqi Shi et.al.|[2409.10063](http://arxiv.org/abs/2409.10063)|null|
+|**2024-09-16**|**GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal Lines**|Qianyi Zhang et.al.|[2409.10009](http://arxiv.org/abs/2409.10009)|null|
+|**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868](http://arxiv.org/abs/2409.09868)|null|
+|**2024-09-15**|**DiFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[2409.09777](http://arxiv.org/abs/2409.09777)|null|
 |**2024-09-13**|**GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**|Siyu Li et.al.|[2409.08688](http://arxiv.org/abs/2409.08688)|**[link](https://github.com/lynn-yu/genmapping)**|
 |**2024-09-11**|**Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping**|Shuang Zeng et.al.|[2409.05352](http://arxiv.org/abs/2409.05352)|null|
 |**2024-09-07**|**Context-Aware Replanning with Pre-explored Semantic Map for Object Navigation**|Hung-Ting Su et.al.|[2409.04837](http://arxiv.org/abs/2409.04837)|null|
@@ -47,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Optimal Geodesic Curvature Constrained Dubins' Path on Sphere with Free Terminal Orientation**|Deepak Prakash Kumar et.al.|[2409.10363](http://arxiv.org/abs/2409.10363)|null|
+|**2024-09-16**|**Digital Twins Meet the Koopman Operator: Data-Driven Learning for Robust Autonomy**|Chinmay Vilas Samak et.al.|[2409.10347](http://arxiv.org/abs/2409.10347)|null|
+|**2024-09-16**|**Safety-critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles during Navigation toward Destination**|Jaemin Lee et.al.|[2409.10274](http://arxiv.org/abs/2409.10274)|null|
+|**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|Zhixi Cai et.al.|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
+|**2024-09-16**|**Relative Positioning for Aerial Robot Path Planning in GPS Denied Environment**|Farzad Sanati et.al.|[2409.10193](http://arxiv.org/abs/2409.10193)|null|
+|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
+|**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
+|**2024-09-16**|**ViewActive: Active viewpoint optimization from a single image**|Jiayi Wu et.al.|[2409.09997](http://arxiv.org/abs/2409.09997)|null|
+|**2024-09-16**|**Generalization of Optimal Geodesic Curvature Constrained Dubins' Path on Sphere with Free Terminal Orientation**|Deepak Prakash Kumar et.al.|[2409.09954](http://arxiv.org/abs/2409.09954)|null|
+|**2024-09-15**|**Fast Shortest Path Polyline Smoothing With G1 Continuity and Bounded Curvature**|Patrick Pastorelli et.al.|[2409.09816](http://arxiv.org/abs/2409.09816)|null|
 |**2024-09-13**|**Task-Specific Data Preparation for Deep Learning to Reconstruct Structures of Interest from Severely Truncated CBCT Data**|Yixing Huang et.al.|[2409.08800](http://arxiv.org/abs/2409.08800)|null|
 |**2024-09-13**|**Agile Decision-Making and Safety-Critical Motion Planning for Emergency Autonomous Vehicles**|Yiming Shu et.al.|[2409.08665](http://arxiv.org/abs/2409.08665)|null|
 |**2024-09-12**|**Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos**|Yuheng Jiang et.al.|[2409.08353](http://arxiv.org/abs/2409.08353)|null|
