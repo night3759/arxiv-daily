@@ -55,6 +55,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
+|**2024-09-18**|**Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects**|Yunfan Gao et.al.|[2409.12007](http://arxiv.org/abs/2409.12007)|null|
+|**2024-09-18**|**LMMCoDrive: Cooperative Driving with Large Multimodal Model**|Haichao Liu et.al.|[2409.11981](http://arxiv.org/abs/2409.11981)|null|
+|**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|null|
+|**2024-09-18**|**RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once**|Jiawei Sun et.al.|[2409.11696](http://arxiv.org/abs/2409.11696)|null|
+|**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[2409.11676](http://arxiv.org/abs/2409.11676)|null|
+|**2024-09-18**|**Learning-accelerated A* Search for Risk-aware Path Planning**|Jun Xiang et.al.|[2409.11634](http://arxiv.org/abs/2409.11634)|null|
+|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-17**|**${\tt KRAFT}$ : Sampling-Based Kinodynamic Replanning and Feedback Control over Approximate, Identified Models of Vehicular Systems**|Aravind Sivaramakrishnan et.al.|[2409.11522](http://arxiv.org/abs/2409.11522)|null|
+|**2024-09-17**|**Rigid Body Path Planning using Mixed-Integer Linear Programming**|Mingxin Yu et.al.|[2409.11520](http://arxiv.org/abs/2409.11520)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
 |**2024-09-18**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[2409.11199](http://arxiv.org/abs/2409.11199)|null|
