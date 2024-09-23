@@ -80,14 +80,14 @@
 |**2024-09-16**|**Relative Positioning for Aerial Robot Path Planning in GPS Denied Environment**|Farzad Sanati et.al.|[2409.10193](http://arxiv.org/abs/2409.10193)|null|
 |**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
 |**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
-|**2024-09-16**|**ViewActive: Active viewpoint optimization from a single image**|Jiayi Wu et.al.|[2409.09997](http://arxiv.org/abs/2409.09997)|null|
+|**2024-09-16**|**ViewActive: Active viewpoint optimization from a single image**|Jiayi Wu et.al.|[2409.09997](http://arxiv.org/abs/2409.09997)|**[link](https://github.com/jiayi-wu-umd/viewactive)**|
 |**2024-09-16**|**Generalization of Optimal Geodesic Curvature Constrained Dubins' Path on Sphere with Free Terminal Orientation**|Deepak Prakash Kumar et.al.|[2409.09954](http://arxiv.org/abs/2409.09954)|null|
 |**2024-09-15**|**Fast Shortest Path Polyline Smoothing With G1 Continuity and Bounded Curvature**|Patrick Pastorelli et.al.|[2409.09816](http://arxiv.org/abs/2409.09816)|null|
 |**2024-09-13**|**Task-Specific Data Preparation for Deep Learning to Reconstruct Structures of Interest from Severely Truncated CBCT Data**|Yixing Huang et.al.|[2409.08800](http://arxiv.org/abs/2409.08800)|null|
 |**2024-09-13**|**Agile Decision-Making and Safety-Critical Motion Planning for Emergency Autonomous Vehicles**|Yiming Shu et.al.|[2409.08665](http://arxiv.org/abs/2409.08665)|null|
 |**2024-09-12**|**Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos**|Yuheng Jiang et.al.|[2409.08353](http://arxiv.org/abs/2409.08353)|null|
-|**2024-09-12**|**Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help?**|Matthias Bentert et.al.|[2409.08219](http://arxiv.org/abs/2409.08219)|null|
-|**2024-09-11**|**Flow-Inspired Lightweight Multi-Robot Real-Time Scheduling Planner**|Han Liu et.al.|[2409.06952](http://arxiv.org/abs/2409.06952)|null|
+|**2024-09-12**|**Graph Inspection for Robotic Motion Planning: Do Arithmetic Circuits Help?**|Matthias Bentert et.al.|[2409.08219](http://arxiv.org/abs/2409.08219)|**[link](https://github.com/TheoryInPractice/robotic-brewing)**|
+|**2024-09-11**|**Flow-Inspired Lightweight Multi-Robot Real-Time Scheduling Planner**|Han Liu et.al.|[2409.06952](http://arxiv.org/abs/2409.06952)|**[link](https://github.com/chengji253/FRSP)**|
 |**2024-09-10**|**PRO-MIND: Proximity and Reactivity Optimisation of robot Motion to tune safety limits, human stress, and productivity in INDustrial settings**|Marta Lagomarsino et.al.|[2409.06864](http://arxiv.org/abs/2409.06864)|null|
 |**2024-09-13**|**NSP: A Neuro-Symbolic Natural Language Navigational Planner**|William English et.al.|[2409.06859](http://arxiv.org/abs/2409.06859)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
