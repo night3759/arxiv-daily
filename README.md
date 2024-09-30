@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-09-25**|**Building Real-time Awareness of Out-of-distribution in Trajectory Prediction for Autonomous Vehicles**|Tongfei et.al.|[2409.17277](http://arxiv.org/abs/2409.17277)|null|
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/abs/2409.16154)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[2409.15821](http://arxiv.org/abs/2409.15821)|null|
-|**2024-09-24**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
+|**2024-09-27**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
 |**2024-09-25**|**TFT-multi: simultaneous forecasting of vital sign trajectories in the ICU**|Rosemary Y. He et.al.|[2409.15586](http://arxiv.org/abs/2409.15586)|null|
 |**2024-09-23**|**Enhancing Pedestrian Trajectory Prediction with Crowd Trip Information**|Rei Tamaru et.al.|[2409.15224](http://arxiv.org/abs/2409.15224)|null|
 |**2024-09-25**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[2409.15182](http://arxiv.org/abs/2409.15182)|null|
@@ -40,7 +40,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|null|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Perception
 
@@ -69,7 +69,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Planning
 
@@ -135,5 +135,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
