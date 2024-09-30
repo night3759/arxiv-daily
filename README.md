@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Multimodal Trajectory Prediction for Autonomous Driving on Unstructured Roads using Deep Convolutional Network**|Lei Li et.al.|[2409.18399](http://arxiv.org/abs/2409.18399)|null|
 |**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790](http://arxiv.org/abs/2409.17790)|null|
 |**2024-09-26**|**Computation Pre-Offloading for MEC-Enabled Vehicular Networks via Trajectory Prediction**|Ting Zhang et.al.|[2409.17681](http://arxiv.org/abs/2409.17681)|null|
 |**2024-09-25**|**Data-efficient Trajectory Prediction via Coreset Selection**|Ruining Yang et.al.|[2409.17385](http://arxiv.org/abs/2409.17385)|null|
@@ -46,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction**|Jingyu Song et.al.|[2409.18737](http://arxiv.org/abs/2409.18737)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
 |**2024-09-24**|**Underground Mapping and Localization Based on Ground-Penetrating Radar**|Jinchang Zhang et.al.|[2409.16446](http://arxiv.org/abs/2409.16446)|null|
 |**2024-09-23**|**A common fixed point theorem for two self-mappings defined on strictly convex probabilistic cone metric space**|M. H. M. Rashid et.al.|[2409.15482](http://arxiv.org/abs/2409.15482)|null|
@@ -75,6 +77,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Towards Super-Nominal Payload Handling: Inverse Dynamics Analysis for Multi-Skill Robotic Manipulation**|Anuj Pasricha et.al.|[2409.18939](http://arxiv.org/abs/2409.18939)|null|
+|**2024-09-27**|**S2O: Static to Openable Enhancement for Articulated 3D Objects**|Denys Iliash et.al.|[2409.18896](http://arxiv.org/abs/2409.18896)|null|
+|**2024-09-27**|**Pseudo-kinematic trajectory control of tracked vehicles**|Michele Focchi et.al.|[2409.18641](http://arxiv.org/abs/2409.18641)|null|
+|**2024-09-27**|**BoT-Drive: Hierarchical Behavior and Trajectory Planning for Autonomous Driving using POMDPs**|Xuanjin Jin et.al.|[2409.18411](http://arxiv.org/abs/2409.18411)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
 |**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084](http://arxiv.org/abs/2409.18084)|null|
 |**2024-09-26**|**Joint Localization and Planning using Diffusion**|L. Lao Beyer et.al.|[2409.17995](http://arxiv.org/abs/2409.17995)|null|
