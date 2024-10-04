@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/abs/2410.02201)|null|
+|**2024-10-03**|**TrajGPT: Irregular Time-Series Representation Learning for Health Trajectory Analysis**|Ziyang Song et.al.|[2410.02133](http://arxiv.org/abs/2410.02133)|null|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
 |**2024-10-01**|**Learning Chaotic Dynamics with Embedded Dissipativity**|Sunbochen Tang et.al.|[2410.00976](http://arxiv.org/abs/2410.00976)|null|
 |**2024-09-30**|**HEADS-UP: Head-Mounted Egocentric Dataset for Trajectory Prediction in Blind Assistance Systems**|Yasaman Haghighi et.al.|[2409.20324](http://arxiv.org/abs/2409.20324)|null|
@@ -81,6 +83,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**A Schema-aware Logic Reformulation for Graph Reachability**|Davide Di Pierro et.al.|[2410.02533](http://arxiv.org/abs/2410.02533)|null|
+|**2024-10-03**|**SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics**|James Gao et.al.|[2410.02510](http://arxiv.org/abs/2410.02510)|null|
+|**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
+|**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|Zhutian Yang et.al.|[2410.02193](http://arxiv.org/abs/2410.02193)|null|
 |**2024-10-02**|**Multi-Robot Trajectory Generation via Consensus ADMM: Convex vs. Non-Convex**|Jushan Chen et.al.|[2410.01728](http://arxiv.org/abs/2410.01728)|null|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
 |**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/abs/2410.01345)|null|
