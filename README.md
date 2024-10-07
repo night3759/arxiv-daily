@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**SPHINX: Structural Prediction using Hypergraph Inference Network**|Iulia Duta et.al.|[2410.03208](http://arxiv.org/abs/2410.03208)|null|
 |**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/abs/2410.02201)|null|
 |**2024-10-03**|**TrajGPT: Irregular Time-Series Representation Learning for Health Trajectory Analysis**|Ziyang Song et.al.|[2410.02133](http://arxiv.org/abs/2410.02133)|null|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
@@ -52,6 +53,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Constrained B-Spline Based Everett Map Construction for Modeling Static Hysteresis Behavior**|Bram Daniels et.al.|[2410.02797](http://arxiv.org/abs/2410.02797)|null|
 |**2024-10-01**|**A Scalable Gaussian Process Approach to Shear Mapping with MuyGPs**|Gregory Sallaberry et.al.|[2410.00308](http://arxiv.org/abs/2410.00308)|null|
 |**2024-09-26**|**MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction**|Jingyu Song et.al.|[2409.18737](http://arxiv.org/abs/2409.18737)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
@@ -83,6 +85,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|null|
+|**2024-10-04**|**Dynamic Curvature Constrained Path Planning**|Nishkal Gupta Myadam et.al.|[2410.03253](http://arxiv.org/abs/2410.03253)|null|
+|**2024-10-04**|**Multi-Robot Motion Planning with Diffusion Models**|Yorai Shaoul et.al.|[2410.03072](http://arxiv.org/abs/2410.03072)|**[link](https://github.com/yoraish/mmd)**|
 |**2024-10-03**|**A Schema-aware Logic Reformulation for Graph Reachability**|Davide Di Pierro et.al.|[2410.02533](http://arxiv.org/abs/2410.02533)|null|
 |**2024-10-03**|**SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics**|James Gao et.al.|[2410.02510](http://arxiv.org/abs/2410.02510)|null|
 |**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
