@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications**|Manuel Hetzel et.al.|[2410.06905](http://arxiv.org/abs/2410.06905)|**[link](https://github.com/kav-institute/mdn_trajectory_forecasting)**|
+|**2024-10-08**|**GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks**|Renat Sergazinov et.al.|[2410.05780](http://arxiv.org/abs/2410.05780)|**[link](https://github.com/irinastatslab/glucobench)**|
 |**2024-10-07**|**Predictive Spliner: Data-Driven Overtaking in Autonomous Racing Using Opponent Trajectory Prediction**|Nicolas Baumann et.al.|[2410.04868](http://arxiv.org/abs/2410.04868)|**[link](https://github.com/forzaeth/predictive-spliner)**|
 |**2024-10-04**|**SPHINX: Structural Prediction using Hypergraph Inference Network**|Iulia Duta et.al.|[2410.03208](http://arxiv.org/abs/2410.03208)|null|
 |**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[2410.02201](http://arxiv.org/abs/2410.02201)|null|
@@ -86,6 +88,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Online Epsilon Net and Piercing Set for Geometric Concepts**|Sujoy Bhore et.al.|[2410.07059](http://arxiv.org/abs/2410.07059)|null|
+|**2024-10-09**|**Combining Planning and Diffusion for Mobility with Unknown Dynamics**|Yajvan Ravan et.al.|[2410.06911](http://arxiv.org/abs/2410.06911)|null|
+|**2024-10-09**|**Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications**|Manuel Hetzel et.al.|[2410.06905](http://arxiv.org/abs/2410.06905)|**[link](https://github.com/kav-institute/mdn_trajectory_forecasting)**|
+|**2024-10-09**|**Dynamic Neural Potential Field: Online Trajectory Optimization in Presence of Moving Obstacles**|Aleksey Staroverov et.al.|[2410.06819](http://arxiv.org/abs/2410.06819)|null|
+|**2024-10-09**|**Variations in Multi-Agent Actor-Critic Frameworks for Joint Optimizations in UAV Swarm Networks: Recent Evolution, Challenges, and Directions**|Muhammad Morshed Alam et.al.|[2410.06627](http://arxiv.org/abs/2410.06627)|null|
+|**2024-10-09**|**BiC-MPPI: Goal-Pursuing, Sampling-Based Bidirectional Rollout Clustering Path Integral for Trajectory Optimization**|Minchan Jung et.al.|[2410.06493](http://arxiv.org/abs/2410.06493)|null|
+|**2024-10-08**|**Meta-Learning Augmented MPC for Disturbance-Aware Motion Planning and Control of Quadrotors**|Dženan Lapandić et.al.|[2410.06325](http://arxiv.org/abs/2410.06325)|null|
+|**2024-10-08**|**A General Formulation for Path Constrained Time-Optimized Trajectory Planning with Environmental and Object Contacts**|Dasharadhan Mahalingam et.al.|[2410.06295](http://arxiv.org/abs/2410.06295)|null|
+|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|null|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|null|
 |**2024-10-07**|**Path planning for multi-quadrotor 3D boundary surveillance using non-autonomous discrete memristor hyperchaotic system**|Harisankar R et.al.|[2410.05215](http://arxiv.org/abs/2410.05215)|null|
 |**2024-10-07**|**State Estimation of Marine Vessels Affected by Waves by Unmanned Aerial Vehicles**|Filip Novák et.al.|[2410.05186](http://arxiv.org/abs/2410.05186)|null|
 |**2024-10-07**|**Reinforcement Learning Control for Autonomous Hydraulic Material Handling Machines with Underactuated Tools**|Filippo A. Spinelli et.al.|[2410.05093](http://arxiv.org/abs/2410.05093)|null|
