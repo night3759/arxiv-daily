@@ -91,7 +91,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-10**|**Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies**|Xu Wang et.al.|[2410.07968](http://arxiv.org/abs/2410.07968)|null|
+|**2024-10-10**|**Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies**|Xu Wang et.al.|[2410.07968](http://arxiv.org/abs/2410.07968)|**[link](https://github.com/JLU-WangXu/Octopus_Inspired_Optimization_OIO)**|
 |**2024-10-10**|**Multimodal Perception System for Real Open Environment**|Yuyang Sha et.al.|[2410.07926](http://arxiv.org/abs/2410.07926)|null|
 |**2024-10-10**|**SwarmPath: Drone Swarm Navigation through Cluttered Environments Leveraging Artificial Potential Field and Impedance Control**|Roohan Ahmed Khan et.al.|[2410.07848](http://arxiv.org/abs/2410.07848)|null|
 |**2024-10-10**|**Autonomous Vehicles Path Planning under Temporal Logic Specifications**|Akshay Dhonthi et.al.|[2410.07845](http://arxiv.org/abs/2410.07845)|null|
@@ -101,13 +101,13 @@
 |**2024-10-09**|**Online Epsilon Net and Piercing Set for Geometric Concepts**|Sujoy Bhore et.al.|[2410.07059](http://arxiv.org/abs/2410.07059)|null|
 |**2024-10-09**|**Combining Planning and Diffusion for Mobility with Unknown Dynamics**|Yajvan Ravan et.al.|[2410.06911](http://arxiv.org/abs/2410.06911)|null|
 |**2024-10-10**|**Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications**|Manuel Hetzel et.al.|[2410.06905](http://arxiv.org/abs/2410.06905)|**[link](https://github.com/kav-institute/mdn_trajectory_forecasting)**|
-|**2024-10-09**|**Dynamic Neural Potential Field: Online Trajectory Optimization in Presence of Moving Obstacles**|Aleksey Staroverov et.al.|[2410.06819](http://arxiv.org/abs/2410.06819)|null|
+|**2024-10-09**|**Dynamic Neural Potential Field: Online Trajectory Optimization in Presence of Moving Obstacles**|Aleksey Staroverov et.al.|[2410.06819](http://arxiv.org/abs/2410.06819)|**[link](https://github.com/CognitiveAISystems/Dynamic-Neural-Potential-Field)**|
 |**2024-10-09**|**Variations in Multi-Agent Actor-Critic Frameworks for Joint Optimizations in UAV Swarm Networks: Recent Evolution, Challenges, and Directions**|Muhammad Morshed Alam et.al.|[2410.06627](http://arxiv.org/abs/2410.06627)|null|
-|**2024-10-09**|**BiC-MPPI: Goal-Pursuing, Sampling-Based Bidirectional Rollout Clustering Path Integral for Trajectory Optimization**|Minchan Jung et.al.|[2410.06493](http://arxiv.org/abs/2410.06493)|null|
+|**2024-10-09**|**BiC-MPPI: Goal-Pursuing, Sampling-Based Bidirectional Rollout Clustering Path Integral for Trajectory Optimization**|Minchan Jung et.al.|[2410.06493](http://arxiv.org/abs/2410.06493)|**[link](https://github.com/i-ASL/BiC-MPPI)**|
 |**2024-10-08**|**Meta-Learning Augmented MPC for Disturbance-Aware Motion Planning and Control of Quadrotors**|Dženan Lapandić et.al.|[2410.06325](http://arxiv.org/abs/2410.06325)|null|
 |**2024-10-08**|**A General Formulation for Path Constrained Time-Optimized Trajectory Planning with Environmental and Object Contacts**|Dasharadhan Mahalingam et.al.|[2410.06295](http://arxiv.org/abs/2410.06295)|null|
 |**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|null|
-|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|null|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|**[link](https://github.com/fudan-zvg/demo)**|
 |**2024-10-07**|**Path planning for multi-quadrotor 3D boundary surveillance using non-autonomous discrete memristor hyperchaotic system**|Harisankar R et.al.|[2410.05215](http://arxiv.org/abs/2410.05215)|null|
 |**2024-10-07**|**State Estimation of Marine Vessels Affected by Waves by Unmanned Aerial Vehicles**|Filip Novák et.al.|[2410.05186](http://arxiv.org/abs/2410.05186)|null|
 |**2024-10-07**|**Reinforcement Learning Control for Autonomous Hydraulic Material Handling Machines with Underactuated Tools**|Filippo A. Spinelli et.al.|[2410.05093](http://arxiv.org/abs/2410.05093)|null|
@@ -118,8 +118,8 @@
 |**2024-10-05**|**Fast Object Detection with a Machine Learning Edge Device**|Richard C. Rodriguez et.al.|[2410.04173](http://arxiv.org/abs/2410.04173)|null|
 |**2024-10-04**|**Multi-Objective Risk Assessment Framework for Exploration Planning Using Terrain and Traversability Analysis**|Riana Gagnon Souleiman et.al.|[2410.03917](http://arxiv.org/abs/2410.03917)|null|
 |**2024-10-04**|**Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo**|Makram Chahine et.al.|[2410.03909](http://arxiv.org/abs/2410.03909)|null|
-|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|null|
-|**2024-10-04**|**Dynamic Curvature Constrained Path Planning**|Nishkal Gupta Myadam et.al.|[2410.03253](http://arxiv.org/abs/2410.03253)|null|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|**[link](https://github.com/GuyTevet/CLoSD)**|
+|**2024-10-04**|**Dynamic Curvature Constrained Path Planning**|Nishkal Gupta Myadam et.al.|[2410.03253](http://arxiv.org/abs/2410.03253)|**[link](https://github.com/nichurocks02/DCCPPA)**|
 |**2024-10-04**|**Multi-Robot Motion Planning with Diffusion Models**|Yorai Shaoul et.al.|[2410.03072](http://arxiv.org/abs/2410.03072)|**[link](https://github.com/yoraish/mmd)**|
 |**2024-10-03**|**A Schema-aware Logic Reformulation for Graph Reachability**|Davide Di Pierro et.al.|[2410.02533](http://arxiv.org/abs/2410.02533)|null|
 |**2024-10-03**|**SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics**|James Gao et.al.|[2410.02510](http://arxiv.org/abs/2410.02510)|null|
