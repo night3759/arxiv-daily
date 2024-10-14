@@ -91,6 +91,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Implicit Graph Search for Planning on Graphs of Convex Sets**|Ramkumar Natarajan et.al.|[2410.08909](http://arxiv.org/abs/2410.08909)|null|
+|**2024-10-11**|**VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model**|Beichen Wang et.al.|[2410.08792](http://arxiv.org/abs/2410.08792)|null|
+|**2024-10-11**|**SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction**|Yang Zhou et.al.|[2410.08669](http://arxiv.org/abs/2410.08669)|**[link](https://github.com/youngzhou1999/smartpretrain)**|
+|**2024-10-11**|**Snap and Jump: How Elastic Shells Pop Out**|Takara Abe et.al.|[2410.08525](http://arxiv.org/abs/2410.08525)|null|
+|**2024-10-10**|**CE-MRS: Contrastive Explanations for Multi-Robot Systems**|Ethan Schneider et.al.|[2410.08408](http://arxiv.org/abs/2410.08408)|null|
+|**2024-10-10**|**Safe and Dynamically-Feasible Motion Planning using Control Lyapunov and Barrier Functions**|Pol Mestres et.al.|[2410.08364](http://arxiv.org/abs/2410.08364)|null|
+|**2024-10-10**|**Guiding Collision-Free Humanoid Multi-Contact Locomotion using Convex Kinematic Relaxations and Dynamic Optimization**|Carlos Gonzalez et.al.|[2410.08335](http://arxiv.org/abs/2410.08335)|null|
 |**2024-10-10**|**Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies**|Xu Wang et.al.|[2410.07968](http://arxiv.org/abs/2410.07968)|**[link](https://github.com/JLU-WangXu/Octopus_Inspired_Optimization_OIO)**|
 |**2024-10-10**|**Multimodal Perception System for Real Open Environment**|Yuyang Sha et.al.|[2410.07926](http://arxiv.org/abs/2410.07926)|null|
 |**2024-10-10**|**SwarmPath: Drone Swarm Navigation through Cluttered Environments Leveraging Artificial Potential Field and Impedance Control**|Roohan Ahmed Khan et.al.|[2410.07848](http://arxiv.org/abs/2410.07848)|null|
