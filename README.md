@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
+|**2024-10-14**|**Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**|Ran Wei et.al.|[2410.10653](http://arxiv.org/abs/2410.10653)|null|
+|**2024-10-14**|**Feedback Favors the Generalization of Neural ODEs**|Jindou Jia et.al.|[2410.10253](http://arxiv.org/abs/2410.10253)|null|
+|**2024-10-12**|**DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process**|Changlin Li et.al.|[2410.09550](http://arxiv.org/abs/2410.09550)|null|
 |**2024-10-10**|**Dynamic Object Catching with Quadruped Robot Front Legs**|André Schakkal et.al.|[2410.08065](http://arxiv.org/abs/2410.08065)|null|
 |**2024-10-10**|**Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications**|Manuel Hetzel et.al.|[2410.06905](http://arxiv.org/abs/2410.06905)|**[link](https://github.com/kav-institute/mdn_trajectory_forecasting)**|
 |**2024-10-08**|**GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks**|Renat Sergazinov et.al.|[2410.05780](http://arxiv.org/abs/2410.05780)|**[link](https://github.com/irinastatslab/glucobench)**|
@@ -57,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Exploring Semi-Supervised Learning for Online Mapping**|Adam Lilja et.al.|[2410.10279](http://arxiv.org/abs/2410.10279)|null|
 |**2024-10-10**|**MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction**|Jing Yang et.al.|[2410.07733](http://arxiv.org/abs/2410.07733)|null|
 |**2024-09-29**|**CKMImageNet: A Comprehensive Dataset to Enable Channel Knowledge Map Construction via Computer Vision**|Di Wu et.al.|[2410.07219](http://arxiv.org/abs/2410.07219)|null|
 |**2024-09-18**|**Constrained B-Spline Based Everett Map Construction for Modeling Static Hysteresis Behavior**|Bram Daniels et.al.|[2410.02797](http://arxiv.org/abs/2410.02797)|null|
@@ -91,6 +96,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Active Learning of Robot Vision Using Adaptive Path Planning**|Julius Rückin et.al.|[2410.10684](http://arxiv.org/abs/2410.10684)|null|
+|**2024-10-14**|**Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models**|Chanhoe Ryu et.al.|[2410.10577](http://arxiv.org/abs/2410.10577)|null|
+|**2024-10-13**|**Conformalized Reachable Sets for Obstacle Avoidance With Spheres**|Yongseok Kwon et.al.|[2410.09924](http://arxiv.org/abs/2410.09924)|null|
+|**2024-10-13**|**Physics-informed Neural Mapping and Motion Planning in Unknown Environments**|Yuchen Liu et.al.|[2410.09883](http://arxiv.org/abs/2410.09883)|null|
+|**2024-10-13**|**Socially Aware Motion Planning for Service Robots Using LiDAR and RGB-D Camera**|Duc Phu Nguyen et.al.|[2410.09803](http://arxiv.org/abs/2410.09803)|null|
+|**2024-10-13**|**Model Predictive Control for Optimal Motion Planning of Unmanned Aerial Vehicles**|Duy-Nam Bui et.al.|[2410.09799](http://arxiv.org/abs/2410.09799)|null|
+|**2024-10-13**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[2410.09681](http://arxiv.org/abs/2410.09681)|null|
+|**2024-10-12**|**HG2P: Hippocampus-inspired High-reward Graph and Model-Free Q-Gradient Penalty for Path Planning and Motion Control**|Haoran Wang et.al.|[2410.09505](http://arxiv.org/abs/2410.09505)|null|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
+|**2024-10-11**|**Motion Planning for Object Manipulation by Edge-Rolling**|Maede Boroji et.al.|[2410.09301](http://arxiv.org/abs/2410.09301)|null|
 |**2024-10-11**|**Implicit Graph Search for Planning on Graphs of Convex Sets**|Ramkumar Natarajan et.al.|[2410.08909](http://arxiv.org/abs/2410.08909)|null|
 |**2024-10-11**|**VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model**|Beichen Wang et.al.|[2410.08792](http://arxiv.org/abs/2410.08792)|null|
 |**2024-10-11**|**SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction**|Yang Zhou et.al.|[2410.08669](http://arxiv.org/abs/2410.08669)|**[link](https://github.com/youngzhou1999/smartpretrain)**|
