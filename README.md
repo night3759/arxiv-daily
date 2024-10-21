@@ -99,6 +99,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios**|Shuang Geng et.al.|[2410.14203](http://arxiv.org/abs/2410.14203)|null|
 |**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612](http://arxiv.org/abs/2410.13612)|null|
 |**2024-10-17**|**Inadequate contrast ratio of road markings as an indicator for ADAS failure**|Novel Certad et.al.|[2410.13320](http://arxiv.org/abs/2410.13320)|null|
 |**2024-10-16**|**Faster Algorithms for Growing Collision-Free Convex Polytopes in Robot Configuration Space**|Peter Werner et.al.|[2410.12649](http://arxiv.org/abs/2410.12649)|null|
