@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[2410.16083](http://arxiv.org/abs/2410.16083)|null|
+|**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[2410.14996](http://arxiv.org/abs/2410.14996)|null|
 |**2024-10-15**|**DODT: Enhanced Online Decision Transformer Learning through Dreamer's Actor-Critic Trajectory Forecasting**|Eric Hanchen Jiang et.al.|[2410.11359](http://arxiv.org/abs/2410.11359)|null|
 |**2024-10-15**|**Biologically Inspired Swarm Dynamic Target Tracking and Obstacle Avoidance**|Lucas Page et.al.|[2410.11237](http://arxiv.org/abs/2410.11237)|null|
 |**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
@@ -99,6 +101,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[2410.15912](http://arxiv.org/abs/2410.15912)|null|
+|**2024-10-21**|**LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration**|Camiel Oerlemans et.al.|[2410.15819](http://arxiv.org/abs/2410.15819)|**[link](https://github.com/cing2/limtr)**|
+|**2024-10-21**|**Efficient Non-Myopic Layered Bayesian Optimization For Large-Scale Bathymetric Informative Path Planning**|Alexander Kiessling et.al.|[2410.15720](http://arxiv.org/abs/2410.15720)|null|
+|**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|null|
+|**2024-10-21**|**Reinforced Imitative Trajectory Planning for Urban Automated Driving**|Di Zeng et.al.|[2410.15607](http://arxiv.org/abs/2410.15607)|**[link](https://github.com/zigned/nuplan_zigned)**|
+|**2024-10-20**|**Lie Theory Based Optimization for Unified State Planning of Mobile Manipulators**|William Smith et.al.|[2410.15443](http://arxiv.org/abs/2410.15443)|null|
+|**2024-10-20**|**A Semi-decentralized and Variational-Equilibrium-Based Trajectory Planner for Connected and Autonomous Vehicles**|Zhengqin Liu et.al.|[2410.15394](http://arxiv.org/abs/2410.15394)|null|
+|**2024-10-19**|**MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives**|Matteo Dalle Vedove et.al.|[2410.15123](http://arxiv.org/abs/2410.15123)|null|
+|**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[2410.14996](http://arxiv.org/abs/2410.14996)|null|
+|**2024-10-19**|**Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent robotics manufacturing**|Tianyi Xiang et.al.|[2410.14934](http://arxiv.org/abs/2410.14934)|null|
 |**2024-10-18**|**EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios**|Shuang Geng et.al.|[2410.14203](http://arxiv.org/abs/2410.14203)|null|
 |**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612](http://arxiv.org/abs/2410.13612)|null|
 |**2024-10-17**|**Inadequate contrast ratio of road markings as an indicator for ADAS failure**|Novel Certad et.al.|[2410.13320](http://arxiv.org/abs/2410.13320)|null|
