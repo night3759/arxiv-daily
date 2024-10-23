@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Language Model Non-myopic Generation for Reasoning and Planning**|Chang Ma et.al.|[2410.17195](http://arxiv.org/abs/2410.17195)|null|
+|**2024-10-22**|**Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach**|Pei Liu et.al.|[2410.16795](http://arxiv.org/abs/2410.16795)|null|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[2410.16083](http://arxiv.org/abs/2410.16083)|null|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[2410.14996](http://arxiv.org/abs/2410.14996)|null|
 |**2024-10-15**|**DODT: Enhanced Online Decision Transformer Learning through Dreamer's Actor-Critic Trajectory Forecasting**|Eric Hanchen Jiang et.al.|[2410.11359](http://arxiv.org/abs/2410.11359)|null|
@@ -101,6 +103,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**DyPNIPP: Predicting Environment Dynamics for RL-based Robust Informative Path Planning**|Srujan Deolasee et.al.|[2410.17186](http://arxiv.org/abs/2410.17186)|null|
+|**2024-10-22**|**Towards Map-Agnostic Policies for Adaptive Informative Path Planning**|Julius Rückin et.al.|[2410.17166](http://arxiv.org/abs/2410.17166)|null|
+|**2024-10-22**|**Cooperative Trajectory Planning: Principles for Human-Machine System Design on Trajectory Level**|Julian Schneider et.al.|[2410.16938](http://arxiv.org/abs/2410.16938)|null|
+|**2024-10-22**|**Pedestrian motion prediction evaluation for urban autonomous driving**|Dmytro Zabolotnii et.al.|[2410.16864](http://arxiv.org/abs/2410.16864)|**[link](https://github.com/dmytrozabolotnii/autoware_mini)**|
+|**2024-10-22**|**Deep-Sea A*+: An Advanced Path Planning Method Integrating Enhanced A* and Dynamic Window Approach for Autonomous Underwater Vehicles**|Yinyi Lai et.al.|[2410.16762](http://arxiv.org/abs/2410.16762)|null|
+|**2024-10-22**|**DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning**|Huang Huang et.al.|[2410.16727](http://arxiv.org/abs/2410.16727)|null|
+|**2024-10-22**|**DARE: Diffusion Policy for Autonomous Robot Exploration**|Yuhong Cao et.al.|[2410.16687](http://arxiv.org/abs/2410.16687)|null|
+|**2024-10-21**|**Automated Planning Domain Inference for Task and Motion Planning**|Jinbang Huang et.al.|[2410.16445](http://arxiv.org/abs/2410.16445)|null|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[2410.15912](http://arxiv.org/abs/2410.15912)|null|
 |**2024-10-21**|**LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration**|Camiel Oerlemans et.al.|[2410.15819](http://arxiv.org/abs/2410.15819)|**[link](https://github.com/cing2/limtr)**|
 |**2024-10-21**|**Efficient Non-Myopic Layered Bayesian Optimization For Large-Scale Bathymetric Informative Path Planning**|Alexander Kiessling et.al.|[2410.15720](http://arxiv.org/abs/2410.15720)|null|
