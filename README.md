@@ -103,6 +103,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
+|**2024-10-23**|**Markov Potential Game with Final-time Reach-Avoid Objectives**|Sarah H. Q. Li et.al.|[2410.17690](http://arxiv.org/abs/2410.17690)|null|
+|**2024-10-23**|**Generalizable Motion Planning via Operator Learning**|Sharath Matada et.al.|[2410.17547](http://arxiv.org/abs/2410.17547)|null|
 |**2024-10-22**|**DyPNIPP: Predicting Environment Dynamics for RL-based Robust Informative Path Planning**|Srujan Deolasee et.al.|[2410.17186](http://arxiv.org/abs/2410.17186)|null|
 |**2024-10-22**|**Towards Map-Agnostic Policies for Adaptive Informative Path Planning**|Julius Rückin et.al.|[2410.17166](http://arxiv.org/abs/2410.17166)|null|
 |**2024-10-22**|**Cooperative Trajectory Planning: Principles for Human-Machine System Design on Trajectory Level**|Julian Schneider et.al.|[2410.16938](http://arxiv.org/abs/2410.16938)|null|
