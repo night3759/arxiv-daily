@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction**|Songbo Yang et.al.|[2410.18742](http://arxiv.org/abs/2410.18742)|null|
 |**2024-10-23**|**Non-myopic Generation of Language Model for Reasoning and Planning**|Chang Ma et.al.|[2410.17195](http://arxiv.org/abs/2410.17195)|null|
 |**2024-10-22**|**Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach**|Pei Liu et.al.|[2410.16795](http://arxiv.org/abs/2410.16795)|null|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[2410.16083](http://arxiv.org/abs/2410.16083)|null|
@@ -67,6 +68,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**Two-Stage Radio Map Construction with Real Environments and Sparse Measurements**|Yifan Wang et.al.|[2410.18092](http://arxiv.org/abs/2410.18092)|null|
 |**2024-10-15**|**Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition**|Dongxie Wen et.al.|[2410.11188](http://arxiv.org/abs/2410.11188)|null|
 |**2024-10-14**|**Exploring Semi-Supervised Learning for Online Mapping**|Adam Lilja et.al.|[2410.10279](http://arxiv.org/abs/2410.10279)|null|
 |**2024-10-10**|**MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction**|Jing Yang et.al.|[2410.07733](http://arxiv.org/abs/2410.07733)|null|
@@ -103,6 +105,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**ANAVI: Audio Noise Awareness using Visuals of Indoor environments for NAVIgation**|Vidhi Jain et.al.|[2410.18932](http://arxiv.org/abs/2410.18932)|null|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
+|**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832](http://arxiv.org/abs/2410.18832)|null|
+|**2024-10-24**|**Online path planning for kinematic-constrained UAVs in a dynamic environment based on a Differential Evolution algorithm**|Elias J. R. Freitas et.al.|[2410.18777](http://arxiv.org/abs/2410.18777)|null|
+|**2024-10-24**|**Search-Based Path Planning among Movable Obstacles**|Zhongqiang Ren et.al.|[2410.18333](http://arxiv.org/abs/2410.18333)|null|
 |**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
 |**2024-10-23**|**Markov Potential Game with Final-time Reach-Avoid Objectives**|Sarah H. Q. Li et.al.|[2410.17690](http://arxiv.org/abs/2410.17690)|null|
 |**2024-10-23**|**Generalizable Motion Planning via Operator Learning**|Sharath Matada et.al.|[2410.17547](http://arxiv.org/abs/2410.17547)|null|
