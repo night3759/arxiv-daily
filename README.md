@@ -123,10 +123,10 @@
 |**2024-10-21**|**Automated Planning Domain Inference for Task and Motion Planning**|Jinbang Huang et.al.|[2410.16445](http://arxiv.org/abs/2410.16445)|null|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[2410.15912](http://arxiv.org/abs/2410.15912)|null|
 |**2024-10-21**|**LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration**|Camiel Oerlemans et.al.|[2410.15819](http://arxiv.org/abs/2410.15819)|**[link](https://github.com/cing2/limtr)**|
-|**2024-10-21**|**Efficient Non-Myopic Layered Bayesian Optimization For Large-Scale Bathymetric Informative Path Planning**|Alexander Kiessling et.al.|[2410.15720](http://arxiv.org/abs/2410.15720)|null|
-|**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|null|
+|**2024-10-21**|**Efficient Non-Myopic Layered Bayesian Optimization For Large-Scale Bathymetric Informative Path Planning**|Alexander Kiessling et.al.|[2410.15720](http://arxiv.org/abs/2410.15720)|**[link](https://github.com/ignaciotb/uwexploration)**|
+|**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|**[link](https://github.com/wycuniverstar/scmp)**|
 |**2024-10-21**|**Reinforced Imitative Trajectory Planning for Urban Automated Driving**|Di Zeng et.al.|[2410.15607](http://arxiv.org/abs/2410.15607)|**[link](https://github.com/zigned/nuplan_zigned)**|
-|**2024-10-20**|**Lie Theory Based Optimization for Unified State Planning of Mobile Manipulators**|William Smith et.al.|[2410.15443](http://arxiv.org/abs/2410.15443)|null|
+|**2024-10-20**|**Lie Theory Based Optimization for Unified State Planning of Mobile Manipulators**|William Smith et.al.|[2410.15443](http://arxiv.org/abs/2410.15443)|**[link](https://github.com/peleito/slithers)**|
 |**2024-10-20**|**A Semi-decentralized and Variational-Equilibrium-Based Trajectory Planner for Connected and Autonomous Vehicles**|Zhengqin Liu et.al.|[2410.15394](http://arxiv.org/abs/2410.15394)|null|
 |**2024-10-19**|**MeshDMP: Motion Planning on Discrete Manifolds using Dynamic Movement Primitives**|Matteo Dalle Vedove et.al.|[2410.15123](http://arxiv.org/abs/2410.15123)|null|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[2410.14996](http://arxiv.org/abs/2410.14996)|null|
@@ -197,7 +197,7 @@
 |**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|Zhutian Yang et.al.|[2410.02193](http://arxiv.org/abs/2410.02193)|null|
 |**2024-10-02**|**Multi-Robot Trajectory Generation via Consensus ADMM: Convex vs. Non-Convex**|Jushan Chen et.al.|[2410.01728](http://arxiv.org/abs/2410.01728)|null|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
-|**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/abs/2410.01345)|null|
+|**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/abs/2410.01345)|**[link](https://github.com/vlc-robot/robot-3dlotus)**|
 |**2024-10-02**|**Towards Efficient Moion Planning for UAVs: Lazy A* Search with Motion Primitives**|Wentao Wang et.al.|[2410.01230](http://arxiv.org/abs/2410.01230)|null|
 |**2024-10-01**|**Collaborative motion planning for multi-manipulator systems through Reinforcement Learning and Dynamic Movement Primitives**|Siddharth Singh et.al.|[2410.00757](http://arxiv.org/abs/2410.00757)|null|
 |**2024-10-01**|**Optimizing Drug Delivery in Smart Pharmacies: A Novel Framework of Multi-Stage Grasping Network Combined with Adaptive Robotics Mechanism**|Rui Tang et.al.|[2410.00753](http://arxiv.org/abs/2410.00753)|null|
