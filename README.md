@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**A time (anti)symmetric approach to the double solution theory**|Pierre Jamet et.al.|[2410.22838](http://arxiv.org/abs/2410.22838)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
 |**2024-10-28**|**Heterogeneous Interaction Modeling With Reduced Accumulated Error for Multi-Agent Trajectory Prediction**|Siyuan Chen et.al.|[2410.21342](http://arxiv.org/abs/2410.21342)|null|
 |**2024-10-25**|**Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**|Kai-Yin Hong et.al.|[2410.19606](http://arxiv.org/abs/2410.19606)|null|
@@ -72,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278](http://arxiv.org/abs/2410.23278)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
 |**2024-10-08**|**Two-Stage Radio Map Construction with Real Environments and Sparse Measurements**|Yifan Wang et.al.|[2410.18092](http://arxiv.org/abs/2410.18092)|null|
 |**2024-10-15**|**Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition**|Dongxie Wen et.al.|[2410.11188](http://arxiv.org/abs/2410.11188)|null|
@@ -110,6 +112,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
+|**2024-10-30**|**V2X-Assisted Distributed Computing and Control Framework for Connected and Automated Vehicles under Ramp Merging Scenario**|Qiong Wu et.al.|[2410.22987](http://arxiv.org/abs/2410.22987)|**[link](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)**|
+|**2024-10-30**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|null|
+|**2024-10-30**|**An Efficient Representation of Whole-body Model Predictive Control for Online Compliant Dual-arm Mobile Manipulation**|Wenqian Du et.al.|[2410.22910](http://arxiv.org/abs/2410.22910)|null|
+|**2024-10-30**|**SoftCTRL: Soft conservative KL-control of Transformer Reinforcement Learning for Autonomous Driving**|Minh Tri Huynh et.al.|[2410.22752](http://arxiv.org/abs/2410.22752)|null|
+|**2024-10-30**|**An Overtaking Trajectory Planning Framework Based on Spatio-temporal Topology and Reachable Set Analysis Ensuring Time Efficiency**|Wule Mao et.al.|[2410.22643](http://arxiv.org/abs/2410.22643)|null|
+|**2024-10-29**|**Continuous-Time Line-of-Sight Constrained Trajectory Planning for 6-Degree of Freedom Systems**|Christopher R. Hayner et.al.|[2410.22596](http://arxiv.org/abs/2410.22596)|null|
+|**2024-10-29**|**Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes**|Yufeng Yang et.al.|[2410.22527](http://arxiv.org/abs/2410.22527)|null|
 |**2024-10-29**|**Local Policies Enable Zero-shot Long-horizon Manipulation**|Murtaza Dalal et.al.|[2410.22332](http://arxiv.org/abs/2410.22332)|null|
 |**2024-10-29**|**CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning**|Weihang Guo et.al.|[2410.22225](http://arxiv.org/abs/2410.22225)|null|
 |**2024-10-29**|**On the Synthesis of Reactive Collision-Free Whole-Body Robot Motions: A Complementarity-based Approach**|Haowen Yao et.al.|[2410.22049](http://arxiv.org/abs/2410.22049)|null|
