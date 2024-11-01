@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**VECTOR: Velocity-Enhanced GRU Neural Network for Real-Time 3D UAV Trajectory Prediction**|Omer Nacar et.al.|[2410.23305](http://arxiv.org/abs/2410.23305)|null|
 |**2024-10-30**|**A time (anti)symmetric approach to the double solution theory**|Pierre Jamet et.al.|[2410.22838](http://arxiv.org/abs/2410.22838)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
 |**2024-10-28**|**Heterogeneous Interaction Modeling With Reduced Accumulated Error for Multi-Agent Trajectory Prediction**|Siyuan Chen et.al.|[2410.21342](http://arxiv.org/abs/2410.21342)|null|
@@ -112,6 +113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|null|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-30**|**V2X-Assisted Distributed Computing and Control Framework for Connected and Automated Vehicles under Ramp Merging Scenario**|Qiong Wu et.al.|[2410.22987](http://arxiv.org/abs/2410.22987)|**[link](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)**|
 |**2024-10-31**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|null|
