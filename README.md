@@ -128,12 +128,12 @@
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
 |**2024-10-29**|**Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation**|Akshaya Agrawal et.al.|[2410.21630](http://arxiv.org/abs/2410.21630)|null|
 |**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|null|
-|**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|null|
+|**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|**[link](https://github.com/lrse-uba/covoxslam)**|
 |**2024-10-28**|**Combining Deep Reinforcement Learning with a Jerk-Bounded Trajectory Generator for Kinematically Constrained Motion Planning**|Seyed Adel Alizadeh Kolagar et.al.|[2410.20907](http://arxiv.org/abs/2410.20907)|null|
 |**2024-10-28**|**Narrow Passage Path Planning using Collision Constraint Interpolation**|Minji Lee et.al.|[2410.20697](http://arxiv.org/abs/2410.20697)|null|
 |**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666](http://arxiv.org/abs/2410.20666)|null|
-|**2024-10-27**|**Generating and Optimizing Topologically Distinct Guesses for Mobile Manipulator Path Planning**|Rufus Cheuk Yin Wong et.al.|[2410.20635](http://arxiv.org/abs/2410.20635)|null|
-|**2024-10-27**|**Uncertainty-Aware Decision-Making and Planning for Autonomous Forced Merging**|Jian Zhou et.al.|[2410.20514](http://arxiv.org/abs/2410.20514)|null|
+|**2024-10-27**|**Generating and Optimizing Topologically Distinct Guesses for Mobile Manipulator Path Planning**|Rufus Cheuk Yin Wong et.al.|[2410.20635](http://arxiv.org/abs/2410.20635)|**[link](https://github.com/rcywongaa/topologically_distinct_guesses)**|
+|**2024-10-27**|**Uncertainty-Aware Decision-Making and Planning for Autonomous Forced Merging**|Jian Zhou et.al.|[2410.20514](http://arxiv.org/abs/2410.20514)|**[link](https://github.com/JianZhou1212/auto-merging)**|
 |**2024-10-27**|**An Optimization-Based Inverse Kinematics Solver for Continuum Manipulators in Intricate Environments**|Yinan Sun et.al.|[2410.20311](http://arxiv.org/abs/2410.20311)|null|
 |**2024-10-26**|**HIRO: Heuristics Informed Robot Online Path Planning Using Pre-computed Deterministic Roadmaps**|Xi Huang et.al.|[2410.20279](http://arxiv.org/abs/2410.20279)|null|
 |**2024-10-26**|**Planning with Learned Subgoals Selected by Temporal Information**|Xi Huang et.al.|[2410.20272](http://arxiv.org/abs/2410.20272)|null|
