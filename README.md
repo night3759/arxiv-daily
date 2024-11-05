@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
+|**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[2411.01909](http://arxiv.org/abs/2411.01909)|null|
+|**2024-11-04**|**Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments**|Thanh Nguyen Canh et.al.|[2411.01814](http://arxiv.org/abs/2411.01814)|null|
+|**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[2411.01475](http://arxiv.org/abs/2411.01475)|null|
+|**2024-10-31**|**Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking**|Pranav Singh Chib et.al.|[2411.00174](http://arxiv.org/abs/2411.00174)|**[link](https://github.com/pranav-chib/trajimpute)**|
 |**2024-10-24**|**VECTOR: Velocity-Enhanced GRU Neural Network for Real-Time 3D UAV Trajectory Prediction**|Omer Nacar et.al.|[2410.23305](http://arxiv.org/abs/2410.23305)|null|
 |**2024-10-30**|**A time (anti)symmetric approach to the double solution theory**|Pierre Jamet et.al.|[2410.22838](http://arxiv.org/abs/2410.22838)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
@@ -74,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-03**|**HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning**|Wenzhao Qiu et.al.|[2411.01408](http://arxiv.org/abs/2411.01408)|null|
 |**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278](http://arxiv.org/abs/2410.23278)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
 |**2024-10-08**|**Two-Stage Radio Map Construction with Real Environments and Sparse Measurements**|Yifan Wang et.al.|[2410.18092](http://arxiv.org/abs/2410.18092)|null|
@@ -113,6 +119,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Reshaping UAV-Enabled Communications with Omnidirectional Multi-Rotor Aerial Vehicles**|Daniel Bonilla Licea et.al.|[2411.01985](http://arxiv.org/abs/2411.01985)|null|
+|**2024-11-04**|**Toward Integrating Semantic-aware Path Planning and Reliable Localization for UAV Operations**|Thanh Nguyen Canh et.al.|[2411.01816](http://arxiv.org/abs/2411.01816)|null|
+|**2024-11-04**|**Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments**|Thanh Nguyen Canh et.al.|[2411.01814](http://arxiv.org/abs/2411.01814)|null|
+|**2024-11-03**|**Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction**|Jingtao Tang et.al.|[2411.01707](http://arxiv.org/abs/2411.01707)|**[link](https://github.com/reso1/ls-mcpp)**|
+|**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[2411.01475](http://arxiv.org/abs/2411.01475)|null|
+|**2024-11-03**|**Wallbounce : Push wall to navigate with Contact-Implicit MPC**|Xiaohan Liu et.al.|[2411.01387](http://arxiv.org/abs/2411.01387)|null|
+|**2024-11-02**|**Mixed-Integer MPC-Based Motion Planning Using Hybrid Zonotopes with Tight Relaxations**|Joshua A. Robbins et.al.|[2411.01286](http://arxiv.org/abs/2411.01286)|null|
+|**2024-11-02**|**Generation of Conservative Dynamical Systems Based on Stiffness Encoding**|Tengyu Hou et.al.|[2411.01120](http://arxiv.org/abs/2411.01120)|null|
+|**2024-11-01**|**NAMR-RRT: Neural Adaptive Motion Planning for Mobile Robots in Dynamic Environments**|Zhirui Sun et.al.|[2411.00440](http://arxiv.org/abs/2411.00440)|null|
+|**2024-11-01**|**An Improved Rapidly Exploring Random Tree Algorithm for Path Planning in Configuration Spaces with Narrow Channels**|Mathew Mithra Noel et.al.|[2411.00357](http://arxiv.org/abs/2411.00357)|null|
 |**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|**[link](https://github.com/saleh-faghfoorian/rl-rrt-kdtree)**|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-30**|**V2X-Assisted Distributed Computing and Control Framework for Connected and Automated Vehicles under Ramp Merging Scenario**|Qiong Wu et.al.|[2410.22987](http://arxiv.org/abs/2410.22987)|**[link](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)**|
