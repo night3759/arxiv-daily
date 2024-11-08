@@ -120,6 +120,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Evaluating Robustness of Reinforcement Learning Algorithms for Autonomous Shipping**|Bavo Lesy et.al.|[2411.04915](http://arxiv.org/abs/2411.04915)|null|
+|**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[2411.04735](http://arxiv.org/abs/2411.04735)|null|
+|**2024-11-07**|**Online Omnidirectional Jumping Trajectory Planning for Quadrupedal Robots on Uneven Terrains**|Linzhu Yue et.al.|[2411.04494](http://arxiv.org/abs/2411.04494)|null|
+|**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
+|**2024-11-07**|**Rapid Quadrotor Navigation in Diverse Environments using an Onboard Depth Camera**|Jonathan Lee et.al.|[2411.04326](http://arxiv.org/abs/2411.04326)|null|
+|**2024-11-06**|**UnityGraph: Unified Learning of Spatio-temporal features for Multi-person Motion Prediction**|Kehua Qu et.al.|[2411.04151](http://arxiv.org/abs/2411.04151)|null|
 |**2024-11-06**|**Select2Plan: Training-Free ICL-Based Planning through VQA and Memory Retrieval**|Davide Buoso et.al.|[2411.04006](http://arxiv.org/abs/2411.04006)|null|
 |**2024-11-06**|**How to Drawjectory? -- Trajectory Planning using Programming by Demonstration**|Leonhard Alkewitz et.al.|[2411.03815](http://arxiv.org/abs/2411.03815)|null|
 |**2024-11-06**|**Relation Learning and Aggregate-attention for Multi-person Motion Prediction**|Kehua Qu et.al.|[2411.03729](http://arxiv.org/abs/2411.03729)|null|
