@@ -130,13 +130,13 @@
 |**2024-11-06**|**How to Drawjectory? -- Trajectory Planning using Programming by Demonstration**|Leonhard Alkewitz et.al.|[2411.03815](http://arxiv.org/abs/2411.03815)|null|
 |**2024-11-06**|**Relation Learning and Aggregate-attention for Multi-person Motion Prediction**|Kehua Qu et.al.|[2411.03729](http://arxiv.org/abs/2411.03729)|null|
 |**2024-11-06**|**Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions**|Chengyang Peng et.al.|[2411.03619](http://arxiv.org/abs/2411.03619)|null|
-|**2024-11-05**|**Accelerating Gaussian Variational Inference for Motion Planning Under Uncertainty**|Zinuo Chang et.al.|[2411.03416](http://arxiv.org/abs/2411.03416)|null|
+|**2024-11-05**|**Accelerating Gaussian Variational Inference for Motion Planning Under Uncertainty**|Zinuo Chang et.al.|[2411.03416](http://arxiv.org/abs/2411.03416)|**[link](https://github.com/hzyu17/vimp)**|
 |**2024-11-05**|**Energy-Aware Predictive Motion Planning for Autonomous Vehicles Using a Hybrid Zonotope Constraint Representation**|Joshua A. Robbins et.al.|[2411.03189](http://arxiv.org/abs/2411.03189)|null|
 |**2024-11-05**|**Communication and Energy-Aware Multi-UAV Coverage Path Planning for Networked Operations**|Mohamed Samshad et.al.|[2411.02772](http://arxiv.org/abs/2411.02772)|null|
 |**2024-11-04**|**Multi-Transmotion: Pre-trained Model for Human Motion Prediction**|Yang Gao et.al.|[2411.02673](http://arxiv.org/abs/2411.02673)|**[link](https://github.com/vita-epfl/multi-transmotion)**|
 |**2024-11-04**|**Reshaping UAV-Enabled Communications with Omnidirectional Multi-Rotor Aerial Vehicles**|Daniel Bonilla Licea et.al.|[2411.01985](http://arxiv.org/abs/2411.01985)|null|
 |**2024-11-04**|**Toward Integrating Semantic-aware Path Planning and Reliable Localization for UAV Operations**|Thanh Nguyen Canh et.al.|[2411.01816](http://arxiv.org/abs/2411.01816)|null|
-|**2024-11-04**|**Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments**|Thanh Nguyen Canh et.al.|[2411.01814](http://arxiv.org/abs/2411.01814)|null|
+|**2024-11-04**|**Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments**|Thanh Nguyen Canh et.al.|[2411.01814](http://arxiv.org/abs/2411.01814)|**[link](https://github.com/thanhnguyencanh/sgan-teb)**|
 |**2024-11-03**|**Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction**|Jingtao Tang et.al.|[2411.01707](http://arxiv.org/abs/2411.01707)|**[link](https://github.com/reso1/ls-mcpp)**|
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[2411.01475](http://arxiv.org/abs/2411.01475)|null|
 |**2024-11-03**|**Wallbounce : Push wall to navigate with Contact-Implicit MPC**|Xiaohan Liu et.al.|[2411.01387](http://arxiv.org/abs/2411.01387)|null|
@@ -158,7 +158,7 @@
 |**2024-10-29**|**On the Synthesis of Reactive Collision-Free Whole-Body Robot Motions: A Complementarity-based Approach**|Haowen Yao et.al.|[2410.22049](http://arxiv.org/abs/2410.22049)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
 |**2024-10-29**|**Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation**|Akshaya Agrawal et.al.|[2410.21630](http://arxiv.org/abs/2410.21630)|null|
-|**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|null|
+|**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|**[link](https://github.com/MSNikken/diffusion)**|
 |**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|**[link](https://github.com/lrse-uba/covoxslam)**|
 |**2024-10-28**|**Combining Deep Reinforcement Learning with a Jerk-Bounded Trajectory Generator for Kinematically Constrained Motion Planning**|Seyed Adel Alizadeh Kolagar et.al.|[2410.20907](http://arxiv.org/abs/2410.20907)|null|
 |**2024-10-28**|**Narrow Passage Path Planning using Collision Constraint Interpolation**|Minji Lee et.al.|[2410.20697](http://arxiv.org/abs/2410.20697)|null|
