@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-09**|**Cross-Domain Transfer Learning using Attention Latent Features for Multi-Agent Trajectory Prediction**|Jia Quan Loh et.al.|[2411.06087](http://arxiv.org/abs/2411.06087)|null|
 |**2024-11-04**|**Multi-Transmotion: Pre-trained Model for Human Motion Prediction**|Yang Gao et.al.|[2411.02673](http://arxiv.org/abs/2411.02673)|**[link](https://github.com/vita-epfl/multi-transmotion)**|
 |**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
 |**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[2411.01909](http://arxiv.org/abs/2411.01909)|null|
@@ -120,6 +122,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters**|Adam Heins et.al.|[2411.07079](http://arxiv.org/abs/2411.07079)|null|
+|**2024-11-11**|**UAV survey coverage path planning of complex regions containing exclusion zones**|Shadman Tajwar Shahid et.al.|[2411.07053](http://arxiv.org/abs/2411.07053)|null|
+|**2024-11-11**|**Automatic Contact-Based 3D Scanning Using Articulated Robotic Arm**|Shadman Tajwar Shahid et.al.|[2411.07047](http://arxiv.org/abs/2411.07047)|null|
+|**2024-11-11**|**Scaling Long-Horizon Online POMDP Planning via Rapid State Space Sampling**|Yuanchu Liang et.al.|[2411.07032](http://arxiv.org/abs/2411.07032)|null|
+|**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang et.al.|[2411.06751](http://arxiv.org/abs/2411.06751)|null|
+|**2024-11-10**|**Results of the 2023 CommonRoad Motion Planning Competition for Autonomous Vehicles**|Niklas Kochdumper et.al.|[2411.06425](http://arxiv.org/abs/2411.06425)|null|
+|**2024-11-10**|**Impact-Aware Robotic Manipulation: Quantifying the Sim-To-Real Gap for Velocity Jumps**|Jari van Steen et.al.|[2411.06319](http://arxiv.org/abs/2411.06319)|null|
+|**2024-11-09**|**Predictability Awareness for Efficient and Robust Multi-Agent Coordination**|Roman Chiva Gil et.al.|[2411.06223](http://arxiv.org/abs/2411.06223)|null|
+|**2024-11-09**|**RRT* Based Optimal Trajectory Generation with Linear Temporal Logic Specifications under Kinodynamic Constraints**|Saksham Gautam et.al.|[2411.06219](http://arxiv.org/abs/2411.06219)|null|
+|**2024-11-09**|**Research on reinforcement learning based warehouse robot navigation algorithm in complex warehouse layout**|Keqin Li et.al.|[2411.06128](http://arxiv.org/abs/2411.06128)|null|
 |**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/abs/2411.05516)|null|
 |**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337](http://arxiv.org/abs/2411.05337)|null|
 |**2024-11-08**|**Path Planning in Complex Environments with Superquadrics and Voronoi-Based Orientation**|Lin Yang et.al.|[2411.05279](http://arxiv.org/abs/2411.05279)|null|
