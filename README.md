@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**C $^{2}$ INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[2411.12313](http://arxiv.org/abs/2411.12313)|null|
 |**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
 |**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[2411.10171](http://arxiv.org/abs/2411.10171)|null|
 |**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[2411.09887](http://arxiv.org/abs/2411.09887)|null|
@@ -87,6 +88,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
+|**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
 |**2024-11-15**|**M3TR: Generalist HD Map Construction with Variable Map Priors**|Fabian Immel et.al.|[2411.10316](http://arxiv.org/abs/2411.10316)|**[link](https://github.com/immel-f/m3tr)**|
 |**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887](http://arxiv.org/abs/2411.08887)|null|
@@ -131,6 +134,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**On-the-Go Path Planning and Repair in Static and Dynamic Scenarios**|Daniel Ajeleye et.al.|[2411.12014](http://arxiv.org/abs/2411.12014)|null|
+|**2024-11-17**|**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**|Zikang Zhou et.al.|[2411.11911](http://arxiv.org/abs/2411.11911)|null|
 |**2024-11-18**|**Differentiable GPU-Parallelized Task and Motion Planning**|William Shen et.al.|[2411.11833](http://arxiv.org/abs/2411.11833)|null|
 |**2024-11-18**|**cHyRRT and cHySST: Two Motion Planning Tools for Hybrid Dynamical Systems**|Beverly Xu et.al.|[2411.11812](http://arxiv.org/abs/2411.11812)|null|
 |**2024-11-18**|**Multi-hop Differential Topology based Algorithms for Resilient Network of UAV Swarm**|Huan Lin et.al.|[2411.11342](http://arxiv.org/abs/2411.11342)|null|
