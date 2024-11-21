@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions**|Jake Buzhardt et.al.|[2411.12940](http://arxiv.org/abs/2411.12940)|null|
 |**2024-11-19**|**C $^{2}$ INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[2411.12313](http://arxiv.org/abs/2411.12313)|null|
 |**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
 |**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[2411.10171](http://arxiv.org/abs/2411.10171)|null|
@@ -134,6 +135,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Dynamically Feasible Path Planning in Cluttered Environments via Reachable Bezier Polytopes**|Noel Csomay-Shanklin et.al.|[2411.13507](http://arxiv.org/abs/2411.13507)|null|
+|**2024-11-20**|**Bezier Reachable Polytopes: Efficient Certificates for Robust Motion Planning with Layered Architectures**|Noel Csomay-Shanklin et.al.|[2411.13506](http://arxiv.org/abs/2411.13506)|null|
+|**2024-11-20**|**REVISE: Robust Probabilistic Motion Planning in a Gaussian Random Field**|Alex Rose et.al.|[2411.13369](http://arxiv.org/abs/2411.13369)|null|
+|**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[2411.13112](http://arxiv.org/abs/2411.13112)|**[link](https://github.com/xiandaguo/drive-mllm)**|
+|**2024-11-20**|**Shrinking POMCP: A Framework for Real-Time UAV Search and Rescue**|Yunuo Zhang et.al.|[2411.12967](http://arxiv.org/abs/2411.12967)|null|
+|**2024-11-20**|**Real-Time Energy-Optimal Path Planning for Electric Vehicles**|Saman Ahmadi et.al.|[2411.12964](http://arxiv.org/abs/2411.12964)|null|
 |**2024-11-18**|**On-the-Go Path Planning and Repair in Static and Dynamic Scenarios**|Daniel Ajeleye et.al.|[2411.12014](http://arxiv.org/abs/2411.12014)|null|
 |**2024-11-17**|**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**|Zikang Zhou et.al.|[2411.11911](http://arxiv.org/abs/2411.11911)|null|
 |**2024-11-18**|**Differentiable GPU-Parallelized Task and Motion Planning**|William Shen et.al.|[2411.11833](http://arxiv.org/abs/2411.11833)|null|
