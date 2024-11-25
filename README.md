@@ -151,8 +151,8 @@
 |**2024-11-18**|**cHyRRT and cHySST: Two Motion Planning Tools for Hybrid Dynamical Systems**|Beverly Xu et.al.|[2411.11812](http://arxiv.org/abs/2411.11812)|null|
 |**2024-11-18**|**Multi-hop Differential Topology based Algorithms for Resilient Network of UAV Swarm**|Huan Lin et.al.|[2411.11342](http://arxiv.org/abs/2411.11342)|null|
 |**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
-|**2024-11-17**|**Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization**|D. Fan et.al.|[2411.10941](http://arxiv.org/abs/2411.10941)|null|
-|**2024-11-16**|**Hierarchical Adaptive Motion Planning with Nonlinear Model Predictive Control for Safety-Critical Collaborative Loco-Manipulation**|Mohsen Sombolestan et.al.|[2411.10699](http://arxiv.org/abs/2411.10699)|null|
+|**2024-11-17**|**Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization**|D. Fan et.al.|[2411.10941](http://arxiv.org/abs/2411.10941)|**[link](https://github.com/Herpderk/parameter-affine-relaxation)**|
+|**2024-11-16**|**Hierarchical Adaptive Motion Planning with Nonlinear Model Predictive Control for Safety-Critical Collaborative Loco-Manipulation**|Mohsen Sombolestan et.al.|[2411.10699](http://arxiv.org/abs/2411.10699)|**[link](https://github.com/drcl-usc/collaborative_loco_manipulation)**|
 |**2024-11-15**|**BMP: Bridging the Gap between B-Spline and Movement Primitives**|Weiran Liao et.al.|[2411.10336](http://arxiv.org/abs/2411.10336)|null|
 |**2024-11-15**|**Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**|Shota Yamazaki et.al.|[2411.09971](http://arxiv.org/abs/2411.09971)|null|
 |**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[2411.09887](http://arxiv.org/abs/2411.09887)|null|
