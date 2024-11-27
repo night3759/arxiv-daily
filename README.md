@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**RealTraj: Towards Real-World Pedestrian Trajectory Forecasting**|Ryo Fujii et.al.|[2411.17376](http://arxiv.org/abs/2411.17376)|null|
+|**2024-11-23**|**FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2411.16747](http://arxiv.org/abs/2411.16747)|null|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
 |**2024-11-21**|**Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning**|Jiange Yang et.al.|[2411.14519](http://arxiv.org/abs/2411.14519)|null|
 |**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403](http://arxiv.org/abs/2411.14403)|null|
@@ -92,7 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-25**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
+|**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
+|**2024-11-26**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
@@ -139,6 +142,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**SIL-RRT*: Learning Sampling Distribution through Self Imitation Learning**|Xuzhe Dang et.al.|[2411.17293](http://arxiv.org/abs/2411.17293)|null|
+|**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
+|**2024-11-26**|**Dynamic Programming-Based Redundancy Resolution for Path Planning of Redundant Manipulators Considering Breakpoints**|Zhihang Yin et.al.|[2411.17034](http://arxiv.org/abs/2411.17034)|null|
+|**2024-11-25**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964](http://arxiv.org/abs/2411.16964)|null|
 |**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
 |**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273](http://arxiv.org/abs/2411.16273)|null|
 |**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
