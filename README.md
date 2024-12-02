@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[2411.19747](http://arxiv.org/abs/2411.19747)|**[link](https://github.com/vita-epfl/stay-on-track)**|
+|**2024-11-28**|**ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection**|Mengya Xu et.al.|[2411.18884](http://arxiv.org/abs/2411.18884)|null|
 |**2024-11-27**|**RealTraj: Towards Real-World Pedestrian Trajectory Forecasting**|Ryo Fujii et.al.|[2411.17376](http://arxiv.org/abs/2411.17376)|null|
 |**2024-11-23**|**FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2411.16747](http://arxiv.org/abs/2411.16747)|null|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
@@ -142,6 +144,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**SANGO: Socially Aware Navigation through Grouped Obstacles**|Rahath Malladi et.al.|[2411.19497](http://arxiv.org/abs/2411.19497)|null|
+|**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
+|**2024-11-28**|**Efficient calculation of time-optimal motion primitives for systems exhibiting oscillatory internal dynamics with multiple applications**|Thomas Auer et.al.|[2411.19148](http://arxiv.org/abs/2411.19148)|null|
+|**2024-11-28**|**Computationally efficient trajectory design from motion primitives for near time-optimal transitions for systems with oscillating internal dynamics**|Thomas Auer et.al.|[2411.19144](http://arxiv.org/abs/2411.19144)|null|
+|**2024-11-28**|**Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**|Wenru Liu et.al.|[2411.18974](http://arxiv.org/abs/2411.18974)|null|
+|**2024-11-28**|**Planning Shorter Paths in Graphs of Convex Sets by Undistorting Parametrized Configuration Spaces**|Shruti Garg et.al.|[2411.18913](http://arxiv.org/abs/2411.18913)|null|
+|**2024-11-28**|**An Integrated Artificial Intelligence Operating System for Advanced Low-Altitude Aviation Applications**|Minzhe Tan et.al.|[2411.18845](http://arxiv.org/abs/2411.18845)|null|
+|**2024-11-27**|**Evaluating Vision-Language Models as Evaluators in Path Planning**|Mohamed Aghzal et.al.|[2411.18711](http://arxiv.org/abs/2411.18711)|null|
 |**2024-11-27**|**Towards Motion Compensation in Autonomous Robotic Subretinal Injections**|Demir Arikan et.al.|[2411.18521](http://arxiv.org/abs/2411.18521)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
 |**2024-11-27**|**SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought**|Aladin Djuhera et.al.|[2411.18212](http://arxiv.org/abs/2411.18212)|null|
