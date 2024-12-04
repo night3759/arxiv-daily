@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**|Ziqian Zou et.al.|[2412.02395](http://arxiv.org/abs/2412.02395)|null|
 |**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[2411.19747](http://arxiv.org/abs/2411.19747)|**[link](https://github.com/vita-epfl/stay-on-track)**|
 |**2024-11-28**|**ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection**|Mengya Xu et.al.|[2411.18884](http://arxiv.org/abs/2411.18884)|null|
 |**2024-11-27**|**RealTraj: Towards Real-World Pedestrian Trajectory Forecasting**|Ryo Fujii et.al.|[2411.17376](http://arxiv.org/abs/2411.17376)|null|
@@ -96,8 +97,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**|Le Zhao et.al.|[2412.01279](http://arxiv.org/abs/2412.01279)|null|
 |**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
-|**2024-12-02**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
+|**2024-12-03**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
@@ -144,6 +146,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Optimizing Plastic Waste Collection in Water Bodies Using Heterogeneous Autonomous Surface Vehicles with Deep Reinforcement Learning**|Alejandro Mendoza Barrionuevo et.al.|[2412.02316](http://arxiv.org/abs/2412.02316)|null|
+|**2024-12-03**|**Self-Supervised Learning-Based Path Planning and Obstacle Avoidance Using PPO and B-Splines in Unknown Environments**|Shahab Shokouhi et.al.|[2412.02176](http://arxiv.org/abs/2412.02176)|null|
+|**2024-12-02**|**PROFIT: A PROximal FIne Tuning Optimizer for Multi-Task Learning**|Anirudh S Chakravarthy et.al.|[2412.01930](http://arxiv.org/abs/2412.01930)|null|
+|**2024-12-02**|**Differential Flatness-based Fast Trajectory Planning for Fixed-wing Unmanned Aerial Vehicles**|Junzhi Li et.al.|[2412.01468](http://arxiv.org/abs/2412.01468)|null|
+|**2024-12-02**|**Real-time Traffic Simulation and Management for Large-scale Urban Air Mobility: Integrating Route Guidance and Collision Avoidance**|Canqiang Weng et.al.|[2412.01235](http://arxiv.org/abs/2412.01235)|null|
+|**2024-12-02**|**Integrating Decision-Making Into Differentiable Optimization Guided Learning for End-to-End Planning of Autonomous Vehicles**|Wenru Liu et.al.|[2412.01234](http://arxiv.org/abs/2412.01234)|null|
+|**2024-12-02**|**A Hybrid Evolutionary Approach for Multi Robot Coordinated Planning at Intersections**|Victor Parque et.al.|[2412.01082](http://arxiv.org/abs/2412.01082)|null|
+|**2024-12-01**|**Adaptive grid-based decomposition for UAV-based coverage path planning in maritime search and rescue**|Sina Kazemdehbashi et.al.|[2412.00899](http://arxiv.org/abs/2412.00899)|null|
+|**2024-12-01**|**QuakeFormer: A Uniform Approach to Earthquake Ground Motion Prediction Using Masked Transformers**|Yitian Feng et.al.|[2412.00815](http://arxiv.org/abs/2412.00815)|null|
 |**2024-11-29**|**SANGO: Socially Aware Navigation through Grouped Obstacles**|Rahath Malladi et.al.|[2411.19497](http://arxiv.org/abs/2411.19497)|null|
 |**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
 |**2024-11-28**|**Efficient calculation of time-optimal motion primitives for systems exhibiting oscillatory internal dynamics with multiple applications**|Thomas Auer et.al.|[2411.19148](http://arxiv.org/abs/2411.19148)|null|
