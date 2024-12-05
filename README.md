@@ -99,7 +99,7 @@
 |---|---|---|---|---|
 |**2024-12-02**|**IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**|Le Zhao et.al.|[2412.01279](http://arxiv.org/abs/2412.01279)|null|
 |**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
-|**2024-12-03**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
+|**2024-12-04**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|**[link](https://github.com/core9724/awesome-lane-detection)**|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
@@ -146,6 +146,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Genetic Algorithm Based System for Path Planning with Unmanned Aerial Vehicles Swarms in Cell-Grid Environments**|Alejandro Puente-Castro et.al.|[2412.03433](http://arxiv.org/abs/2412.03433)|null|
+|**2024-12-04**|**Gaussian Processes for Probabilistic Estimates of Earthquake Ground Shaking: A 1-D Proof-of-Concept**|Sam A. Scivier et.al.|[2412.03299](http://arxiv.org/abs/2412.03299)|**[link](https://github.com/sscivier/gp-prob-earthquake-shaking)**|
+|**2024-12-04**|**Resilient Timed Elastic Band Planner for Collision-Free Navigation in Unknown Environments**|Geesara Kulathunga et.al.|[2412.03174](http://arxiv.org/abs/2412.03174)|null|
 |**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
 |**2024-12-03**|**Optimizing Plastic Waste Collection in Water Bodies Using Heterogeneous Autonomous Surface Vehicles with Deep Reinforcement Learning**|Alejandro Mendoza Barrionuevo et.al.|[2412.02316](http://arxiv.org/abs/2412.02316)|null|
 |**2024-12-03**|**Self-Supervised Learning-Based Path Planning and Obstacle Avoidance Using PPO and B-Splines in Unknown Environments**|Shahab Shokouhi et.al.|[2412.02176](http://arxiv.org/abs/2412.02176)|null|
