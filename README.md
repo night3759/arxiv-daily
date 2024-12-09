@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting**|Haleh Damirchi et.al.|[2412.04673](http://arxiv.org/abs/2412.04673)|**[link](https://github.com/thisishale/socrec)**|
 |**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|**[link](https://github.com/tbaghfalaki/vsjm)**|
 |**2024-12-04**|**Predicting Pedestrian Crossing Behavior in Germany and Japan: Insights into Model Transferability**|Chi Zhang et.al.|[2412.03689](http://arxiv.org/abs/2412.03689)|null|
 |**2024-12-03**|**Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**|Ziqian Zou et.al.|[2412.02395](http://arxiv.org/abs/2412.02395)|null|
@@ -148,6 +149,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Closed-Form Solutions for Minimum-Time Paths of Dubins Airplane in Steady Wind**|Fanchen Wu et.al.|[2412.04797](http://arxiv.org/abs/2412.04797)|null|
 |**2024-12-05**|**A Spatial-Domain Coordinated Control Method for Connected and Automated Vehicles at Unsignalized Intersections Considering Motion Uncertainty**|Tong Zhao et.al.|[2412.04290](http://arxiv.org/abs/2412.04290)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[2412.04209](http://arxiv.org/abs/2412.04209)|null|
 |**2024-12-05**|**Exploring Behaviors of Hybrid Systems via the Voronoi Bias over Output Signals**|Gidon Ernst et.al.|[2412.04203](http://arxiv.org/abs/2412.04203)|null|
