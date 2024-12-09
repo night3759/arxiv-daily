@@ -72,7 +72,7 @@
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[2409.16154](http://arxiv.org/abs/2409.16154)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[2409.15821](http://arxiv.org/abs/2409.15821)|null|
 |**2024-09-27**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
-|**2024-09-25**|**TFT-multi: simultaneous forecasting of vital sign trajectories in the ICU**|Rosemary Y. He et.al.|[2409.15586](http://arxiv.org/abs/2409.15586)|null|
+|**2024-09-25**|**TFT-multi: simultaneous forecasting of vital sign trajectories in the ICU**|Rosemary Y. He et.al.|[2409.15586](http://arxiv.org/abs/2409.15586)|**[link](https://github.com/rosie068/tft-multi)**|
 |**2024-09-23**|**Enhancing Pedestrian Trajectory Prediction with Crowd Trip Information**|Rei Tamaru et.al.|[2409.15224](http://arxiv.org/abs/2409.15224)|**[link](https://github.com/raynbowy23/RNTransformer)**|
 |**2024-09-25**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[2409.15182](http://arxiv.org/abs/2409.15182)|null|
 |**2024-09-23**|**SocialCircle+: Learning the Angle-based Conditioned Interaction Representation for Pedestrian Trajectory Prediction**|Conghao Wong et.al.|[2409.14984](http://arxiv.org/abs/2409.14984)|**[link](https://github.com/cocoon2wong/socialcircleplus)**|
@@ -164,7 +164,7 @@
 |**2024-12-02**|**Real-time Traffic Simulation and Management for Large-scale Urban Air Mobility: Integrating Route Guidance and Collision Avoidance**|Canqiang Weng et.al.|[2412.01235](http://arxiv.org/abs/2412.01235)|null|
 |**2024-12-02**|**Integrating Decision-Making Into Differentiable Optimization Guided Learning for End-to-End Planning of Autonomous Vehicles**|Wenru Liu et.al.|[2412.01234](http://arxiv.org/abs/2412.01234)|null|
 |**2024-12-02**|**A Hybrid Evolutionary Approach for Multi Robot Coordinated Planning at Intersections**|Victor Parque et.al.|[2412.01082](http://arxiv.org/abs/2412.01082)|null|
-|**2024-12-01**|**Adaptive grid-based decomposition for UAV-based coverage path planning in maritime search and rescue**|Sina Kazemdehbashi et.al.|[2412.00899](http://arxiv.org/abs/2412.00899)|null|
+|**2024-12-01**|**Adaptive grid-based decomposition for UAV-based coverage path planning in maritime search and rescue**|Sina Kazemdehbashi et.al.|[2412.00899](http://arxiv.org/abs/2412.00899)|**[link](https://github.com/sina14kd/agd-cpp)**|
 |**2024-12-01**|**QuakeFormer: A Uniform Approach to Earthquake Ground Motion Prediction Using Masked Transformers**|Yitian Feng et.al.|[2412.00815](http://arxiv.org/abs/2412.00815)|null|
 |**2024-11-29**|**SANGO: Socially Aware Navigation through Grouped Obstacles**|Rahath Malladi et.al.|[2411.19497](http://arxiv.org/abs/2411.19497)|null|
 |**2024-11-28**|**Global Tensor Motion Planning**|An T. Le et.al.|[2411.19393](http://arxiv.org/abs/2411.19393)|null|
@@ -180,7 +180,7 @@
 |**2024-11-27**|**A Cost-Effective Approach to Smooth A* Path Planning for Autonomous Vehicles**|Lukas Schichler et.al.|[2411.18150](http://arxiv.org/abs/2411.18150)|null|
 |**2024-11-27**|**DMVC-Tracker: Distributed Multi-Agent Trajectory Planning for Target Tracking Using Dynamic Buffered Voronoi and Inter-Visibility Cells**|Yunwoo Lee et.al.|[2411.18086](http://arxiv.org/abs/2411.18086)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2411.18013](http://arxiv.org/abs/2411.18013)|null|
-|**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[2411.17917](http://arxiv.org/abs/2411.17917)|null|
+|**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[2411.17917](http://arxiv.org/abs/2411.17917)|**[link](https://github.com/michigan-traffic-lab/DECODE)**|
 |**2024-11-26**|**Can LLMs plan paths in the real world?**|Wanyi Chen et.al.|[2411.17912](http://arxiv.org/abs/2411.17912)|null|
 |**2024-11-26**|**Nearest-Neighbourless Asymptotically Optimal Motion Planning with Fully Connected Informed Trees (FCIT*)**|Tyler S. Wilson et.al.|[2411.17902](http://arxiv.org/abs/2411.17902)|null|
 |**2024-11-26**|**SIL-RRT*: Learning Sampling Distribution through Self Imitation Learning**|Xuzhe Dang et.al.|[2411.17293](http://arxiv.org/abs/2411.17293)|null|
@@ -362,7 +362,7 @@
 |**2024-10-09**|**BiC-MPPI: Goal-Pursuing, Sampling-Based Bidirectional Rollout Clustering Path Integral for Trajectory Optimization**|Minchan Jung et.al.|[2410.06493](http://arxiv.org/abs/2410.06493)|**[link](https://github.com/i-ASL/BiC-MPPI)**|
 |**2024-10-08**|**Meta-Learning Augmented MPC for Disturbance-Aware Motion Planning and Control of Quadrotors**|Dženan Lapandić et.al.|[2410.06325](http://arxiv.org/abs/2410.06325)|null|
 |**2024-10-08**|**A General Formulation for Path Constrained Time-Optimized Trajectory Planning with Environmental and Object Contacts**|Dasharadhan Mahalingam et.al.|[2410.06295](http://arxiv.org/abs/2410.06295)|null|
-|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|null|
+|**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[2410.06007](http://arxiv.org/abs/2410.06007)|**[link](https://github.com/fudan-zvg/realmotion)**|
 |**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[2410.05982](http://arxiv.org/abs/2410.05982)|**[link](https://github.com/fudan-zvg/demo)**|
 |**2024-10-07**|**Path planning for multi-quadrotor 3D boundary surveillance using non-autonomous discrete memristor hyperchaotic system**|Harisankar R et.al.|[2410.05215](http://arxiv.org/abs/2410.05215)|null|
 |**2024-10-07**|**State Estimation of Marine Vessels Affected by Waves by Unmanned Aerial Vehicles**|Filip Novák et.al.|[2410.05186](http://arxiv.org/abs/2410.05186)|null|
