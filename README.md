@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**ITPNet: Towards Instantaneous Trajectory Prediction for Autonomous Driving**|Rongqing Li et.al.|[2412.07369](http://arxiv.org/abs/2412.07369)|null|
 |**2024-12-05**|**Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting**|Haleh Damirchi et.al.|[2412.04673](http://arxiv.org/abs/2412.04673)|**[link](https://github.com/thisishale/socrec)**|
 |**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|**[link](https://github.com/tbaghfalaki/vsjm)**|
 |**2024-12-04**|**Predicting Pedestrian Crossing Behavior in Germany and Japan: Insights into Model Transferability**|Chi Zhang et.al.|[2412.03689](http://arxiv.org/abs/2412.03689)|null|
@@ -107,7 +108,7 @@
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
-|**2024-11-15**|**M3TR: Generalist HD Map Construction with Variable Map Priors**|Fabian Immel et.al.|[2411.10316](http://arxiv.org/abs/2411.10316)|**[link](https://github.com/immel-f/m3tr)**|
+|**2024-12-10**|**M3TR: Generalist HD Map Construction with Variable Map Priors**|Fabian Immel et.al.|[2411.10316](http://arxiv.org/abs/2411.10316)|**[link](https://github.com/immel-f/m3tr)**|
 |**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887](http://arxiv.org/abs/2411.08887)|null|
 |**2024-11-13**|**Efficient Trajectory Generation in 3D Environments with Multi-Level Map Construction**|Chengkun Tian et.al.|[2411.08323](http://arxiv.org/abs/2411.08323)|null|
 |**2024-11-03**|**HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning**|Wenzhao Qiu et.al.|[2411.01408](http://arxiv.org/abs/2411.01408)|null|
@@ -150,6 +151,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**RRT-GPMP2: A Motion Planner for Mobile Robots in Complex Maze Environments**|Jiawei Meng et.al.|[2412.07683](http://arxiv.org/abs/2412.07683)|null|
+|**2024-12-10**|**Dynamic Obstacle Avoidance of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Processes Based Motion Planning**|Jiawei Meng et.al.|[2412.07664](http://arxiv.org/abs/2412.07664)|null|
+|**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
+|**2024-12-10**|**Ontology-driven Prompt Tuning for LLM-based Task and Motion Planning**|Muhayy Ud Din et.al.|[2412.07493](http://arxiv.org/abs/2412.07493)|null|
 |**2024-12-09**|**PPT: Pre-Training with Pseudo-Labeled Trajectories for Motion Forecasting**|Yihong Xu et.al.|[2412.06491](http://arxiv.org/abs/2412.06491)|null|
 |**2024-12-09**|**Parameter Adjustments in POMDP-Based Trajectory Planning for Unsignalized Intersections**|Adam Kollarčík adn Zdeněk Hanzálek et.al.|[2412.06405](http://arxiv.org/abs/2412.06405)|null|
 |**2024-12-08**|**Self-supervised cost of transport estimation for multimodal path planning**|Vincent Gherold et.al.|[2412.06101](http://arxiv.org/abs/2412.06101)|null|
