@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
+|**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-10**|**ITPNet: Towards Instantaneous Trajectory Prediction for Autonomous Driving**|Rongqing Li et.al.|[2412.07369](http://arxiv.org/abs/2412.07369)|null|
 |**2024-12-05**|**Socially-Informed Reconstruction for Pedestrian Trajectory Forecasting**|Haleh Damirchi et.al.|[2412.04673](http://arxiv.org/abs/2412.04673)|**[link](https://github.com/thisishale/socrec)**|
 |**2024-12-05**|**A Two-stage Approach for Variable Selection in Joint Modeling of Multiple Longitudinal Markers and Competing Risk Outcomes**|Taban Baghfalaki et.al.|[2412.03797](http://arxiv.org/abs/2412.03797)|**[link](https://github.com/tbaghfalaki/vsjm)**|
@@ -104,7 +106,7 @@
 |**2024-12-07**|**A Scene Representation for Online Spatial Sonification**|Lan Wu et.al.|[2412.05486](http://arxiv.org/abs/2412.05486)|null|
 |**2024-12-02**|**IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**|Le Zhao et.al.|[2412.01279](http://arxiv.org/abs/2412.01279)|null|
 |**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
-|**2024-12-04**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|**[link](https://github.com/core9724/awesome-lane-detection)**|
+|**2024-12-11**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|**[link](https://github.com/core9724/awesome-lane-detection)**|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
@@ -151,6 +153,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
+|**2024-12-11**|**Real-Time Trajectory Generation for Soft Robot Manipulators Using Differential Flatness**|Akua Dickson et.al.|[2412.08568](http://arxiv.org/abs/2412.08568)|null|
+|**2024-12-11**|**SwarmGPT-Primitive: A Language-Driven Choreographer for Drone Swarms Using Safe Motion Primitive Composition**|Vedant Vyas et.al.|[2412.08428](http://arxiv.org/abs/2412.08428)|null|
+|**2024-12-11**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al.|[2412.08121](http://arxiv.org/abs/2412.08121)|null|
+|**2024-12-10**|**Robust Multiple Description Neural Video Codec with Masked Transformer for Dynamic and Noisy Networks**|Xinyue Hu et.al.|[2412.07922](http://arxiv.org/abs/2412.07922)|null|
 |**2024-12-10**|**RRT-GPMP2: A Motion Planner for Mobile Robots in Complex Maze Environments**|Jiawei Meng et.al.|[2412.07683](http://arxiv.org/abs/2412.07683)|null|
 |**2024-12-10**|**Dynamic Obstacle Avoidance of Unmanned Surface Vehicles in Maritime Environments Using Gaussian Processes Based Motion Planning**|Jiawei Meng et.al.|[2412.07664](http://arxiv.org/abs/2412.07664)|null|
 |**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
