@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Temporal-Assisted Beamforming and Trajectory Prediction in Sensing-Enabled UAV Communications**|Shengcai Zhou et.al.|[2412.09097](http://arxiv.org/abs/2412.09097)|null|
 |**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
 |**2024-12-10**|**ITPNet: Towards Instantaneous Trajectory Prediction for Autonomous Driving**|Rongqing Li et.al.|[2412.07369](http://arxiv.org/abs/2412.07369)|null|
@@ -153,6 +154,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
+|**2024-12-12**|**iKap: Kinematics-aware Planning with Imperative Learning**|Qihang Li et.al.|[2412.09496](http://arxiv.org/abs/2412.09496)|null|
+|**2024-12-12**|**Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**|Zhaofeng Tian et.al.|[2412.09424](http://arxiv.org/abs/2412.09424)|null|
+|**2024-12-12**|**Reconfigurable Intelligent Surface for Internet of Robotic Things**|Wanli Ni et.al.|[2412.09117](http://arxiv.org/abs/2412.09117)|null|
+|**2024-12-12**|**Real-Time Algorithms for Game-Theoretic Motion Planning and Control in Autonomous Racing using Near-Potential Function**|Dvij Kalaria et.al.|[2412.08855](http://arxiv.org/abs/2412.08855)|null|
+|**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[2412.08830](http://arxiv.org/abs/2412.08830)|null|
+|**2024-12-11**|**Vision-based indoor localization of nano drones in controlled environment with its applications**|Simranjeet Singh et.al.|[2412.08757](http://arxiv.org/abs/2412.08757)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**Real-Time Trajectory Generation for Soft Robot Manipulators Using Differential Flatness**|Akua Dickson et.al.|[2412.08568](http://arxiv.org/abs/2412.08568)|null|
 |**2024-12-11**|**SwarmGPT-Primitive: A Language-Driven Choreographer for Drone Swarms Using Safe Motion Primitive Composition**|Vedant Vyas et.al.|[2412.08428](http://arxiv.org/abs/2412.08428)|null|
