@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**|Chengyue Wang et.al.|[2412.11682](http://arxiv.org/abs/2412.11682)|null|
 |**2024-12-12**|**Temporal-Assisted Beamforming and Trajectory Prediction in Sensing-Enabled UAV Communications**|Shengcai Zhou et.al.|[2412.09097](http://arxiv.org/abs/2412.09097)|null|
 |**2024-12-13**|**Physical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
 |**2024-12-11**|**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**|Zeshun Li et.al.|[2412.08096](http://arxiv.org/abs/2412.08096)|null|
@@ -156,6 +157,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|null|
+|**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
+|**2024-12-16**|**Multi-Scale Incremental Modeling for Enhanced Human Motion Prediction in Human-Robot Collaboration**|Juncheng Zou et.al.|[2412.11632](http://arxiv.org/abs/2412.11632)|null|
+|**2024-12-16**|**Efficient Avoidance of Ellipsoidal Obstacles with Model Predictive Control for Mobile Robots and Vehicles**|Mario Rosenfelder et.al.|[2412.11552](http://arxiv.org/abs/2412.11552)|null|
+|**2024-12-16**|**Theoretical Analysis of Quality Diversity Algorithms for a Classical Path Planning Problem**|Duc-Cuong Dang et.al.|[2412.11446](http://arxiv.org/abs/2412.11446)|null|
+|**2024-12-15**|**Multi-robot workspace design and motion planning for package sorting**|Peiyu Zeng et.al.|[2412.11281](http://arxiv.org/abs/2412.11281)|null|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**Adaptive Dual-Headway Unicycle Pose Control and Motion Prediction for Optimal Sampling-Based Feedback Motion Planning**|Aykut İşleyen et.al.|[2412.10350](http://arxiv.org/abs/2412.10350)|null|
 |**2024-12-13**|**MeshA*: Efficient Path Planing With Motion Primitives**|Marat Agranovskiy et.al.|[2412.10320](http://arxiv.org/abs/2412.10320)|null|
