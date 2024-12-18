@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction**|Zhenjiang Mao et.al.|[2412.12870](http://arxiv.org/abs/2412.12870)|null|
 |**2024-12-16**|**NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**|Chengyue Wang et.al.|[2412.11682](http://arxiv.org/abs/2412.11682)|null|
 |**2024-12-12**|**Temporal-Assisted Beamforming and Trajectory Prediction in Sensing-Enabled UAV Communications**|Shengcai Zhou et.al.|[2412.09097](http://arxiv.org/abs/2412.09097)|null|
 |**2024-12-13**|**Physical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
@@ -105,6 +107,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert**|Dapeng Zhang et.al.|[2412.12704](http://arxiv.org/abs/2412.12704)|null|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**Optimal Prediction of Multivalued Functions from Point Samples**|Simon Foucart et.al.|[2412.09894](http://arxiv.org/abs/2412.09894)|null|
 |**2024-12-07**|**A Scene Representation for Online Spatial Sonification**|Lan Wu et.al.|[2412.05486](http://arxiv.org/abs/2412.05486)|null|
@@ -157,7 +160,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|null|
+|**2024-12-17**|**Singularity-Free Guiding Vector Field over Bézier's Curves Applied to Rovers Path Planning and Path Following**|Alfredo González-Calvin et.al.|[2412.13033](http://arxiv.org/abs/2412.13033)|null|
+|**2024-12-17**|**Neural-Network-Driven Reward Prediction as a Heuristic: Advancing Q-Learning for Mobile Robot Path Planning**|Yiming Ji et.al.|[2412.12650](http://arxiv.org/abs/2412.12650)|null|
+|**2024-12-17**|**Multi-UAV Collaborative Trajectory Planning for Seamless Data Collection and Transmission**|Rui Wang et.al.|[2412.12494](http://arxiv.org/abs/2412.12494)|null|
+|**2024-12-14**|**Anti-bullying Adaptive Cruise Control: A proactive right-of-way protection approach**|Jia Hu et.al.|[2412.12197](http://arxiv.org/abs/2412.12197)|null|
+|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
 |**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
 |**2024-12-16**|**Multi-Scale Incremental Modeling for Enhanced Human Motion Prediction in Human-Robot Collaboration**|Juncheng Zou et.al.|[2412.11632](http://arxiv.org/abs/2412.11632)|null|
 |**2024-12-16**|**Efficient Avoidance of Ellipsoidal Obstacles with Model Predictive Control for Mobile Robots and Vehicles**|Mario Rosenfelder et.al.|[2412.11552](http://arxiv.org/abs/2412.11552)|null|
