@@ -12,7 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|null|
+|**2024-12-18**|**Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**|Chandra Raskoti et.al.|[2412.13419](http://arxiv.org/abs/2412.13419)|null|
+|**2024-12-17**|**C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction**|Zichen Wang et.al.|[2412.13231](http://arxiv.org/abs/2412.13231)|**[link](https://github.com/wangzc0422/c2f-tp)**|
+|**2024-12-18**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
 |**2024-12-17**|**Towards Physically Interpretable World Models: Meaningful Weakly Supervised Representations for Visual Trajectory Prediction**|Zhenjiang Mao et.al.|[2412.12870](http://arxiv.org/abs/2412.12870)|null|
 |**2024-12-16**|**NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**|Chengyue Wang et.al.|[2412.11682](http://arxiv.org/abs/2412.11682)|null|
 |**2024-12-12**|**Temporal-Assisted Beamforming and Trajectory Prediction in Sensing-Enabled UAV Communications**|Shengcai Zhou et.al.|[2412.09097](http://arxiv.org/abs/2412.09097)|null|
@@ -160,6 +163,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
+|**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[2412.13772](http://arxiv.org/abs/2412.13772)|null|
+|**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|
+|**2024-12-18**|**A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments**|Haochen Niu et.al.|[2412.13664](http://arxiv.org/abs/2412.13664)|null|
+|**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
+|**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
+|**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|null|
 |**2024-12-17**|**Singularity-Free Guiding Vector Field over Bézier's Curves Applied to Rovers Path Planning and Path Following**|Alfredo González-Calvin et.al.|[2412.13033](http://arxiv.org/abs/2412.13033)|null|
 |**2024-12-17**|**Neural-Network-Driven Reward Prediction as a Heuristic: Advancing Q-Learning for Mobile Robot Path Planning**|Yiming Ji et.al.|[2412.12650](http://arxiv.org/abs/2412.12650)|null|
 |**2024-12-17**|**Multi-UAV Collaborative Trajectory Planning for Seamless Data Collection and Transmission**|Rui Wang et.al.|[2412.12494](http://arxiv.org/abs/2412.12494)|null|
