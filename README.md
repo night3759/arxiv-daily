@@ -1,4 +1,4 @@
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[2412.14442](http://arxiv.org/abs/2412.14442)|null|
-|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|null|
+|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
 |**2024-12-18**|**Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**|Chandra Raskoti et.al.|[2412.13419](http://arxiv.org/abs/2412.13419)|null|
 |**2024-12-17**|**C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction**|Zichen Wang et.al.|[2412.13231](http://arxiv.org/abs/2412.13231)|**[link](https://github.com/wangzc0422/c2f-tp)**|
 |**2024-12-18**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
@@ -105,7 +105,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|null|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Perception
 
@@ -158,7 +158,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Planning
 
@@ -170,7 +170,7 @@
 |**2024-12-18**|**A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments**|Haochen Niu et.al.|[2412.13664](http://arxiv.org/abs/2412.13664)|null|
 |**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
 |**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
-|**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|null|
+|**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|**[link](https://github.com/chparkinson/path_plan_manifold_hopf_lax)**|
 |**2024-12-17**|**Singularity-Free Guiding Vector Field over Bézier's Curves Applied to Rovers Path Planning and Path Following**|Alfredo González-Calvin et.al.|[2412.13033](http://arxiv.org/abs/2412.13033)|null|
 |**2024-12-17**|**Neural-Network-Driven Reward Prediction as a Heuristic: Advancing Q-Learning for Mobile Robot Path Planning**|Yiming Ji et.al.|[2412.12650](http://arxiv.org/abs/2412.12650)|null|
 |**2024-12-17**|**Multi-UAV Collaborative Trajectory Planning for Seamless Data Collection and Transmission**|Rui Wang et.al.|[2412.12494](http://arxiv.org/abs/2412.12494)|null|
@@ -530,5 +530,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
