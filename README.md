@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/abs/2412.15673)|null|
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[2412.14442](http://arxiv.org/abs/2412.14442)|**[link](https://github.com/whutpsq/EPN)**|
 |**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
 |**2024-12-18**|**Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**|Chandra Raskoti et.al.|[2412.13419](http://arxiv.org/abs/2412.13419)|null|
