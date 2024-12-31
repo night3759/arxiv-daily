@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[2412.20784](http://arxiv.org/abs/2412.20784)|null|
+|**2024-12-29**|**Subconscious Robotic Imitation Learning**|Jun Xie et.al.|[2412.20368](http://arxiv.org/abs/2412.20368)|null|
 |**2024-12-21**|**Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation**|Sanghyun Son et.al.|[2412.16750](http://arxiv.org/abs/2412.16750)|null|
 |**2024-12-21**|**Effective and Efficient Representation Learning for Flight Trajectories**|Shuo Liu et.al.|[2412.16581](http://arxiv.org/abs/2412.16581)|null|
 |**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/abs/2412.15673)|**[link](https://github.com/aurora-xin/group2int-trajectory)**|
@@ -169,6 +171,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**STITCHER: Real-Time Trajectory Planning with Motion Primitive Search**|Helene J. Levy et.al.|[2412.21180](http://arxiv.org/abs/2412.21180)|null|
+|**2024-12-30**|**Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection**|Gautam Kumar et.al.|[2412.20717](http://arxiv.org/abs/2412.20717)|null|
+|**2024-12-29**|**Exploiting NOMA Transmissions in Multi-UAV-assisted Wireless Networks: From Aerial-RIS to Mode-switching UAVs**|Songhan Zhao et.al.|[2412.20484](http://arxiv.org/abs/2412.20484)|null|
+|**2024-12-29**|**A Predefined-Time Convergent and Noise-Tolerant Zeroing Neural Network Model for Time Variant Quadratic Programming With Application to Robot Motion Planning**|Yi Yang et.al.|[2412.20477](http://arxiv.org/abs/2412.20477)|null|
+|**2024-12-28**|**RFPPO: Motion Dynamic RRT based Fluid Field - PPO for Dynamic TF/TA Routing Planning**|Rongkun Xue et.al.|[2412.20098](http://arxiv.org/abs/2412.20098)|null|
+|**2024-12-28**|**Pushing Blocks via Checkable Gadgets: PSPACE-completeness of Push-1F and Block/Box Dude**|Hayashi Ani et.al.|[2412.20079](http://arxiv.org/abs/2412.20079)|null|
+|**2024-12-27**|**Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models**|J. Carvalho et.al.|[2412.19948](http://arxiv.org/abs/2412.19948)|null|
 |**2024-12-27**|**An Actionable Hierarchical Scene Representation Enhancing Autonomous Inspection Missions in Unknown Environments**|Vignesh Kottayam Viswanathan et.al.|[2412.19582](http://arxiv.org/abs/2412.19582)|null|
 |**2024-12-27**|**xFLIE: Leveraging Actionable Hierarchical Scene Representations for Autonomous Semantic-Aware Inspection Missions**|Vignesh Kottayam Viswanathan et.al.|[2412.19571](http://arxiv.org/abs/2412.19571)|null|
 |**2024-12-27**|**Safe Interval Randomized Path Planing For Manipulators**|Nuraddin Kerimov et.al.|[2412.19567](http://arxiv.org/abs/2412.19567)|null|
