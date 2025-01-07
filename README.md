@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-05**|**Markov Decision Processes for Satellite Maneuver Planning and Collision Avoidance**|William Kuhl et.al.|[2501.02667](http://arxiv.org/abs/2501.02667)|null|
+|**2025-01-05**|**Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations**|Zaikang Lin et.al.|[2501.02409](http://arxiv.org/abs/2501.02409)|null|
 |**2025-01-03**|**Social Processes: Probabilistic Meta-learning for Adaptive Multiparty Interaction Forecasting**|Augustinas Jučas et.al.|[2501.01915](http://arxiv.org/abs/2501.01915)|null|
 |**2025-01-01**|**Spatial Temporal Attention based Target Vehicle Trajectory Prediction for Internet of Vehicles**|Ouhan Huang et.al.|[2501.00890](http://arxiv.org/abs/2501.00890)|null|
 |**2024-12-30**|**TrajLearn: Trajectory Prediction Learning using Deep Generative Models**|Amirhossein Nadiri et.al.|[2501.00184](http://arxiv.org/abs/2501.00184)|**[link](https://github.com/amir-ni/trajectory-prediction)**|
@@ -119,6 +121,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
 |**2024-12-22**|**ImagineMap: Enhanced HD Map Construction with SD Maps**|Yishen Ji et.al.|[2412.16938](http://arxiv.org/abs/2412.16938)|null|
@@ -175,6 +178,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
+|**2025-01-06**|**Enhancing Lifelong Multi-Agent Path Finding with Cache Mechanism**|Yimin Tang et.al.|[2501.02803](http://arxiv.org/abs/2501.02803)|null|
+|**2025-01-06**|**Multi-Agent Path Finding under Limited Communication Range Constraint via Dynamic Leading**|Hoang-Dung Bui et.al.|[2501.02770](http://arxiv.org/abs/2501.02770)|null|
+|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[2501.02530](http://arxiv.org/abs/2501.02530)|null|
+|**2025-01-05**|**Blockage-Aware UAV-Assisted Wireless Data Harvesting With Building Avoidance**|Gitae Park et.al.|[2501.02453](http://arxiv.org/abs/2501.02453)|null|
+|**2025-01-04**|**Securing Integrated Sensing and Communication Against a Mobile Adversary: A Stackelberg Game with Deep Reinforcement Learning**|Milad Tatar Mamaghani et.al.|[2501.02271](http://arxiv.org/abs/2501.02271)|null|
 |**2025-01-03**|**TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation**|Dongkyu Lee et.al.|[2501.01806](http://arxiv.org/abs/2501.01806)|null|
 |**2025-01-02**|**K-ARC: Adaptive Robot Coordination for Multi-Robot Kinodynamic Planning**|Mike Qin et.al.|[2501.01559](http://arxiv.org/abs/2501.01559)|null|
 |**2025-01-01**|**Advances in UAV Avionics Systems Architecture, Classification and Integration: A Comprehensive Review and Future Perspectives**|Hashim A. Hashim et.al.|[2501.00856](http://arxiv.org/abs/2501.00856)|null|
