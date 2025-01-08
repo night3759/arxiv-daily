@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
 |**2025-01-05**|**Markov Decision Processes for Satellite Maneuver Planning and Collision Avoidance**|William Kuhl et.al.|[2501.02667](http://arxiv.org/abs/2501.02667)|null|
 |**2025-01-05**|**Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations**|Zaikang Lin et.al.|[2501.02409](http://arxiv.org/abs/2501.02409)|null|
 |**2025-01-03**|**Social Processes: Probabilistic Meta-learning for Adaptive Multiparty Interaction Forecasting**|Augustinas Jučas et.al.|[2501.01915](http://arxiv.org/abs/2501.01915)|null|
@@ -178,6 +179,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|null|
+|**2025-01-03**|**Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning with Kinematic Constraints**|Thi Thuy Ngan Duong et.al.|[2501.03261](http://arxiv.org/abs/2501.03261)|**[link](https://github.com/ngandng/nmopso)**|
 |**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
 |**2025-01-06**|**Enhancing Lifelong Multi-Agent Path Finding with Cache Mechanism**|Yimin Tang et.al.|[2501.02803](http://arxiv.org/abs/2501.02803)|null|
 |**2025-01-06**|**Multi-Agent Path Finding under Limited Communication Range Constraint via Dynamic Leading**|Hoang-Dung Bui et.al.|[2501.02770](http://arxiv.org/abs/2501.02770)|null|
