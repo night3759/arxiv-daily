@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Frenet-Serret-Based Trajectory Prediction**|Shashank Verma et.al.|[2501.04273](http://arxiv.org/abs/2501.04273)|null|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
 |**2025-01-05**|**Markov Decision Processes for Satellite Maneuver Planning and Collision Avoidance**|William Kuhl et.al.|[2501.02667](http://arxiv.org/abs/2501.02667)|null|
 |**2025-01-05**|**Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations**|Zaikang Lin et.al.|[2501.02409](http://arxiv.org/abs/2501.02409)|null|
@@ -179,6 +180,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**A Survey on Path Planning Problem of Rolling Contacts: Approaches, Applications and Future Challenges**|Seyed Amir Tafrishi et.al.|[2501.04442](http://arxiv.org/abs/2501.04442)|null|
 |**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|null|
 |**2025-01-03**|**Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning with Kinematic Constraints**|Thi Thuy Ngan Duong et.al.|[2501.03261](http://arxiv.org/abs/2501.03261)|**[link](https://github.com/ngandng/nmopso)**|
 |**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
