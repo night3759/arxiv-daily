@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Towards Generalizable Trajectory Prediction Using Dual-Level Representation Learning And Adaptive Prompting**|Kaouther Messaoud et.al.|[2501.04815](http://arxiv.org/abs/2501.04815)|null|
 |**2025-01-08**|**Frenet-Serret-Based Trajectory Prediction**|Shashank Verma et.al.|[2501.04273](http://arxiv.org/abs/2501.04273)|null|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
 |**2025-01-05**|**Markov Decision Processes for Satellite Maneuver Planning and Collision Avoidance**|William Kuhl et.al.|[2501.02667](http://arxiv.org/abs/2501.02667)|null|
@@ -123,6 +124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**RadioTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190](http://arxiv.org/abs/2501.05190)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
 |**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
@@ -180,6 +182,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**|Wei Liu et.al.|[2501.05411](http://arxiv.org/abs/2501.05411)|null|
+|**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[2501.05132](http://arxiv.org/abs/2501.05132)|null|
+|**2025-01-09**|**A Fast Path-Planning Method for Continuous Harvesting of Table-Top Grown Strawberries**|Zhonghua Miao et.al.|[2501.05004](http://arxiv.org/abs/2501.05004)|null|
+|**2025-01-09**|**Intelligent Sailing Model for Open Sea Navigation**|Hanna Krasowski et.al.|[2501.04988](http://arxiv.org/abs/2501.04988)|null|
 |**2025-01-08**|**A Survey on Path Planning Problem of Rolling Contacts: Approaches, Applications and Future Challenges**|Seyed Amir Tafrishi et.al.|[2501.04442](http://arxiv.org/abs/2501.04442)|null|
 |**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|null|
 |**2025-01-03**|**Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning with Kinematic Constraints**|Thi Thuy Ngan Duong et.al.|[2501.03261](http://arxiv.org/abs/2501.03261)|**[link](https://github.com/ngandng/nmopso)**|
