@@ -13,7 +13,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-13**|**Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights**|Jiajia Xie et.al.|[2501.07711](http://arxiv.org/abs/2501.07711)|null|
-|**2025-01-11**|**Learning dynamical systems with hit-and-run random feature maps**|Pinak Mandal et.al.|[2501.06661](http://arxiv.org/abs/2501.06661)|null|
+|**2025-01-11**|**Learning dynamical systems with hit-and-run random feature maps**|Pinak Mandal et.al.|[2501.06661](http://arxiv.org/abs/2501.06661)|**[link](https://github.com/pinakm9/deeprfm)**|
 |**2025-01-08**|**Towards Generalizable Trajectory Prediction Using Dual-Level Representation Learning And Adaptive Prompting**|Kaouther Messaoud et.al.|[2501.04815](http://arxiv.org/abs/2501.04815)|null|
 |**2025-01-08**|**Frenet-Serret-Based Trajectory Prediction**|Shashank Verma et.al.|[2501.04273](http://arxiv.org/abs/2501.04273)|null|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
@@ -185,6 +185,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[2501.08861](http://arxiv.org/abs/2501.08861)|null|
 |**2025-01-14**|**Data-driven Spatial Classification using Multi-Arm Bandits for Monitoring with Energy-Constrained Mobile Robots**|Xiaoshan Lin et.al.|[2501.08222](http://arxiv.org/abs/2501.08222)|null|
 |**2025-01-13**|**Fast-Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Sensor Information**|Srinivas Kachavarapu et.al.|[2501.07343](http://arxiv.org/abs/2501.07343)|null|
 |**2025-01-12**|**From Simulation to Field: Learning Terrain Traversability for Real-World Deployment**|Fetullah Atas et.al.|[2501.06904](http://arxiv.org/abs/2501.06904)|null|
@@ -192,7 +193,7 @@
 |**2025-01-11**|**Enhancing Path Planning Performance through Image Representation Learning of High-Dimensional Configuration Spaces**|Jorge Ocampo Jimenez et.al.|[2501.06639](http://arxiv.org/abs/2501.06639)|null|
 |**2025-01-14**|**Cooperative Aerial Robot Inspection Challenge: A Benchmark for Heterogeneous Multi-UAV Planning and Lessons Learned**|Muqing Cao et.al.|[2501.06566](http://arxiv.org/abs/2501.06566)|null|
 |**2025-01-11**|**Whole-Body Integrated Motion Planning for Aerial Manipulators**|Weiliang Deng et.al.|[2501.06493](http://arxiv.org/abs/2501.06493)|null|
-|**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|null|
+|**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|**[link](https://github.com/henryhcliu/codrivevlm)**|
 |**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
 |**2025-01-10**|**Path Planning for Multi-Copter UAV Formation Employing a Generalized Particle Swarm Optimization**|Van Truong Hoang et.al.|[2501.05770](http://arxiv.org/abs/2501.05770)|null|
 |**2025-01-09**|**Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**|Wei Liu et.al.|[2501.05411](http://arxiv.org/abs/2501.05411)|null|
