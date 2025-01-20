@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction**|Izzeddin Teeti et.al.|[2501.09878](http://arxiv.org/abs/2501.09878)|null|
 |**2025-01-13**|**Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights**|Jiajia Xie et.al.|[2501.07711](http://arxiv.org/abs/2501.07711)|null|
 |**2025-01-11**|**Learning dynamical systems with hit-and-run random feature maps**|Pinak Mandal et.al.|[2501.06661](http://arxiv.org/abs/2501.06661)|**[link](https://github.com/pinakm9/deeprfm)**|
 |**2025-01-08**|**Towards Generalizable Trajectory Prediction Using Dual-Level Representation Learning And Adaptive Prompting**|Kaouther Messaoud et.al.|[2501.04815](http://arxiv.org/abs/2501.04815)|null|
@@ -185,6 +186,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Actively Coupled Sensor Configuration and Planning in Unknown Dynamic Environments**|Prakash Poudel et.al.|[2501.10236](http://arxiv.org/abs/2501.10236)|null|
+|**2025-01-17**|**Enhancing UAV Path Planning Efficiency Through Accelerated Learning**|Joseanne Viana et.al.|[2501.10141](http://arxiv.org/abs/2501.10141)|null|
+|**2025-01-17**|**Minimum-Time Sequential Traversal by a Team of Small Unmanned Aerial Vehicles in an Unknown Environment with Winds**|Jeffrey A. DesRoches et.al.|[2501.09944](http://arxiv.org/abs/2501.09944)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**Monte Carlo Tree Search with Velocity Obstacles for safe and efficient motion planning in dynamic environments**|Lorenzo Bonanni et.al.|[2501.09649](http://arxiv.org/abs/2501.09649)|null|
 |**2025-01-16**|**Path Planning for a UAV Swarm Using Formation Teaching-Learning-Based Optimization**|Van Truong Hoang et.al.|[2501.09357](http://arxiv.org/abs/2501.09357)|null|
