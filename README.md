@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
+|**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[2501.11260](http://arxiv.org/abs/2501.11260)|null|
 |**2025-01-16**|**ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction**|Izzeddin Teeti et.al.|[2501.09878](http://arxiv.org/abs/2501.09878)|null|
 |**2025-01-13**|**Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights**|Jiajia Xie et.al.|[2501.07711](http://arxiv.org/abs/2501.07711)|null|
 |**2025-01-11**|**Learning dynamical systems with hit-and-run random feature maps**|Pinak Mandal et.al.|[2501.06661](http://arxiv.org/abs/2501.06661)|**[link](https://github.com/pinakm9/deeprfm)**|
@@ -186,6 +188,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Multi-Agent Feedback Motion Planning using Probably Approximately Correct Nonlinear Model Predictive Control**|Mark Gonzales et.al.|[2501.12234](http://arxiv.org/abs/2501.12234)|null|
+|**2025-01-20**|**An Incremental Sampling and Segmentation-Based Approach for Motion Planning Infeasibility**|Antony Thomas et.al.|[2501.11434](http://arxiv.org/abs/2501.11434)|null|
+|**2025-01-20**|**An Analysis of the Correctness and Computational Complexity of Path Planning in Payment Channel Networks**|Padraig Corcoran et.al.|[2501.11419](http://arxiv.org/abs/2501.11419)|null|
+|**2025-01-19**|**Front Hair Styling Robot System Using Path Planning for Root-Centric Strand Adjustment**|Soonhyo Kim et.al.|[2501.10991](http://arxiv.org/abs/2501.10991)|null|
+|**2025-01-18**|**Systems Engineering for Autonomous Vehicles; Supervising AI using Large Language Models (SSuperLLM)**|Diomidis Katzourakis et.al.|[2501.10839](http://arxiv.org/abs/2501.10839)|null|
+|**2025-01-18**|**Graph Coloring to Reduce Computation Time in Prioritized Planning**|Patrick Scheffe et.al.|[2501.10812](http://arxiv.org/abs/2501.10812)|null|
+|**2025-01-18**|**Simultaneous Computation with Multiple Prioritizations in Multi-Agent Motion Planning**|Patrick Scheffe et.al.|[2501.10781](http://arxiv.org/abs/2501.10781)|null|
+|**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[2501.10636](http://arxiv.org/abs/2501.10636)|null|
+|**2025-01-18**|**RoMu4o: A Robotic Manipulation Unit For Orchard Operations Automating Proximal Hyperspectral Leaf Sensing**|Mehrad Mortazavi et.al.|[2501.10621](http://arxiv.org/abs/2501.10621)|**[link](https://github.com/mehradmrt/ucm-agbot-ros2)**|
+|**2025-01-17**|**Tailwind turbulence: a bound on the energy available from turbulence for transit, tested in Kraichnan's model**|Scott A. Bollt et.al.|[2501.10569](http://arxiv.org/abs/2501.10569)|null|
 |**2025-01-17**|**Actively Coupled Sensor Configuration and Planning in Unknown Dynamic Environments**|Prakash Poudel et.al.|[2501.10236](http://arxiv.org/abs/2501.10236)|null|
 |**2025-01-17**|**Enhancing UAV Path Planning Efficiency Through Accelerated Learning**|Joseanne Viana et.al.|[2501.10141](http://arxiv.org/abs/2501.10141)|null|
 |**2025-01-17**|**Minimum-Time Sequential Traversal by a Team of Small Unmanned Aerial Vehicles in an Unknown Environment with Winds**|Jeffrey A. DesRoches et.al.|[2501.09944](http://arxiv.org/abs/2501.09944)|null|
