@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**|Mitch Kosieradzki et.al.|[2501.14266](http://arxiv.org/abs/2501.14266)|**[link](https://github.com/kosieram21/trajflow)**|
+|**2025-01-22**|**A Spatio-temporal Graph Network Allowing Incomplete Trajectory Input for Pedestrian Trajectory Prediction**|Juncen Long et.al.|[2501.13973](http://arxiv.org/abs/2501.13973)|null|
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
 |**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
@@ -191,6 +193,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**QuIP: Experimental design for expensive simulators with many Qualitative factors via Integer Programming**|Yen-Chun Liu et.al.|[2501.14616](http://arxiv.org/abs/2501.14616)|null|
+|**2025-01-24**|**Robustified Time-optimal Point-to-point Motion Planning and Control under Uncertainty**|Shuhao Zhang et.al.|[2501.14526](http://arxiv.org/abs/2501.14526)|null|
+|**2025-01-24**|**Benchmarking global optimization techniques for unmanned aerial vehicle path planning**|Mhd Ali Shehadeh et.al.|[2501.14503](http://arxiv.org/abs/2501.14503)|null|
+|**2025-01-24**|**TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**|Mitch Kosieradzki et.al.|[2501.14266](http://arxiv.org/abs/2501.14266)|**[link](https://github.com/kosieram21/trajflow)**|
+|**2025-01-24**|**Leveraging three-dimensionality for navigation in bluff-body wakes**|Vedasri Godavarthi et.al.|[2501.14160](http://arxiv.org/abs/2501.14160)|null|
 |**2025-01-23**|**Temporal Logic Guided Safe Navigation for Autonomous Vehicles**|Aditya Parameshwaran et.al.|[2501.13817](http://arxiv.org/abs/2501.13817)|null|
 |**2025-01-23**|**Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model**|Michail Mathioudakis et.al.|[2501.13804](http://arxiv.org/abs/2501.13804)|null|
 |**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457](http://arxiv.org/abs/2501.13457)|null|
