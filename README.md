@@ -118,7 +118,7 @@
 |**2024-09-09**|**Online Residual Learning from Offline Experts for Pedestrian Tracking**|Anastasios Vlachos et.al.|[2409.04069](http://arxiv.org/abs/2409.04069)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
-|**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/abs/2409.01971)|null|
+|**2024-09-03**|**Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments**|Nico Uhlemann et.al.|[2409.01971](http://arxiv.org/abs/2409.01971)|**[link](https://github.com/tumftm/snapshot)**|
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[2409.00904](http://arxiv.org/abs/2409.00904)|null|
 |**2024-09-01**|**SITUATE: Indoor Human Trajectory Prediction through Geometric Features and Self-Supervised Vision Representation**|Luigi Capogrosso et.al.|[2409.00774](http://arxiv.org/abs/2409.00774)|**[link](https://github.com/intelligolabs/situate)**|
 |**2024-09-01**|**Roundabout Dilemma Zone Data Mining and Forecasting with Trajectory Prediction and Graph Neural Networks**|Manthan Chelenahalli Satish et.al.|[2409.00622](http://arxiv.org/abs/2409.00622)|null|
@@ -213,7 +213,7 @@
 |**2025-01-16**|**Monte Carlo Tree Search with Velocity Obstacles for safe and efficient motion planning in dynamic environments**|Lorenzo Bonanni et.al.|[2501.09649](http://arxiv.org/abs/2501.09649)|null|
 |**2025-01-16**|**Path Planning for a UAV Swarm Using Formation Teaching-Learning-Based Optimization**|Van Truong Hoang et.al.|[2501.09357](http://arxiv.org/abs/2501.09357)|null|
 |**2025-01-16**|**Robust UAV Path Planning with Obstacle Avoidance for Emergency Rescue**|Junteng Mao et.al.|[2501.09338](http://arxiv.org/abs/2501.09338)|null|
-|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|null|
+|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|**[link](https://github.com/xiaoshanzhou624/a-star-with-gui-for-human-inputs)**|
 |**2025-01-15**|**Combining Movement Primitives with Contraction Theory**|Moses C. Nah et.al.|[2501.09198](http://arxiv.org/abs/2501.09198)|null|
 |**2025-01-15**|**Estimation-Aware Trajectory Optimization with Set-Valued Measurement Uncertainties**|Aditya Deole et.al.|[2501.09192](http://arxiv.org/abs/2501.09192)|null|
 |**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[2501.08861](http://arxiv.org/abs/2501.08861)|null|
@@ -274,7 +274,7 @@
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[2412.13772](http://arxiv.org/abs/2412.13772)|null|
 |**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|
-|**2024-12-18**|**A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments**|Haochen Niu et.al.|[2412.13664](http://arxiv.org/abs/2412.13664)|null|
+|**2024-12-18**|**A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments**|Haochen Niu et.al.|[2412.13664](http://arxiv.org/abs/2412.13664)|**[link](https://github.com/haochen-niu/stgplanner)**|
 |**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
 |**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
 |**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|**[link](https://github.com/chparkinson/path_plan_manifold_hopf_lax)**|
