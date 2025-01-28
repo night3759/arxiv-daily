@@ -1,4 +1,4 @@
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2025-01-22**|**A Spatio-temporal Graph Network Allowing Incomplete Trajectory Input for Pedestrian Trajectory Prediction**|Juncen Long et.al.|[2501.13973](http://arxiv.org/abs/2501.13973)|null|
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
 |**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[2501.11260](http://arxiv.org/abs/2501.11260)|null|
 |**2025-01-16**|**ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction**|Izzeddin Teeti et.al.|[2501.09878](http://arxiv.org/abs/2501.09878)|null|
 |**2025-01-13**|**Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights**|Jiajia Xie et.al.|[2501.07711](http://arxiv.org/abs/2501.07711)|null|
@@ -127,7 +127,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 ## Perception
 
@@ -187,7 +187,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 ## Planning
 
@@ -201,7 +201,7 @@
 |**2025-01-23**|**Temporal Logic Guided Safe Navigation for Autonomous Vehicles**|Aditya Parameshwaran et.al.|[2501.13817](http://arxiv.org/abs/2501.13817)|null|
 |**2025-01-23**|**Towards Real-World Validation of a Physics-Based Ship Motion Prediction Model**|Michail Mathioudakis et.al.|[2501.13804](http://arxiv.org/abs/2501.13804)|null|
 |**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457](http://arxiv.org/abs/2501.13457)|null|
-|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|**[link](https://github.com/khenryaegis/vulnbot)**|
 |**2025-01-22**|**Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**|Xiaolei Chen et.al.|[2501.12799](http://arxiv.org/abs/2501.12799)|null|
 |**2025-01-21**|**Multi-Agent Feedback Motion Planning using Probably Approximately Correct Nonlinear Model Predictive Control**|Mark Gonzales et.al.|[2501.12234](http://arxiv.org/abs/2501.12234)|null|
 |**2025-01-20**|**An Incremental Sampling and Segmentation-Based Approach for Motion Planning Infeasibility**|Antony Thomas et.al.|[2501.11434](http://arxiv.org/abs/2501.11434)|null|
@@ -644,5 +644,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
