@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Beyond In-Distribution Performance: A Cross-Dataset Study of Trajectory Prediction Robustness**|Yue Yao et.al.|[2501.15842](http://arxiv.org/abs/2501.15842)|null|
 |**2025-01-24**|**TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**|Mitch Kosieradzki et.al.|[2501.14266](http://arxiv.org/abs/2501.14266)|**[link](https://github.com/kosieram21/trajflow)**|
 |**2025-01-22**|**A Spatio-temporal Graph Network Allowing Incomplete Trajectory Input for Pedestrian Trajectory Prediction**|Juncen Long et.al.|[2501.13973](http://arxiv.org/abs/2501.13973)|null|
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848](http://arxiv.org/abs/2501.13848)|null|
@@ -193,7 +194,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-24**|**QuIP: Experimental design for expensive simulators with many Qualitative factors via Integer Programming**|Yen-Chun Liu et.al.|[2501.14616](http://arxiv.org/abs/2501.14616)|null|
+|**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
+|**2025-01-27**|**Robust Mobile Robot Path Planning via LLM-Based Dynamic Waypoint Generation**|Muhammad Taha Tariq et.al.|[2501.15901](http://arxiv.org/abs/2501.15901)|null|
+|**2025-01-27**|**The Components of Collaborative Joint Perception and Prediction -- A Conceptual Framework**|Lei Wan et.al.|[2501.15860](http://arxiv.org/abs/2501.15860)|null|
+|**2025-01-27**|**Navigation Framework for Blind and Visually Impaired Persons based on Sensor Fusion**|Chathurika S. Silva et.al.|[2501.15819](http://arxiv.org/abs/2501.15819)|null|
+|**2025-01-25**|**Safe and Agile Transportation of Cable-Suspended Payload via Multiple Aerial Robots**|Yongchao Wang et.al.|[2501.15272](http://arxiv.org/abs/2501.15272)|null|
+|**2025-01-25**|**Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning**|Junfeng Tang et.al.|[2501.15214](http://arxiv.org/abs/2501.15214)|null|
+|**2025-01-25**|**Understanding via Gaze: Gaze-based Task Decomposition for Imitation Learning of Robot Manipulation**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|null|
+|**2025-01-27**|**QuIP: Experimental design for expensive simulators with many Qualitative factors via Integer Programming**|Yen-Chun Liu et.al.|[2501.14616](http://arxiv.org/abs/2501.14616)|null|
 |**2025-01-24**|**Robustified Time-optimal Point-to-point Motion Planning and Control under Uncertainty**|Shuhao Zhang et.al.|[2501.14526](http://arxiv.org/abs/2501.14526)|null|
 |**2025-01-24**|**Benchmarking global optimization techniques for unmanned aerial vehicle path planning**|Mhd Ali Shehadeh et.al.|[2501.14503](http://arxiv.org/abs/2501.14503)|null|
 |**2025-01-24**|**TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows**|Mitch Kosieradzki et.al.|[2501.14266](http://arxiv.org/abs/2501.14266)|**[link](https://github.com/kosieram21/trajflow)**|
