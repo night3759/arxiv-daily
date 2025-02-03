@@ -201,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Agile and Cooperative Aerial Manipulation of a Cable-Suspended Load**|Sihao Sun et.al.|[2501.18802](http://arxiv.org/abs/2501.18802)|null|
 |**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505](http://arxiv.org/abs/2501.18505)|**[link](https://github.com/rpirobotics/cuspidal-path-planning)**|
 |**2025-01-30**|**Dual-BEV Nav: Dual-layer BEV-based Heuristic Path Planning for Robotic Navigation in Unstructured Outdoor Environments**|Jianfeng Zhang et.al.|[2501.18351](http://arxiv.org/abs/2501.18351)|null|
 |**2025-01-30**|**GPD: Guided Polynomial Diffusion for Motion Planning**|Ajit Srikanth et.al.|[2501.18229](http://arxiv.org/abs/2501.18229)|null|
