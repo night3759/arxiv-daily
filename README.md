@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2502.02504](http://arxiv.org/abs/2502.02504)|null|
+|**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
+|**2025-02-03**|**Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments**|Mingi Jeong et.al.|[2502.01041](http://arxiv.org/abs/2502.01041)|null|
+|**2025-02-03**|**Wizard of Shopping: Target-Oriented E-commerce Dialogue Generation with Decision Tree Branching**|Xiangci Li et.al.|[2502.00969](http://arxiv.org/abs/2502.00969)|null|
+|**2025-01-28**|**DISC: Dataset for Analyzing Driving Styles In Simulated Crashes for Mixed Autonomy**|Sandip Sharan Senthil Kumar et.al.|[2502.00050](http://arxiv.org/abs/2502.00050)|null|
 |**2025-01-30**|**Pathways to Bubble and Skyrmion Lattice Formation in Fe/Gd Multilayers**|Tim Titze et.al.|[2501.18459](http://arxiv.org/abs/2501.18459)|null|
 |**2025-01-29**|**Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction**|Kaiwei Luo et.al.|[2501.17459](http://arxiv.org/abs/2501.17459)|null|
 |**2025-01-28**|**Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**|Pengfei Zhu et.al.|[2501.16767](http://arxiv.org/abs/2501.16767)|null|
@@ -201,6 +206,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
+|**2025-02-04**|**Human-Aided Trajectory Planning for Automated Vehicles through Teleoperation and Arbitration Graphs**|Nick Le Large et.al.|[2502.02207](http://arxiv.org/abs/2502.02207)|null|
+|**2025-02-04**|**Risk-Aware Driving Scenario Analysis with Large Language Models**|Yuan Gao et.al.|[2502.02145](http://arxiv.org/abs/2502.02145)|null|
+|**2025-02-04**|**RAPID: Robust and Agile Planner Using Inverse Reinforcement Learning for Vision-Based Drone Navigation**|Minwoo Kim et.al.|[2502.02054](http://arxiv.org/abs/2502.02054)|null|
+|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[2502.02025](http://arxiv.org/abs/2502.02025)|null|
+|**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[2502.01937](http://arxiv.org/abs/2502.01937)|null|
+|**2025-02-04**|**Wake-Informed 3D Path Planning for Autonomous Underwater Vehicles Using A* and Neural Network Approximations**|Zachary Cooper-Baldock et.al.|[2502.01918](http://arxiv.org/abs/2502.01918)|null|
+|**2025-02-03**|**Robot Cell Modeling via Exploratory Robot Motions**|Gaetano Meli et.al.|[2502.01484](http://arxiv.org/abs/2502.01484)|null|
+|**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
+|**2025-02-03**|**Resilient UAV Trajectory Planning via Few-Shot Meta-Offline Reinforcement Learning**|Eslam Eldeeb et.al.|[2502.01268](http://arxiv.org/abs/2502.01268)|null|
 |**2025-01-30**|**Agile and Cooperative Aerial Manipulation of a Cable-Suspended Load**|Sihao Sun et.al.|[2501.18802](http://arxiv.org/abs/2501.18802)|null|
 |**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505](http://arxiv.org/abs/2501.18505)|**[link](https://github.com/rpirobotics/cuspidal-path-planning)**|
 |**2025-01-30**|**Dual-BEV Nav: Dual-layer BEV-based Heuristic Path Planning for Robotic Navigation in Unstructured Outdoor Environments**|Jianfeng Zhang et.al.|[2501.18351](http://arxiv.org/abs/2501.18351)|null|
