@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-04**|**Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2502.02504](http://arxiv.org/abs/2502.02504)|null|
+|**2025-02-04**|**Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2502.02504](http://arxiv.org/abs/2502.02504)|**[link](https://github.com/carrotsniper/uniedge)**|
 |**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
 |**2025-02-03**|**Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments**|Mingi Jeong et.al.|[2502.01041](http://arxiv.org/abs/2502.01041)|null|
 |**2025-02-03**|**Wizard of Shopping: Target-Oriented E-commerce Dialogue Generation with Decision Tree Branching**|Xiangci Li et.al.|[2502.00969](http://arxiv.org/abs/2502.00969)|null|
