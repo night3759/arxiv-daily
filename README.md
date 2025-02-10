@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-04**|**Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2502.02504](http://arxiv.org/abs/2502.02504)|**[link](https://github.com/carrotsniper/uniedge)**|
 |**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
 |**2025-02-03**|**Multi-Object Active Search and Tracking by Multiple Agents in Untrusted, Dynamically Changing Environments**|Mingi Jeong et.al.|[2502.01041](http://arxiv.org/abs/2502.01041)|null|
@@ -145,6 +146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**MapFusion: A Novel BEV Feature Fusion Network for Multi-modal Map Construction**|Xiaoshuai Hao et.al.|[2502.04377](http://arxiv.org/abs/2502.04377)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-01-29**|**Adaptively Weighted Averaging Over-the-Air Computation and Its Application to Distributed Gaussian Process Regression**|Koya Sato et.al.|[2501.17627](http://arxiv.org/abs/2501.17627)|null|
 |**2025-01-22**|**Data-and-Semantic Dual-Driven Spectrum Map Construction for 6G Spectrum Management**|Jiayu Liu et.al.|[2501.12853](http://arxiv.org/abs/2501.12853)|null|
@@ -207,11 +209,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Seasonal Station-Keeping of Short Duration High Altitude Balloons using Deep Reinforcement Learning**|Tristan K. Schuler et.al.|[2502.05014](http://arxiv.org/abs/2502.05014)|null|
+|**2025-02-07**|**Effective Sampling for Robot Motion Planning Through the Lens of Lattices**|Itai Panasoff et.al.|[2502.04908](http://arxiv.org/abs/2502.04908)|null|
+|**2025-02-07**|**Online Robot Motion Planning Methodology Guided by Group Social Proxemics Feature**|Xuan Mu et.al.|[2502.04837](http://arxiv.org/abs/2502.04837)|null|
+|**2025-02-06**|**Efficient variable-length hanging tether parameterization for marsupial robot planning in 3D environments**|S. Martínez-Rozas et.al.|[2502.04467](http://arxiv.org/abs/2502.04467)|null|
 |**2025-02-06**|**From Configuration-Space Clearance to Feature-Space Margin: Sample Complexity in Learning-Based Collision Detection**|Sapir Tubul et.al.|[2502.04170](http://arxiv.org/abs/2502.04170)|null|
 |**2025-02-06**|**Large Language Models for Multi-Robot Systems: A Survey**|Peihan Li et.al.|[2502.03814](http://arxiv.org/abs/2502.03814)|null|
 |**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[2502.03695](http://arxiv.org/abs/2502.03695)|null|
 |**2025-02-05**|**Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**|Jinhao Liang et.al.|[2502.03607](http://arxiv.org/abs/2502.03607)|null|
-|**2025-02-05**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
+|**2025-02-07**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454](http://arxiv.org/abs/2502.03454)|null|
 |**2025-02-05**|**Contact-Aware Motion Planning Among Movable Objects**|Haokun Wang et.al.|[2502.03317](http://arxiv.org/abs/2502.03317)|null|
 |**2025-02-06**|**Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations**|Shucheng Kang et.al.|[2502.02829](http://arxiv.org/abs/2502.02829)|null|
