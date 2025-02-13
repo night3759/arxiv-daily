@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
+|**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[2502.08033](http://arxiv.org/abs/2502.08033)|null|
 |**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[2502.07178](http://arxiv.org/abs/2502.07178)|null|
 |**2025-02-10**|**Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies**|Luis Torres-Torres F. et.al.|[2502.06334](http://arxiv.org/abs/2502.06334)|null|
 |**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|null|
@@ -213,13 +215,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach**|Houyi Qi et.al.|[2502.08386](http://arxiv.org/abs/2502.08386)|null|
+|**2025-02-12**|**Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features**|Liying Yang et.al.|[2502.08377](http://arxiv.org/abs/2502.08377)|null|
 |**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[2502.07309](http://arxiv.org/abs/2502.07309)|null|
 |**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
 |**2025-02-10**|**Deferred-Decision Trajectory Optimization**|Purnanand Elango et.al.|[2502.06623](http://arxiv.org/abs/2502.06623)|null|
 |**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|null|
 |**2025-02-10**|**Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots**|Jose D. Hoyos et.al.|[2502.06149](http://arxiv.org/abs/2502.06149)|null|
 |**2025-02-09**|**Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
-|**2025-02-09**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|null|
+|**2025-02-12**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|null|
 |**2025-02-08**|**Variational integrators for optimal control of foldable drones**|L. Colombo et.al.|[2502.05692](http://arxiv.org/abs/2502.05692)|null|
 |**2025-02-08**|**Data efficient Robotic Object Throwing with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2502.05595](http://arxiv.org/abs/2502.05595)|null|
 |**2025-02-08**|**Towards Learning Scalable Agile Dynamic Motion Planning for Robosoccer Teams with Policy Optimization**|Brandon Ho et.al.|[2502.05526](http://arxiv.org/abs/2502.05526)|null|
