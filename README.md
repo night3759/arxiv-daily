@@ -1,4 +1,4 @@
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[2502.08033](http://arxiv.org/abs/2502.08033)|null|
 |**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[2502.07178](http://arxiv.org/abs/2502.07178)|null|
 |**2025-02-10**|**Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies**|Luis Torres-Torres F. et.al.|[2502.06334](http://arxiv.org/abs/2502.06334)|null|
-|**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|null|
+|**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|**[link](https://github.com/tedhuang96/icp)**|
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-04**|**Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction**|Ruochen Li et.al.|[2502.02504](http://arxiv.org/abs/2502.02504)|**[link](https://github.com/carrotsniper/uniedge)**|
 |**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
@@ -145,7 +145,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Perception
 
@@ -209,7 +209,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Planning
 
@@ -220,10 +220,10 @@
 |**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[2502.07309](http://arxiv.org/abs/2502.07309)|null|
 |**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
 |**2025-02-10**|**Deferred-Decision Trajectory Optimization**|Purnanand Elango et.al.|[2502.06623](http://arxiv.org/abs/2502.06623)|null|
-|**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|null|
+|**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|**[link](https://github.com/tedhuang96/icp)**|
 |**2025-02-10**|**Reward-Based Collision-Free Algorithm for Trajectory Planning of Autonomous Robots**|Jose D. Hoyos et.al.|[2502.06149](http://arxiv.org/abs/2502.06149)|null|
 |**2025-02-09**|**Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
-|**2025-02-12**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|null|
+|**2025-02-12**|**AToM: Adaptive Theory-of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions**|Yuwen Liao et.al.|[2502.05792](http://arxiv.org/abs/2502.05792)|**[link](https://github.com/centilinda/atom-human-prediction)**|
 |**2025-02-08**|**Variational integrators for optimal control of foldable drones**|L. Colombo et.al.|[2502.05692](http://arxiv.org/abs/2502.05692)|null|
 |**2025-02-08**|**Data efficient Robotic Object Throwing with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2502.05595](http://arxiv.org/abs/2502.05595)|null|
 |**2025-02-08**|**Towards Learning Scalable Agile Dynamic Motion Planning for Robosoccer Teams with Policy Optimization**|Brandon Ho et.al.|[2502.05526](http://arxiv.org/abs/2502.05526)|null|
@@ -721,5 +721,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
