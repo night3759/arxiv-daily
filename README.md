@@ -1,4 +1,4 @@
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -147,7 +147,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
 
 ## Perception
 
@@ -211,7 +211,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
 
 ## Planning
 
@@ -224,7 +224,7 @@
 |**2025-02-10**|**Motion Forecasting for Autonomous Vehicles: A Survey**|Jianxin Shi et.al.|[2502.08664](http://arxiv.org/abs/2502.08664)|null|
 |**2025-02-12**|**Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach**|Houyi Qi et.al.|[2502.08386](http://arxiv.org/abs/2502.08386)|null|
 |**2025-02-12**|**Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features**|Liying Yang et.al.|[2502.08377](http://arxiv.org/abs/2502.08377)|null|
-|**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[2502.07309](http://arxiv.org/abs/2502.07309)|null|
+|**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[2502.07309](http://arxiv.org/abs/2502.07309)|**[link](https://github.com/getterupper/PreWorld)**|
 |**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
 |**2025-02-10**|**Deferred-Decision Trajectory Optimization**|Purnanand Elango et.al.|[2502.06623](http://arxiv.org/abs/2502.06623)|null|
 |**2025-02-10**|**Interaction-aware Conformal Prediction for Crowd Navigation**|Zhe Huang et.al.|[2502.06221](http://arxiv.org/abs/2502.06221)|**[link](https://github.com/tedhuang96/icp)**|
@@ -728,5 +728,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
 
