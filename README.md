@@ -220,6 +220,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks**|Jingshan Chen et.al.|[2502.13823](http://arxiv.org/abs/2502.13823)|null|
+|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|null|
+|**2025-02-18**|**Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks**|Wenpeng Xing et.al.|[2502.13175](http://arxiv.org/abs/2502.13175)|null|
+|**2025-02-14**|**Compositionally Grading Alloy Stacking Fault Energy using Autonomous Path Planning and Additive Manufacturing with Elemental Powders**|James Hanagan et.al.|[2502.13156](http://arxiv.org/abs/2502.13156)|null|
 |**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
 |**2025-02-18**|**Introducing ROADS: A Systematic Comparison of Remote Control Interaction Concepts for Automated Vehicles at Road Works**|Mark Colley et.al.|[2502.12680](http://arxiv.org/abs/2502.12680)|null|
 |**2025-02-17**|**A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**|Zikang Xiong et.al.|[2502.11352](http://arxiv.org/abs/2502.11352)|null|
