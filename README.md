@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|null|
 |**2025-02-14**|**Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation**|Anshul Nayak et.al.|[2502.10585](http://arxiv.org/abs/2502.10585)|null|
 |**2025-02-13**|**Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**|Kumar Manas et.al.|[2502.10477](http://arxiv.org/abs/2502.10477)|null|
 |**2025-02-13**|**Training Trajectory Predictors Without Ground-Truth Data**|Mikolaj Kliniewski et.al.|[2502.08957](http://arxiv.org/abs/2502.08957)|null|
@@ -220,8 +221,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Watch Less, Feel More: Sim-to-Real RL for Generalizable Articulated Object Manipulation via Motion Adaptation and Impedance Control**|Tan-Dzung Do et.al.|[2502.14457](http://arxiv.org/abs/2502.14457)|null|
 |**2025-02-19**|**An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks**|Jingshan Chen et.al.|[2502.13823](http://arxiv.org/abs/2502.13823)|null|
-|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|null|
+|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|**[link](https://github.com/thieso/boundplanner)**|
 |**2025-02-18**|**Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks**|Wenpeng Xing et.al.|[2502.13175](http://arxiv.org/abs/2502.13175)|null|
 |**2025-02-14**|**Compositionally Grading Alloy Stacking Fault Energy using Autonomous Path Planning and Additive Manufacturing with Elemental Powders**|James Hanagan et.al.|[2502.13156](http://arxiv.org/abs/2502.13156)|null|
 |**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
