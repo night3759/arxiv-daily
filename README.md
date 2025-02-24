@@ -54,7 +54,7 @@
 |**2024-12-30**|**TrajLearn: Trajectory Prediction Learning using Deep Generative Models**|Amirhossein Nadiri et.al.|[2501.00184](http://arxiv.org/abs/2501.00184)|**[link](https://github.com/amir-ni/trajectory-prediction)**|
 |**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[2412.20784](http://arxiv.org/abs/2412.20784)|null|
 |**2024-12-29**|**Subconscious Robotic Imitation Learning**|Jun Xie et.al.|[2412.20368](http://arxiv.org/abs/2412.20368)|null|
-|**2024-12-21**|**Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation**|Sanghyun Son et.al.|[2412.16750](http://arxiv.org/abs/2412.16750)|null|
+|**2024-12-21**|**Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation**|Sanghyun Son et.al.|[2412.16750](http://arxiv.org/abs/2412.16750)|**[link](https://github.com/sonsang/diffidm)**|
 |**2024-12-21**|**Effective and Efficient Representation Learning for Flight Trajectories**|Shuo Liu et.al.|[2412.16581](http://arxiv.org/abs/2412.16581)|**[link](https://github.com/liushuoer/flight2vec)**|
 |**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/abs/2412.15673)|**[link](https://github.com/aurora-xin/group2int-trajectory)**|
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[2412.14442](http://arxiv.org/abs/2412.14442)|**[link](https://github.com/whutpsq/EPN)**|
@@ -172,7 +172,7 @@
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**Optimal Prediction of Multivalued Functions from Point Samples**|Simon Foucart et.al.|[2412.09894](http://arxiv.org/abs/2412.09894)|null|
 |**2024-12-07**|**A Scene Representation for Online Spatial Sonification**|Lan Wu et.al.|[2412.05486](http://arxiv.org/abs/2412.05486)|null|
-|**2024-12-02**|**IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**|Le Zhao et.al.|[2412.01279](http://arxiv.org/abs/2412.01279)|null|
+|**2024-12-02**|**IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**|Le Zhao et.al.|[2412.01279](http://arxiv.org/abs/2412.01279)|**[link](https://github.com/tobinzhao/Interfering-CKM-construction)**|
 |**2024-11-26**|**Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors**|Peijin Jia et.al.|[2411.17161](http://arxiv.org/abs/2411.17161)|null|
 |**2024-12-11**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|**[link](https://github.com/core9724/awesome-lane-detection)**|
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|**[link](https://github.com/public-bots/gaussianpretrain)**|
@@ -233,7 +233,7 @@
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
 |**2025-02-14**|**Structuring the Environment Nudges Participants Toward Hierarchical Over Shortest Path Planning**|Valeria Simonelli et.al.|[2502.10098](http://arxiv.org/abs/2502.10098)|null|
 |**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
-|**2025-02-13**|**A Discontinuous Galerkin Method for Simulating 3D Seismic Wave Propagation in Nonlinear Rock Models: Verification and Application to the 2015 Mw 7.8 Gorkha Earthquake**|Zihua Niu et.al.|[2502.09714](http://arxiv.org/abs/2502.09714)|null|
+|**2025-02-13**|**A Discontinuous Galerkin Method for Simulating 3D Seismic Wave Propagation in Nonlinear Rock Models: Verification and Application to the 2015 Mw 7.8 Gorkha Earthquake**|Zihua Niu et.al.|[2502.09714](http://arxiv.org/abs/2502.09714)|**[link](https://github.com/SeisSol/SeisSol)**|
 |**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**|Fei Shen et.al.|[2502.09533](http://arxiv.org/abs/2502.09533)|null|
@@ -385,7 +385,7 @@
 |**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|
 |**2024-12-18**|**A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments**|Haochen Niu et.al.|[2412.13664](http://arxiv.org/abs/2412.13664)|**[link](https://github.com/haochen-niu/stgplanner)**|
 |**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
-|**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
+|**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|**[link](https://github.com/jingtianyan/mass-aaai)**|
 |**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|**[link](https://github.com/chparkinson/path_plan_manifold_hopf_lax)**|
 |**2024-12-17**|**Singularity-Free Guiding Vector Field over Bézier's Curves Applied to Rovers Path Planning and Path Following**|Alfredo González-Calvin et.al.|[2412.13033](http://arxiv.org/abs/2412.13033)|null|
 |**2024-12-17**|**Neural-Network-Driven Reward Prediction as a Heuristic: Advancing Q-Learning for Mobile Robot Path Planning**|Yiming Ji et.al.|[2412.12650](http://arxiv.org/abs/2412.12650)|null|
