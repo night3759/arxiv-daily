@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|null|
 |**2025-02-25**|**Patient Trajectory Prediction: Integrating Clinical Notes with Transformers**|Sifal Klioui et.al.|[2502.18009](http://arxiv.org/abs/2502.18009)|**[link](https://github.com/MostHumble/PatientTrajectoryForecasting)**|
 |**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
 |**2025-02-25**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
@@ -226,6 +227,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**ARENA: Adaptive Risk-aware and Energy-efficient NAvigation for Multi-Objective 3D Infrastructure Inspection with a UAV**|David-Alexandre Poissant et.al.|[2502.19401](http://arxiv.org/abs/2502.19401)|null|
+|**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
+|**2025-02-25**|**Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization**|Papandreou Christos et.al.|[2502.18696](http://arxiv.org/abs/2502.18696)|null|
+|**2025-02-25**|**Hybrid Voting-Based Task Assignment in Role-Playing Games**|Daniel Weiner et.al.|[2502.18690](http://arxiv.org/abs/2502.18690)|null|
 |**2025-02-25**|**Controllability and Displacement Analysis of a Three-Link Elastic Microswimmer: A Geometric Control Approach**|Rossella Attanasi et.al.|[2502.18286](http://arxiv.org/abs/2502.18286)|null|
 |**2025-02-25**|**A Real-time Spatio-Temporal Trajectory Planner for Autonomous Vehicles with Semantic Graph Optimization**|Shan He et.al.|[2502.18151](http://arxiv.org/abs/2502.18151)|null|
 |**2025-02-24**|**The Geometry of Optimal Gait Families for Steering Kinematic Locomoting Systems**|Jinwoo Choi et.al.|[2502.17672](http://arxiv.org/abs/2502.17672)|null|
