@@ -12,8 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
-|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|null|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
 |**2025-02-25**|**Patient Trajectory Prediction: Integrating Clinical Notes with Transformers**|Sifal Klioui et.al.|[2502.18009](http://arxiv.org/abs/2502.18009)|**[link](https://github.com/MostHumble/PatientTrajectoryForecasting)**|
 |**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
 |**2025-02-25**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
@@ -228,10 +229,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**A Minor-Testing Approach for Coordinated Motion Planning with Sliding Robots**|Eduard Eiben et.al.|[2502.21175](http://arxiv.org/abs/2502.21175)|null|
+|**2025-02-28**|**A Dynamic Bus Lane Strategy for Integrated Management of Human-Driven and Autonomous Vehicles**|Haoran Li et.al.|[2502.20831](http://arxiv.org/abs/2502.20831)|null|
+|**2025-02-28**|**Indoor Localization for Autonomous Robot Navigation**|Sean Kouma et.al.|[2502.20731](http://arxiv.org/abs/2502.20731)|null|
+|**2025-02-28**|**Delayed-Decision Motion Planning in the Presence of Multiple Predictions**|David Isele et.al.|[2502.20636](http://arxiv.org/abs/2502.20636)|null|
+|**2025-02-27**|**Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning**|Yankai Li et.al.|[2502.20476](http://arxiv.org/abs/2502.20476)|null|
 |**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
-|**2025-02-27**|**Multi-Agent Path Planning in Complex Environments using Gaussian Belief Propagation with Global Path Finding**|Jens Høigaard Jensen et.al.|[2502.20369](http://arxiv.org/abs/2502.20369)|null|
+|**2025-02-27**|**Multi-Agent Path Planning in Complex Environments using Gaussian Belief Propagation with Global Path Finding**|Jens Høigaard Jensen et.al.|[2502.20369](http://arxiv.org/abs/2502.20369)|**[link](https://github.com/au-master-thesis/magics)**|
 |**2025-02-27**|**SSD: A State-based Stealthy Backdoor Attack For Navigation System in UAV Route Planning**|Zhaoxuan Wang et.al.|[2502.20178](http://arxiv.org/abs/2502.20178)|null|
-|**2025-02-27**|**Pushing Through Clutter With Movability Awareness of Blocking Obstacles**|Joris J. Weeda et.al.|[2502.20106](http://arxiv.org/abs/2502.20106)|null|
+|**2025-02-27**|**Pushing Through Clutter With Movability Awareness of Blocking Obstacles**|Joris J. Weeda et.al.|[2502.20106](http://arxiv.org/abs/2502.20106)|**[link](https://github.com/tud-amr/svg-mppi)**|
 |**2025-02-27**|**CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**|Dongkun Zhang et.al.|[2502.19908](http://arxiv.org/abs/2502.19908)|null|
 |**2025-02-27**|**Tracailer: An Efficient Trajectory Planner for Tractor-Trailer Vehicles in Unstructured Environments**|Long Xu et.al.|[2502.19832](http://arxiv.org/abs/2502.19832)|null|
 |**2025-02-27**|**Risk-aware Integrated Task and Motion Planning for Versatile Snake Robots under Localization Failures**|Ashkan Jasour et.al.|[2502.19690](http://arxiv.org/abs/2502.19690)|null|
