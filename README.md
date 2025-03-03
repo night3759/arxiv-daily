@@ -105,7 +105,7 @@
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
 |**2024-10-28**|**Heterogeneous Interaction Modeling With Reduced Accumulated Error for Multi-Agent Trajectory Prediction**|Siyuan Chen et.al.|[2410.21342](http://arxiv.org/abs/2410.21342)|null|
 |**2024-10-25**|**Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**|Kai-Yin Hong et.al.|[2410.19606](http://arxiv.org/abs/2410.19606)|null|
-|**2024-10-25**|**PMM-Net: Single-stage Multi-agent Trajectory Prediction with Patching-based Embedding and Explicit Modal Modulation**|Huajian Liu et.al.|[2410.19544](http://arxiv.org/abs/2410.19544)|null|
+|**2024-10-25**|**PMM-Net: Single-stage Multi-agent Trajectory Prediction with Patching-based Embedding and Explicit Modal Modulation**|Huajian Liu et.al.|[2410.19544](http://arxiv.org/abs/2410.19544)|**[link](https://github.com/tib-k330/pmm-net)**|
 |**2024-10-31**|**Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction**|Songbo Yang et.al.|[2410.18742](http://arxiv.org/abs/2410.18742)|null|
 |**2024-10-28**|**Non-myopic Generation of Language Models for Reasoning and Planning**|Chang Ma et.al.|[2410.17195](http://arxiv.org/abs/2410.17195)|**[link](https://github.com/chang-github-00/llm-predictive-decoding)**|
 |**2024-10-22**|**Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach**|Pei Liu et.al.|[2410.16795](http://arxiv.org/abs/2410.16795)|null|
@@ -190,7 +190,7 @@
 |**2024-11-13**|**Efficient Trajectory Generation in 3D Environments with Multi-Level Map Construction**|Chengkun Tian et.al.|[2411.08323](http://arxiv.org/abs/2411.08323)|null|
 |**2024-11-03**|**HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning**|Wenzhao Qiu et.al.|[2411.01408](http://arxiv.org/abs/2411.01408)|**[link](https://github.com/adasfag/heightmapnet)**|
 |**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278](http://arxiv.org/abs/2410.23278)|null|
-|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
+|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
 |**2024-10-08**|**Two-Stage Radio Map Construction with Real Environments and Sparse Measurements**|Yifan Wang et.al.|[2410.18092](http://arxiv.org/abs/2410.18092)|null|
 |**2024-10-15**|**Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition**|Dongxie Wen et.al.|[2410.11188](http://arxiv.org/abs/2410.11188)|null|
 |**2024-10-14**|**Exploring Semi-Supervised Learning for Online Mapping**|Adam Lilja et.al.|[2410.10279](http://arxiv.org/abs/2410.10279)|null|
@@ -328,7 +328,7 @@
 |**2025-01-27**|**Navigation Framework for Blind and Visually Impaired Persons based on Sensor Fusion**|Chathurika S. Silva et.al.|[2501.15819](http://arxiv.org/abs/2501.15819)|null|
 |**2025-01-25**|**Safe and Agile Transportation of Cable-Suspended Payload via Multiple Aerial Robots**|Yongchao Wang et.al.|[2501.15272](http://arxiv.org/abs/2501.15272)|null|
 |**2025-01-25**|**Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning**|Junfeng Tang et.al.|[2501.15214](http://arxiv.org/abs/2501.15214)|null|
-|**2025-01-25**|**Understanding via Gaze: Gaze-based Task Decomposition for Imitation Learning of Robot Manipulation**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|null|
+|**2025-01-25**|**Understanding via Gaze: Gaze-based Task Decomposition for Imitation Learning of Robot Manipulation**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|**[link](https://github.com/crumbyRobotics/GazeTaskDecomp)**|
 |**2025-01-27**|**QuIP: Experimental design for expensive simulators with many Qualitative factors via Integer Programming**|Yen-Chun Liu et.al.|[2501.14616](http://arxiv.org/abs/2501.14616)|null|
 |**2025-01-24**|**Robustified Time-optimal Point-to-point Motion Planning and Control under Uncertainty**|Shuhao Zhang et.al.|[2501.14526](http://arxiv.org/abs/2501.14526)|null|
 |**2025-01-24**|**Benchmarking global optimization techniques for unmanned aerial vehicle path planning**|Mhd Ali Shehadeh et.al.|[2501.14503](http://arxiv.org/abs/2501.14503)|null|
@@ -359,7 +359,7 @@
 |**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|**[link](https://github.com/xiaoshanzhou624/a-star-with-gui-for-human-inputs)**|
 |**2025-01-15**|**Combining Movement Primitives with Contraction Theory**|Moses C. Nah et.al.|[2501.09198](http://arxiv.org/abs/2501.09198)|null|
 |**2025-01-15**|**Estimation-Aware Trajectory Optimization with Set-Valued Measurement Uncertainties**|Aditya Deole et.al.|[2501.09192](http://arxiv.org/abs/2501.09192)|null|
-|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[2501.08861](http://arxiv.org/abs/2501.08861)|null|
+|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[2501.08861](http://arxiv.org/abs/2501.08861)|**[link](https://github.com/ltp1995/gpvl)**|
 |**2025-01-14**|**Data-driven Spatial Classification using Multi-Arm Bandits for Monitoring with Energy-Constrained Mobile Robots**|Xiaoshan Lin et.al.|[2501.08222](http://arxiv.org/abs/2501.08222)|null|
 |**2025-01-13**|**Fast-Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Sensor Information**|Srinivas Kachavarapu et.al.|[2501.07343](http://arxiv.org/abs/2501.07343)|null|
 |**2025-01-12**|**From Simulation to Field: Learning Terrain Traversability for Real-World Deployment**|Fetullah Atas et.al.|[2501.06904](http://arxiv.org/abs/2501.06904)|null|
@@ -589,7 +589,7 @@
 |**2024-10-29**|**Local Policies Enable Zero-shot Long-horizon Manipulation**|Murtaza Dalal et.al.|[2410.22332](http://arxiv.org/abs/2410.22332)|null|
 |**2024-10-29**|**CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning**|Weihang Guo et.al.|[2410.22225](http://arxiv.org/abs/2410.22225)|null|
 |**2024-10-29**|**On the Synthesis of Reactive Collision-Free Whole-Body Robot Motions: A Complementarity-based Approach**|Haowen Yao et.al.|[2410.22049](http://arxiv.org/abs/2410.22049)|null|
-|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
+|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
 |**2024-10-29**|**Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multi-Robot Mobile Manipulation**|Akshaya Agrawal et.al.|[2410.21630](http://arxiv.org/abs/2410.21630)|null|
 |**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|**[link](https://github.com/MSNikken/diffusion)**|
 |**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149](http://arxiv.org/abs/2410.21149)|**[link](https://github.com/lrse-uba/covoxslam)**|
