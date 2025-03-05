@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
+|**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
+|**2025-03-02**|**TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models**|Gokul Puthumanaillam et.al.|[2503.00761](http://arxiv.org/abs/2503.00761)|null|
+|**2025-02-28**|**Particle Trajectory Prediction in Discrete Element Simulations using a Graph-Based Interaction-Aware Model**|Abhishek Setty et.al.|[2503.00215](http://arxiv.org/abs/2503.00215)|null|
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
 |**2025-03-02**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
@@ -229,6 +233,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Scalable Multi-Robot Task Allocation and Coordination under Signal Temporal Logic Specifications**|Wenliang Liu et.al.|[2503.02719](http://arxiv.org/abs/2503.02719)|null|
+|**2025-03-04**|**Multi-Strategy Enhanced COA for Path Planning in Autonomous Navigation**|Yifei Wang et.al.|[2503.02700](http://arxiv.org/abs/2503.02700)|null|
+|**2025-03-04**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|null|
+|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
+|**2025-03-03**|**NavG: Risk-Aware Navigation in Crowded Environments Based on Reinforcement Learning with Guidance Points**|Qianyi Zhang et.al.|[2503.02111](http://arxiv.org/abs/2503.02111)|null|
+|**2025-03-03**|**Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation**|Yongchao Chen et.al.|[2503.01700](http://arxiv.org/abs/2503.01700)|null|
+|**2025-03-03**|**MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning**|Narek Harutyunyan et.al.|[2503.01548](http://arxiv.org/abs/2503.01548)|null|
+|**2025-03-03**|**Trajectory Planning with Signal Temporal Logic Costs using Deterministic Path Integral Optimization**|Patrick Halder et.al.|[2503.01476](http://arxiv.org/abs/2503.01476)|null|
+|**2025-03-03**|**LLM-Advisor: An LLM Benchmark for Cost-efficient Path Planning across Multiple Terrains**|Ling Xiao et.al.|[2503.01236](http://arxiv.org/abs/2503.01236)|null|
+|**2025-03-03**|**Rational sequential parametrized topological complexity**|Yuki Minowa et.al.|[2503.01123](http://arxiv.org/abs/2503.01123)|null|
 |**2025-02-28**|**A Minor-Testing Approach for Coordinated Motion Planning with Sliding Robots**|Eduard Eiben et.al.|[2502.21175](http://arxiv.org/abs/2502.21175)|null|
 |**2025-02-28**|**A Dynamic Bus Lane Strategy for Integrated Management of Human-Driven and Autonomous Vehicles**|Haoran Li et.al.|[2502.20831](http://arxiv.org/abs/2502.20831)|null|
 |**2025-02-28**|**Indoor Localization for Autonomous Robot Navigation**|Sean Kouma et.al.|[2502.20731](http://arxiv.org/abs/2502.20731)|null|
