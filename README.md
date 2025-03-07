@@ -15,11 +15,11 @@
 |**2025-03-05**|**Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication**|Supat Roongpraiwan et.al.|[2503.03590](http://arxiv.org/abs/2503.03590)|null|
 |**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
 |**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
-|**2025-03-05**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|null|
+|**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|null|
 |**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
 |**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
 |**2025-03-02**|**TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models**|Gokul Puthumanaillam et.al.|[2503.00761](http://arxiv.org/abs/2503.00761)|null|
-|**2025-02-28**|**Particle Trajectory Prediction in Discrete Element Simulations using a Graph-Based Interaction-Aware Model**|Abhishek Setty et.al.|[2503.00215](http://arxiv.org/abs/2503.00215)|null|
+|**2025-03-06**|**Particle Trajectory Prediction in Discrete Element Simulations using a Graph-Based Interaction-Aware Model**|Abhishek Setty et.al.|[2503.00215](http://arxiv.org/abs/2503.00215)|null|
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
 |**2025-03-02**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
@@ -171,6 +171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction**|Jiangtong Zhu et.al.|[2503.03882](http://arxiv.org/abs/2503.03882)|null|
 |**2025-02-05**|**Channel Gain Map Construction based on Subregional Learning and Prediction**|Jiayi Chen et.al.|[2502.15733](http://arxiv.org/abs/2502.15733)|null|
 |**2025-02-14**|**Leveraging V2X for Collaborative HD Maps Construction Using Scene Graph Generation**|Gamal Elghazaly et.al.|[2502.10127](http://arxiv.org/abs/2502.10127)|null|
 |**2025-02-05**|**RLOMM: An Efficient and Robust Online Map Matching Framework with Reinforcement Learning**|Minxiao Chen et.al.|[2502.06825](http://arxiv.org/abs/2502.06825)|null|
@@ -237,6 +238,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**SeGMan: Sequential and Guided Manipulation Planner for Robust Planning in 2D Constrained Environments**|Cankut Bora Tuncer et.al.|[2503.04409](http://arxiv.org/abs/2503.04409)|null|
+|**2025-03-06**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
+|**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[2503.04159](http://arxiv.org/abs/2503.04159)|null|
+|**2025-03-06**|**Planning and Control for Deformable Linear Object Manipulation**|Burak Aksoy et.al.|[2503.04007](http://arxiv.org/abs/2503.04007)|null|
+|**2025-03-05**|**GO-VMP: Global Optimization for View Motion Planning in Fruit Mapping**|Allen Isaac Jose et.al.|[2503.03912](http://arxiv.org/abs/2503.03912)|null|
 |**2025-03-05**|**Motion Planning and Control with Unknown Nonlinear Dynamics through Predicted Reachability**|Zhiquan Zhang et.al.|[2503.03633](http://arxiv.org/abs/2503.03633)|null|
 |**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579](http://arxiv.org/abs/2503.03579)|null|
 |**2025-03-05**|**A Benchmark for Optimal Multi-Modal Multi-Robot Multi-Goal Path Planning with Given Robot Assignment**|Valentin N. Hartmann et.al.|[2503.03509](http://arxiv.org/abs/2503.03509)|null|
