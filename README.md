@@ -273,10 +273,10 @@
 |**2025-02-27**|**SSD: A State-based Stealthy Backdoor Attack For Navigation System in UAV Route Planning**|Zhaoxuan Wang et.al.|[2502.20178](http://arxiv.org/abs/2502.20178)|null|
 |**2025-02-27**|**Pushing Through Clutter With Movability Awareness of Blocking Obstacles**|Joris J. Weeda et.al.|[2502.20106](http://arxiv.org/abs/2502.20106)|**[link](https://github.com/tud-amr/svg-mppi)**|
 |**2025-02-27**|**CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**|Dongkun Zhang et.al.|[2502.19908](http://arxiv.org/abs/2502.19908)|null|
-|**2025-02-27**|**Tracailer: An Efficient Trajectory Planner for Tractor-Trailer Vehicles in Unstructured Environments**|Long Xu et.al.|[2502.19832](http://arxiv.org/abs/2502.19832)|null|
+|**2025-02-27**|**Tracailer: An Efficient Trajectory Planner for Tractor-Trailer Vehicles in Unstructured Environments**|Long Xu et.al.|[2502.19832](http://arxiv.org/abs/2502.19832)|**[link](https://github.com/zju-fast-lab/tracailer)**|
 |**2025-02-27**|**Risk-aware Integrated Task and Motion Planning for Versatile Snake Robots under Localization Failures**|Ashkan Jasour et.al.|[2502.19690](http://arxiv.org/abs/2502.19690)|null|
 |**2025-02-26**|**Image-Based Roadmaps for Vision-Only Planning and Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2502.19617](http://arxiv.org/abs/2502.19617)|null|
-|**2025-02-26**|**Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators**|Yeping Wang et.al.|[2502.19591](http://arxiv.org/abs/2502.19591)|null|
+|**2025-02-26**|**Hierarchically Accelerated Coverage Path Planning for Redundant Manipulators**|Yeping Wang et.al.|[2502.19591](http://arxiv.org/abs/2502.19591)|**[link](https://github.com/uwgraphics/arm_coverage)**|
 |**2025-02-26**|**ARENA: Adaptive Risk-aware and Energy-efficient NAvigation for Multi-Objective 3D Infrastructure Inspection with a UAV**|David-Alexandre Poissant et.al.|[2502.19401](http://arxiv.org/abs/2502.19401)|null|
 |**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
 |**2025-02-25**|**Interpretable Data-Driven Ship Dynamics Model: Enhancing Physics-Based Motion Prediction with Parameter Optimization**|Papandreou Christos et.al.|[2502.18696](http://arxiv.org/abs/2502.18696)|null|
