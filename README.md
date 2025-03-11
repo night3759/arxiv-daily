@@ -12,11 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-10**|**GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought**|Sungsik Kim et.al.|[2503.06832](http://arxiv.org/abs/2503.06832)|null|
+|**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|null|
+|**2025-03-08**|**TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**|Hangyu Du et.al.|[2503.06071](http://arxiv.org/abs/2503.06071)|null|
+|**2025-03-07**|**Universal Framework to Evaluate Automotive Perception Sensor Impact on Perception Functions**|A Gamage et.al.|[2503.05939](http://arxiv.org/abs/2503.05939)|null|
 |**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
 |**2025-03-06**|**Quantifying and Modeling Driving Styles in Trajectory Forecasting**|Laura Zheng et.al.|[2503.04994](http://arxiv.org/abs/2503.04994)|null|
 |**2025-03-06**|**INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**|Yihong Tang et.al.|[2503.04952](http://arxiv.org/abs/2503.04952)|null|
 |**2025-03-05**|**DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction**|Yuheng Kuang et.al.|[2503.04823](http://arxiv.org/abs/2503.04823)|null|
-|**2025-03-05**|**Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication**|Supat Roongpraiwan et.al.|[2503.03590](http://arxiv.org/abs/2503.03590)|null|
+|**2025-03-10**|**Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication**|Supat Roongpraiwan et.al.|[2503.03590](http://arxiv.org/abs/2503.03590)|null|
 |**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
 |**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
 |**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|**[link](https://github.com/adept-thu/momad)**|
@@ -175,6 +180,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
+|**2025-03-10**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[2503.07168](http://arxiv.org/abs/2503.07168)|null|
+|**2025-03-10**|**HIF: Height Interval Filtering for Efficient Dynamic Points Removal**|Shufang Zhang et.al.|[2503.06863](http://arxiv.org/abs/2503.06863)|null|
 |**2025-03-05**|**IC-Mapper: Instance-Centric Spatio-Temporal Modeling for Online Vectorized Map Construction**|Jiangtong Zhu et.al.|[2503.03882](http://arxiv.org/abs/2503.03882)|null|
 |**2025-02-05**|**Channel Gain Map Construction based on Subregional Learning and Prediction**|Jiayi Chen et.al.|[2502.15733](http://arxiv.org/abs/2502.15733)|null|
 |**2025-02-14**|**Leveraging V2X for Collaborative HD Maps Construction Using Scene Graph Generation**|Gamal Elghazaly et.al.|[2502.10127](http://arxiv.org/abs/2502.10127)|null|
@@ -242,6 +250,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411](http://arxiv.org/abs/2503.07411)|null|
+|**2025-03-10**|**LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**|Kangan Qian et.al.|[2503.07367](http://arxiv.org/abs/2503.07367)|null|
+|**2025-03-10**|**Dynamic Path Navigation for Motion Agents with LLM Reasoning**|Yubo Zhao et.al.|[2503.07323](http://arxiv.org/abs/2503.07323)|null|
+|**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278](http://arxiv.org/abs/2503.07278)|null|
+|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
+|**2025-03-10**|**Discrete Gaussian Process Representations for Optimising UAV-based Precision Weed Mapping**|Jacob Swindell et.al.|[2503.07210](http://arxiv.org/abs/2503.07210)|null|
+|**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[2503.07020](http://arxiv.org/abs/2503.07020)|null|
+|**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|null|
+|**2025-03-09**|**pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning**|Chih H. Huang et.al.|[2503.06757](http://arxiv.org/abs/2503.06757)|null|
+|**2025-03-09**|**Quantum Speedup in Dissecting Roots and Solving Nonlinear Algebraic Equations**|Nhat A. Nghiem et.al.|[2503.06609](http://arxiv.org/abs/2503.06609)|null|
 |**2025-03-07**|**Accelerating db-A $^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
 |**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398](http://arxiv.org/abs/2503.05398)|null|
 |**2025-03-07**|**Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**|Zherui Huang et.al.|[2503.05180](http://arxiv.org/abs/2503.05180)|null|
