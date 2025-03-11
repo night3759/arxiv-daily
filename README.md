@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2025-03-05**|**Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication**|Supat Roongpraiwan et.al.|[2503.03590](http://arxiv.org/abs/2503.03590)|null|
 |**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
 |**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
-|**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|null|
+|**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|**[link](https://github.com/adept-thu/momad)**|
 |**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
 |**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
 |**2025-03-02**|**TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models**|Gokul Puthumanaillam et.al.|[2503.00761](http://arxiv.org/abs/2503.00761)|null|
@@ -169,7 +169,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Perception
 
@@ -236,7 +236,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Planning
 
@@ -833,5 +833,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
