@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
+|**2025-03-11**|**STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model**|Jin Wenzhe et.al.|[2503.08065](http://arxiv.org/abs/2503.08065)|null|
+|**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016](http://arxiv.org/abs/2503.08016)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
 |**2025-03-10**|**GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought**|Sungsik Kim et.al.|[2503.06832](http://arxiv.org/abs/2503.06832)|null|
 |**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|null|
@@ -250,6 +253,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
+|**2025-03-11**|**Cross-Embodiment Robotic Manipulation Synthesis via Guided Demonstrations through CycleVAE and Human Behavior Transformer**|Apan Dastider et.al.|[2503.08622](http://arxiv.org/abs/2503.08622)|null|
+|**2025-03-11**|**Soft Actor-Critic-based Control Barrier Adaptation for Robust Autonomous Navigation in Unknown Environments**|Nicholas Mohammad et.al.|[2503.08479](http://arxiv.org/abs/2503.08479)|null|
+|**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302](http://arxiv.org/abs/2503.08302)|null|
+|**2025-03-11**|**Control Barrier Functions for Prescribed-time Reach-Avoid-Stay Tasks using Spatiotemporal Tubes**|Ratnangshu Das et.al.|[2503.08106](http://arxiv.org/abs/2503.08106)|null|
+|**2025-03-11**|**Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning**|Tianyu Li et.al.|[2503.08029](http://arxiv.org/abs/2503.08029)|null|
+|**2025-03-11**|**HEATS: A Hierarchical Framework for Efficient Autonomous Target Search with Mobile Manipulators**|Hao Zhang et.al.|[2503.07986](http://arxiv.org/abs/2503.07986)|null|
+|**2025-03-10**|**LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning**|Behrad Rabiei et.al.|[2503.07902](http://arxiv.org/abs/2503.07902)|null|
+|**2025-03-10**|**Evaluating Path Planning Strategies for Efficient Nitrate Sampling in Crop Rows**|Ruiji Liu et.al.|[2503.07855](http://arxiv.org/abs/2503.07855)|null|
+|**2025-03-10**|**Multi-layer Motion Planning with Kinodynamic and Spatio-Temporal Constraints**|Jeel Chatrola et.al.|[2503.07762](http://arxiv.org/abs/2503.07762)|null|
 |**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411](http://arxiv.org/abs/2503.07411)|null|
 |**2025-03-10**|**LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**|Kangan Qian et.al.|[2503.07367](http://arxiv.org/abs/2503.07367)|null|
 |**2025-03-10**|**Dynamic Path Navigation for Motion Agents with LLM Reasoning**|Yubo Zhao et.al.|[2503.07323](http://arxiv.org/abs/2503.07323)|null|
