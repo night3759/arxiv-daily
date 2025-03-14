@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**|Yuxiang Fu et.al.|[2503.09950](http://arxiv.org/abs/2503.09950)|null|
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
 |**2025-03-11**|**SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions**|Sepehr Samavi et.al.|[2503.08858](http://arxiv.org/abs/2503.08858)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
@@ -185,6 +186,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
+|**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
 |**2025-03-13**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
 |**2025-03-12**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[2503.07168](http://arxiv.org/abs/2503.07168)|null|
 |**2025-03-10**|**HIF: Height Interval Filtering for Efficient Dynamic Points Removal**|Shufang Zhang et.al.|[2503.06863](http://arxiv.org/abs/2503.06863)|null|
@@ -255,6 +258,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Stratified Topological Autonomy for Long-Range Coordination (STALC)**|Cora A. Dimmig et.al.|[2503.10475](http://arxiv.org/abs/2503.10475)|null|
+|**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
+|**2025-03-13**|**A nonlinear real time capable motion cueing algorithm based on deep reinforcement learning**|Hendrik Scheidel et.al.|[2503.10419](http://arxiv.org/abs/2503.10419)|null|
+|**2025-03-13**|**CODEI: Resource-Efficient Task-Driven Co-Design of Perception and Decision Making for Mobile Robots Applied to Autonomous Vehicles**|Dejan Milojevic et.al.|[2503.10296](http://arxiv.org/abs/2503.10296)|null|
+|**2025-03-13**|**IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models**|Yiyang Ling et.al.|[2503.10110](http://arxiv.org/abs/2503.10110)|null|
+|**2025-03-13**|**SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation**|Xiangyu Shi et.al.|[2503.10069](http://arxiv.org/abs/2503.10069)|null|
+|**2025-03-13**|**Post-disaster building indoor damage and survivor detection using autonomous path planning and deep learning with unmanned aerial vehicles**|Xiao Pan et.al.|[2503.10027](http://arxiv.org/abs/2503.10027)|null|
+|**2025-03-13**|**Combining Cooperative Re-Routing with Intersection Coordination for Connected and Automated Vehicles in Urban Networks**|Panagiotis Typaldos et.al.|[2503.10004](http://arxiv.org/abs/2503.10004)|null|
+|**2025-03-13**|**MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**|Yuxiang Fu et.al.|[2503.09950](http://arxiv.org/abs/2503.09950)|null|
+|**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
 |**2025-03-12**|**Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping**|Aykut İşleyen et.al.|[2503.09515](http://arxiv.org/abs/2503.09515)|null|
 |**2025-03-12**|**Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems**|Rui Huang et.al.|[2503.09351](http://arxiv.org/abs/2503.09351)|null|
 |**2025-03-12**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene Graphs**|Ermanno Bartoli et.al.|[2503.09173](http://arxiv.org/abs/2503.09173)|null|
