@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**|Yizhou Huang et.al.|[2503.10898](http://arxiv.org/abs/2503.10898)|null|
 |**2025-03-13**|**MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**|Yuxiang Fu et.al.|[2503.09950](http://arxiv.org/abs/2503.09950)|null|
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
 |**2025-03-11**|**SICNav-Diffusion: Safe and Interactive Crowd Navigation with Diffusion Trajectory Predictions**|Sepehr Samavi et.al.|[2503.08858](http://arxiv.org/abs/2503.08858)|null|
@@ -186,6 +187,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
+|**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091](http://arxiv.org/abs/2503.11091)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
 |**2025-03-13**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
@@ -258,6 +261,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Research Vision: Multi-Agent Path Planning for Cops And Robbers Via Reactive Synthesis**|William Fishell et.al.|[2503.11475](http://arxiv.org/abs/2503.11475)|null|
+|**2025-03-14**|**MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments**|Runze Xiao et.al.|[2503.11461](http://arxiv.org/abs/2503.11461)|null|
+|**2025-03-14**|**Flow-Aware Navigation of Magnetic Micro-Robots in Complex Fluids via PINN-Based Prediction**|Yongyi Jia et.al.|[2503.11124](http://arxiv.org/abs/2503.11124)|null|
+|**2025-03-14**|**A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model**|Haotian Tan et.al.|[2503.11072](http://arxiv.org/abs/2503.11072)|null|
+|**2025-03-14**|**Enhancing Adaptivity of Two-Fingered Object Reorientation Using Tactile-based Online Optimization of Deconstructed Actions**|Qiyin Huang et.al.|[2503.11041](http://arxiv.org/abs/2503.11041)|null|
+|**2025-03-14**|**Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation**|Yifan Xie et.al.|[2503.11006](http://arxiv.org/abs/2503.11006)|null|
+|**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
+|**2025-03-13**|**Transferring Kinesthetic Demonstrations across Diverse Objects for Manipulation Planning**|Dibyendu Das et.al.|[2503.10904](http://arxiv.org/abs/2503.10904)|null|
+|**2025-03-13**|**Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**|Yizhou Huang et.al.|[2503.10898](http://arxiv.org/abs/2503.10898)|null|
+|**2025-03-13**|**Communication-Aware Iterative Map Compression for Online Path-Planning**|Evangelos Psomiadis et.al.|[2503.10843](http://arxiv.org/abs/2503.10843)|null|
 |**2025-03-13**|**Stratified Topological Autonomy for Long-Range Coordination (STALC)**|Cora A. Dimmig et.al.|[2503.10475](http://arxiv.org/abs/2503.10475)|null|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
 |**2025-03-13**|**A nonlinear real time capable motion cueing algorithm based on deep reinforcement learning**|Hendrik Scheidel et.al.|[2503.10419](http://arxiv.org/abs/2503.10419)|null|
