@@ -22,7 +22,7 @@
 |**2025-03-10**|**GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought**|Sungsik Kim et.al.|[2503.06832](http://arxiv.org/abs/2503.06832)|null|
 |**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|**[link](https://github.com/renkai99/LCSS-control)**|
 |**2025-03-08**|**TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**|Hangyu Du et.al.|[2503.06071](http://arxiv.org/abs/2503.06071)|null|
-|**2025-03-07**|**Universal Framework to Evaluate Automotive Perception Sensor Impact on Perception Functions**|A Gamage et.al.|[2503.05939](http://arxiv.org/abs/2503.05939)|null|
+|**2025-03-07**|**Universal Framework to Evaluate Automotive Perception Sensor Impact on Perception Functions**|A Gamage et.al.|[2503.05939](http://arxiv.org/abs/2503.05939)|**[link](https://github.com/asha-gamage/perception4prediction)**|
 |**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
 |**2025-03-06**|**Quantifying and Modeling Driving Styles in Trajectory Forecasting**|Laura Zheng et.al.|[2503.04994](http://arxiv.org/abs/2503.04994)|null|
 |**2025-03-06**|**INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**|Yihong Tang et.al.|[2503.04952](http://arxiv.org/abs/2503.04952)|null|
@@ -32,7 +32,7 @@
 |**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
 |**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|**[link](https://github.com/adept-thu/momad)**|
 |**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
-|**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
+|**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|**[link](https://github.com/githubhyz/delta)**|
 |**2025-03-02**|**TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models**|Gokul Puthumanaillam et.al.|[2503.00761](http://arxiv.org/abs/2503.00761)|null|
 |**2025-03-06**|**Particle Trajectory Prediction in Discrete Element Simulations using a Graph-Based Interaction-Aware Model**|Abhishek Setty et.al.|[2503.00215](http://arxiv.org/abs/2503.00215)|null|
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
@@ -269,7 +269,7 @@
 |**2025-03-13**|**MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**|Yuxiang Fu et.al.|[2503.09950](http://arxiv.org/abs/2503.09950)|null|
 |**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
 |**2025-03-12**|**Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping**|Aykut İşleyen et.al.|[2503.09515](http://arxiv.org/abs/2503.09515)|null|
-|**2025-03-12**|**Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems**|Rui Huang et.al.|[2503.09351](http://arxiv.org/abs/2503.09351)|null|
+|**2025-03-12**|**Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems**|Rui Huang et.al.|[2503.09351](http://arxiv.org/abs/2503.09351)|**[link](https://github.com/ruihuangnus/mars-ftcc)**|
 |**2025-03-12**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene Graphs**|Ermanno Bartoli et.al.|[2503.09173](http://arxiv.org/abs/2503.09173)|null|
 |**2025-03-12**|**Traffic Regulation-aware Path Planning with Regulation Databases and Vision-Language Models**|Xu Han et.al.|[2503.09024](http://arxiv.org/abs/2503.09024)|null|
 |**2025-03-11**|**Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps**|Yanhao Yang et.al.|[2503.08817](http://arxiv.org/abs/2503.08817)|null|
@@ -290,8 +290,8 @@
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
 |**2025-03-10**|**Discrete Gaussian Process Representations for Optimising UAV-based Precision Weed Mapping**|Jacob Swindell et.al.|[2503.07210](http://arxiv.org/abs/2503.07210)|null|
 |**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[2503.07020](http://arxiv.org/abs/2503.07020)|null|
-|**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|null|
-|**2025-03-09**|**pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning**|Chih H. Huang et.al.|[2503.06757](http://arxiv.org/abs/2503.06757)|null|
+|**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|**[link](https://github.com/renkai99/LCSS-control)**|
+|**2025-03-09**|**pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning**|Chih H. Huang et.al.|[2503.06757](http://arxiv.org/abs/2503.06757)|**[link](https://github.com/CoMMALab/pRRTC)**|
 |**2025-03-09**|**Quantum Speedup in Dissecting Roots and Solving Nonlinear Algebraic Equations**|Nhat A. Nghiem et.al.|[2503.06609](http://arxiv.org/abs/2503.06609)|null|
 |**2025-03-07**|**Accelerating db-A $^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
 |**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398](http://arxiv.org/abs/2503.05398)|null|
@@ -304,22 +304,22 @@
 |**2025-03-06**|**AUTOFRAME -- A Software-driven Integration Framework for Automotive Systems**|Sven Kirchner et.al.|[2503.04928](http://arxiv.org/abs/2503.04928)|null|
 |**2025-03-06**|**SeGMan: Sequential and Guided Manipulation Planner for Robust Planning in 2D Constrained Environments**|Cankut Bora Tuncer et.al.|[2503.04409](http://arxiv.org/abs/2503.04409)|null|
 |**2025-03-07**|**Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models**|Niccolò Turcato et.al.|[2503.04280](http://arxiv.org/abs/2503.04280)|null|
-|**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[2503.04159](http://arxiv.org/abs/2503.04159)|null|
+|**2025-03-06**|**Simulation-based Analysis Of Highway Trajectory Planning Using High-Order Polynomial For Highly Automated Driving Function**|Milin Patel et.al.|[2503.04159](http://arxiv.org/abs/2503.04159)|**[link](https://github.com/milinpatel07/TGAS-Sim)**|
 |**2025-03-06**|**Planning and Control for Deformable Linear Object Manipulation**|Burak Aksoy et.al.|[2503.04007](http://arxiv.org/abs/2503.04007)|null|
 |**2025-03-05**|**GO-VMP: Global Optimization for View Motion Planning in Fruit Mapping**|Allen Isaac Jose et.al.|[2503.03912](http://arxiv.org/abs/2503.03912)|null|
 |**2025-03-05**|**Motion Planning and Control with Unknown Nonlinear Dynamics through Predicted Reachability**|Zhiquan Zhang et.al.|[2503.03633](http://arxiv.org/abs/2503.03633)|null|
 |**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579](http://arxiv.org/abs/2503.03579)|null|
 |**2025-03-05**|**A Benchmark for Optimal Multi-Modal Multi-Robot Multi-Goal Path Planning with Given Robot Assignment**|Valentin N. Hartmann et.al.|[2503.03509](http://arxiv.org/abs/2503.03509)|null|
-|**2025-03-05**|**SEAL: Safety Enhanced Trajectory Planning and Control Framework for Quadrotor Flight in Complex Environments**|Yiming Wang et.al.|[2503.03346](http://arxiv.org/abs/2503.03346)|null|
+|**2025-03-05**|**SEAL: Safety Enhanced Trajectory Planning and Control Framework for Quadrotor Flight in Complex Environments**|Yiming Wang et.al.|[2503.03346](http://arxiv.org/abs/2503.03346)|**[link](https://github.com/ma29-hit/seal)**|
 |**2025-03-05**|**Navigating Intelligence: A Survey of Google OR-Tools and Machine Learning for Global Path Planning in Autonomous Vehicles**|Alexandre Benoit et.al.|[2503.03338](http://arxiv.org/abs/2503.03338)|null|
 |**2025-03-05**|**BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation**|Hiep Truong Cong et.al.|[2503.03280](http://arxiv.org/abs/2503.03280)|null|
 |**2025-03-05**|**STORM: Spatial-Temporal Iterative Optimization for Reliable Multicopter Trajectory Generation**|Jinhao Zhang et.al.|[2503.03252](http://arxiv.org/abs/2503.03252)|null|
 |**2025-03-05**|**Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment**|Han Zheng et.al.|[2503.03208](http://arxiv.org/abs/2503.03208)|null|
-|**2025-03-05**|**BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**|Katharina Winter et.al.|[2503.03074](http://arxiv.org/abs/2503.03074)|null|
+|**2025-03-05**|**BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**|Katharina Winter et.al.|[2503.03074](http://arxiv.org/abs/2503.03074)|**[link](https://github.com/intelligent-vehicles/bevdriver)**|
 |**2025-03-04**|**ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**|Yufei Wang et.al.|[2503.03045](http://arxiv.org/abs/2503.03045)|null|
 |**2025-03-04**|**Scalable Multi-Robot Task Allocation and Coordination under Signal Temporal Logic Specifications**|Wenliang Liu et.al.|[2503.02719](http://arxiv.org/abs/2503.02719)|null|
 |**2025-03-04**|**Multi-Strategy Enhanced COA for Path Planning in Autonomous Navigation**|Yifei Wang et.al.|[2503.02700](http://arxiv.org/abs/2503.02700)|null|
-|**2025-03-04**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|null|
+|**2025-03-04**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|**[link](https://github.com/zju-fast-lab/seb_naver)**|
 |**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
 |**2025-03-03**|**NavG: Risk-Aware Navigation in Crowded Environments Based on Reinforcement Learning with Guidance Points**|Qianyi Zhang et.al.|[2503.02111](http://arxiv.org/abs/2503.02111)|null|
 |**2025-03-03**|**Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation**|Yongchao Chen et.al.|[2503.01700](http://arxiv.org/abs/2503.01700)|null|
@@ -448,8 +448,8 @@
 |**2025-01-20**|**An Analysis of the Correctness and Computational Complexity of Path Planning in Payment Channel Networks**|Padraig Corcoran et.al.|[2501.11419](http://arxiv.org/abs/2501.11419)|null|
 |**2025-01-19**|**Front Hair Styling Robot System Using Path Planning for Root-Centric Strand Adjustment**|Soonhyo Kim et.al.|[2501.10991](http://arxiv.org/abs/2501.10991)|null|
 |**2025-01-18**|**Systems Engineering for Autonomous Vehicles; Supervising AI using Large Language Models (SSuperLLM)**|Diomidis Katzourakis et.al.|[2501.10839](http://arxiv.org/abs/2501.10839)|null|
-|**2025-01-18**|**Graph Coloring to Reduce Computation Time in Prioritized Planning**|Patrick Scheffe et.al.|[2501.10812](http://arxiv.org/abs/2501.10812)|null|
-|**2025-01-18**|**Simultaneous Computation with Multiple Prioritizations in Multi-Agent Motion Planning**|Patrick Scheffe et.al.|[2501.10781](http://arxiv.org/abs/2501.10781)|null|
+|**2025-01-18**|**Graph Coloring to Reduce Computation Time in Prioritized Planning**|Patrick Scheffe et.al.|[2501.10812](http://arxiv.org/abs/2501.10812)|**[link](https://github.com/embedded-software-laboratory/p-dmpc)**|
+|**2025-01-18**|**Simultaneous Computation with Multiple Prioritizations in Multi-Agent Motion Planning**|Patrick Scheffe et.al.|[2501.10781](http://arxiv.org/abs/2501.10781)|**[link](https://github.com/embedded-software-laboratory/p-dmpc)**|
 |**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[2501.10636](http://arxiv.org/abs/2501.10636)|null|
 |**2025-01-18**|**RoMu4o: A Robotic Manipulation Unit For Orchard Operations Automating Proximal Hyperspectral Leaf Sensing**|Mehrad Mortazavi et.al.|[2501.10621](http://arxiv.org/abs/2501.10621)|**[link](https://github.com/mehradmrt/ucm-agbot-ros2)**|
 |**2025-01-17**|**Tailwind turbulence: a bound on the energy available from turbulence for transit, tested in Kraichnan's model**|Scott A. Bollt et.al.|[2501.10569](http://arxiv.org/abs/2501.10569)|null|
