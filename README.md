@@ -192,7 +192,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
 |**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091](http://arxiv.org/abs/2503.11091)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
@@ -266,6 +266,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
+|**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848](http://arxiv.org/abs/2503.14848)|null|
+|**2025-03-18**|**Safety-Critical and Distributed Nonlinear Predictive Controllers for Teams of Quadrupedal Robots**|Basit Muhammad Imran et.al.|[2503.14656](http://arxiv.org/abs/2503.14656)|null|
 |**2025-03-18**|**Variable Time-Step MPC for Agile Multi-Rotor UAV Interception of Dynamic Targets**|Atharva Ghotavadekar et.al.|[2503.14184](http://arxiv.org/abs/2503.14184)|null|
 |**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182](http://arxiv.org/abs/2503.14182)|null|
 |**2025-03-18**|**GPU-Accelerated Motion Planning of an Underactuated Forestry Crane in Cluttered Environments**|Minh Nhat Vu et.al.|[2503.14160](http://arxiv.org/abs/2503.14160)|null|
