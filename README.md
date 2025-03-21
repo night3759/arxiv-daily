@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-18**|**Stochastic Trajectory Prediction under Unstructured Constraints**|Hao Ma et.al.|[2503.14203](http://arxiv.org/abs/2503.14203)|null|
 |**2025-03-17**|**COSMOS: Continuous Simplicial Neural Networks**|Aref Einizade et.al.|[2503.12919](http://arxiv.org/abs/2503.12919)|null|
 |**2025-03-16**|**CDKFormer: Contextual Deviation Knowledge-Based Transformer for Long-Tail Trajectory Prediction**|Yuansheng Lian et.al.|[2503.12695](http://arxiv.org/abs/2503.12695)|null|
@@ -191,6 +192,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
 |**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
 |**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091](http://arxiv.org/abs/2503.11091)|null|
@@ -266,6 +268,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Asymptotically Optimal Path Planning With an Approximation of the Omniscient Set**|Jonáš Kříž et.al.|[2503.16164](http://arxiv.org/abs/2503.16164)|null|
+|**2025-03-20**|**APEX-MR: Multi-Robot Asynchronous Planning and Execution for Cooperative Assembly**|Philip Huang et.al.|[2503.15836](http://arxiv.org/abs/2503.15836)|null|
+|**2025-03-19**|**Experience-based Optimal Motion Planning Algorithm for Solving Difficult Planning Problems Using a Limited Dataset**|Ryota Takamido et.al.|[2503.15715](http://arxiv.org/abs/2503.15715)|null|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
 |**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848](http://arxiv.org/abs/2503.14848)|null|
 |**2025-03-18**|**Safety-Critical and Distributed Nonlinear Predictive Controllers for Teams of Quadrupedal Robots**|Basit Muhammad Imran et.al.|[2503.14656](http://arxiv.org/abs/2503.14656)|null|
