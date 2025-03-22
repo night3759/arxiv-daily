@@ -275,7 +275,7 @@
 |**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848](http://arxiv.org/abs/2503.14848)|null|
 |**2025-03-18**|**Safety-Critical and Distributed Nonlinear Predictive Controllers for Teams of Quadrupedal Robots**|Basit Muhammad Imran et.al.|[2503.14656](http://arxiv.org/abs/2503.14656)|null|
 |**2025-03-18**|**Variable Time-Step MPC for Agile Multi-Rotor UAV Interception of Dynamic Targets**|Atharva Ghotavadekar et.al.|[2503.14184](http://arxiv.org/abs/2503.14184)|null|
-|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182](http://arxiv.org/abs/2503.14182)|null|
+|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[2503.14182](http://arxiv.org/abs/2503.14182)|**[link](https://github.com/fudan-zvg/bridgead)**|
 |**2025-03-18**|**GPU-Accelerated Motion Planning of an Underactuated Forestry Crane in Cluttered Environments**|Minh Nhat Vu et.al.|[2503.14160](http://arxiv.org/abs/2503.14160)|null|
 |**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446](http://arxiv.org/abs/2503.13446)|null|
