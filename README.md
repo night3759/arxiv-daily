@@ -12,11 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|null|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-18**|**Stochastic Trajectory Prediction under Unstructured Constraints**|Hao Ma et.al.|[2503.14203](http://arxiv.org/abs/2503.14203)|null|
 |**2025-03-17**|**COSMOS: Continuous Simplicial Neural Networks**|Aref Einizade et.al.|[2503.12919](http://arxiv.org/abs/2503.12919)|null|
 |**2025-03-16**|**CDKFormer: Contextual Deviation Knowledge-Based Transformer for Long-Tail Trajectory Prediction**|Yuansheng Lian et.al.|[2503.12695](http://arxiv.org/abs/2503.12695)|null|
-|**2025-03-15**|**Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**|Zhenxin Li et.al.|[2503.12030](http://arxiv.org/abs/2503.12030)|null|
+|**2025-03-15**|**Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**|Zhenxin Li et.al.|[2503.12030](http://arxiv.org/abs/2503.12030)|**[link](https://github.com/woxihuanjiangguo/hydra-next)**|
 |**2025-03-13**|**Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM**|Yizhou Huang et.al.|[2503.10898](http://arxiv.org/abs/2503.10898)|null|
 |**2025-03-13**|**MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation**|Yuxiang Fu et.al.|[2503.09950](http://arxiv.org/abs/2503.09950)|null|
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
@@ -268,7 +269,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**Asymptotically Optimal Path Planning With an Approximation of the Omniscient Set**|Jonáš Kříž et.al.|[2503.16164](http://arxiv.org/abs/2503.16164)|null|
+|**2025-03-20**|**Ground and Flight Locomotion for Two-Wheeled Drones via Model Predictive Path Integral Control**|Gosuke Kojima et.al.|[2503.16715](http://arxiv.org/abs/2503.16715)|null|
+|**2025-03-20**|**Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes**|Ashten Akemoto et.al.|[2503.16613](http://arxiv.org/abs/2503.16613)|null|
+|**2025-03-20**|**Asymptotically Optimal Path Planning With an Approximation of the Omniscient Set**|Jonáš Kříž et.al.|[2503.16164](http://arxiv.org/abs/2503.16164)|**[link](https://github.com/BipoaroXigen/JPL)**|
 |**2025-03-20**|**APEX-MR: Multi-Robot Asynchronous Planning and Execution for Cooperative Assembly**|Philip Huang et.al.|[2503.15836](http://arxiv.org/abs/2503.15836)|null|
 |**2025-03-19**|**Experience-based Optimal Motion Planning Algorithm for Solving Difficult Planning Problems Using a Limited Dataset**|Ryota Takamido et.al.|[2503.15715](http://arxiv.org/abs/2503.15715)|null|
 |**2025-03-19**|**Exploiting Prior Knowledge in Preferential Learning of Individualized Autonomous Vehicle Driving Styles**|Lukas Theiner et.al.|[2503.15407](http://arxiv.org/abs/2503.15407)|null|
