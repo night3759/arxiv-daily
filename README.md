@@ -39,7 +39,7 @@
 |**2025-03-06**|**INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**|Yihong Tang et.al.|[2503.04952](http://arxiv.org/abs/2503.04952)|null|
 |**2025-03-05**|**DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction**|Yuheng Kuang et.al.|[2503.04823](http://arxiv.org/abs/2503.04823)|null|
 |**2025-03-10**|**Digital Twin-Enabled Blockage-Aware Dynamic mmWave Multi-Hop V2X Communication**|Supat Roongpraiwan et.al.|[2503.03590](http://arxiv.org/abs/2503.03590)|null|
-|**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
+|**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|**[link](https://github.com/vita-epfl/monotransmotion)**|
 |**2025-03-05**|**Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions**|Nadya Abdel Madjid et.al.|[2503.03262](http://arxiv.org/abs/2503.03262)|null|
 |**2025-03-06**|**Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving**|Ziying Song et.al.|[2503.03125](http://arxiv.org/abs/2503.03125)|**[link](https://github.com/adept-thu/momad)**|
 |**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
@@ -285,7 +285,7 @@
 |**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
-|**2025-03-24**|**Learning Orientation Field for OSM-Guided Autonomous Navigation**|Yuming Huang et.al.|[2503.18276](http://arxiv.org/abs/2503.18276)|null|
+|**2025-03-24**|**Learning Orientation Field for OSM-Guided Autonomous Navigation**|Yuming Huang et.al.|[2503.18276](http://arxiv.org/abs/2503.18276)|**[link](https://github.com/imrl/orifield)**|
 |**2025-03-23**|**PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos**|Hanxiao Jiang et.al.|[2503.17973](http://arxiv.org/abs/2503.17973)|null|
 |**2025-03-20**|**Ground and Flight Locomotion for Two-Wheeled Drones via Model Predictive Path Integral Control**|Gosuke Kojima et.al.|[2503.16715](http://arxiv.org/abs/2503.16715)|null|
 |**2025-03-20**|**Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes**|Ashten Akemoto et.al.|[2503.16613](http://arxiv.org/abs/2503.16613)|null|
@@ -690,7 +690,7 @@
 |**2024-11-17**|**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**|Zikang Zhou et.al.|[2411.11911](http://arxiv.org/abs/2411.11911)|null|
 |**2024-11-18**|**Differentiable GPU-Parallelized Task and Motion Planning**|William Shen et.al.|[2411.11833](http://arxiv.org/abs/2411.11833)|null|
 |**2024-11-18**|**cHyRRT and cHySST: Two Motion Planning Tools for Hybrid Dynamical Systems**|Beverly Xu et.al.|[2411.11812](http://arxiv.org/abs/2411.11812)|null|
-|**2024-11-18**|**Multi-hop Differential Topology based Algorithms for Resilient Network of UAV Swarm**|Huan Lin et.al.|[2411.11342](http://arxiv.org/abs/2411.11342)|null|
+|**2024-11-18**|**Multi-hop Differential Topology based Algorithms for Resilient Network of UAV Swarm**|Huan Lin et.al.|[2411.11342](http://arxiv.org/abs/2411.11342)|**[link](https://github.com/lytxzt/Multi-hop-Differential-Topology-based-Algorithms-for-Resilient-Network-of-UAV-Swarm)**|
 |**2024-11-17**|**Map-Free Trajectory Prediction with Map Distillation and Hierarchical Encoding**|Xiaodong Liu et.al.|[2411.10961](http://arxiv.org/abs/2411.10961)|null|
 |**2024-11-17**|**Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization**|D. Fan et.al.|[2411.10941](http://arxiv.org/abs/2411.10941)|**[link](https://github.com/Herpderk/parameter-affine-relaxation)**|
 |**2024-11-16**|**Hierarchical Adaptive Motion Planning with Nonlinear Model Predictive Control for Safety-Critical Collaborative Loco-Manipulation**|Mohsen Sombolestan et.al.|[2411.10699](http://arxiv.org/abs/2411.10699)|**[link](https://github.com/drcl-usc/collaborative_loco_manipulation)**|
@@ -815,7 +815,7 @@
 |**2024-10-13**|**Physics-informed Neural Mapping and Motion Planning in Unknown Environments**|Yuchen Liu et.al.|[2410.09883](http://arxiv.org/abs/2410.09883)|**[link](https://github.com/rtlyc/antfields-demo)**|
 |**2024-10-13**|**Socially Aware Motion Planning for Service Robots Using LiDAR and RGB-D Camera**|Duc Phu Nguyen et.al.|[2410.09803](http://arxiv.org/abs/2410.09803)|null|
 |**2024-10-13**|**Model Predictive Control for Optimal Motion Planning of Unmanned Aerial Vehicles**|Duy-Nam Bui et.al.|[2410.09799](http://arxiv.org/abs/2410.09799)|null|
-|**2024-10-13**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[2410.09681](http://arxiv.org/abs/2410.09681)|null|
+|**2024-10-13**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[2410.09681](http://arxiv.org/abs/2410.09681)|**[link](https://github.com/rst-tu-dortmund/lord)**|
 |**2024-10-12**|**HG2P: Hippocampus-inspired High-reward Graph and Model-Free Q-Gradient Penalty for Path Planning and Motion Control**|Haoran Wang et.al.|[2410.09505](http://arxiv.org/abs/2410.09505)|**[link](https://github.com/haoranwang-tj/hg2p_aclg_official)**|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-11**|**Motion Planning for Object Manipulation by Edge-Rolling**|Maede Boroji et.al.|[2410.09301](http://arxiv.org/abs/2410.09301)|null|
