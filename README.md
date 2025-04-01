@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -193,7 +193,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## Perception
 
@@ -270,7 +270,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## Planning
 
@@ -281,7 +281,7 @@
 |**2025-03-27**|**Bayesian Inferential Motion Planning Using Heavy-Tailed Distributions**|Ali Vaziri et.al.|[2503.22030](http://arxiv.org/abs/2503.22030)|null|
 |**2025-03-27**|**Cooking Task Planning using LLM and Verified by Graph Network**|Ryunosuke Takebayashi et.al.|[2503.21564](http://arxiv.org/abs/2503.21564)|null|
 |**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
-|**2025-03-26**|**A Hopf-Lax Type Formula for Multi-Agent Path Planning with Pattern Coordination**|Christian Parkinson et.al.|[2503.20974](http://arxiv.org/abs/2503.20974)|null|
+|**2025-03-26**|**A Hopf-Lax Type Formula for Multi-Agent Path Planning with Pattern Coordination**|Christian Parkinson et.al.|[2503.20974](http://arxiv.org/abs/2503.20974)|**[link](https://github.com/chparkinson/HL_multi_agent_pattern)**|
 |**2025-03-26**|**On the order of the shortest solution sequences for the pebble motion problems**|Tomoki Nakamigawa et.al.|[2503.20550](http://arxiv.org/abs/2503.20550)|null|
 |**2025-03-26**|**Combining Machine Learning and Sampling-Based Search for Multi-Goal Motion Planning with Dynamics**|Yuanjie Lu et.al.|[2503.20530](http://arxiv.org/abs/2503.20530)|null|
 |**2025-03-26**|**CTS-CBS: A New Approach for Multi-Agent Collaborative Task Sequencing and Path Finding**|Junkai Jiang et.al.|[2503.20324](http://arxiv.org/abs/2503.20324)|null|
@@ -949,5 +949,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
