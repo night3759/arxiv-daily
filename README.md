@@ -12,7 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|null|
+|**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272](http://arxiv.org/abs/2503.24272)|null|
+|**2025-03-31**|**Joint Modeling of Multiple Longitudinal Biomarkers and Survival Outcomes via Threshold Regression: Variability as a Predictor**|Mingyan Yu et.al.|[2503.24146](http://arxiv.org/abs/2503.24146)|null|
+|**2025-03-30**|**OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users**|Zhangcun Yan et.al.|[2503.23365](http://arxiv.org/abs/2503.23365)|null|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|**[link](https://github.com/jaewoo97/kdtf)**|
 |**2025-03-27**|**A Multi-Modal Knowledge-Enhanced Framework for Vessel Trajectory Prediction**|Haomin Yu et.al.|[2503.21834](http://arxiv.org/abs/2503.21834)|null|
 |**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[2503.21477](http://arxiv.org/abs/2503.21477)|null|
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755](http://arxiv.org/abs/2503.19755)|null|
@@ -199,6 +202,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
+|**2025-03-29**|**Uncertainty-Instructed Structure Injection for Generalizable HD Map Construction**|Xiaolu Liu et.al.|[2503.23109](http://arxiv.org/abs/2503.23109)|**[link](https://github.com/xiaolul2/uigenmap)**|
+|**2025-03-29**|**Advancing THz Radio Map Construction and Obstacle Sensing: An Integrated Generative Framework in ISAC**|Tianyu Hu et.al.|[2503.23055](http://arxiv.org/abs/2503.23055)|null|
 |**2025-03-23**|**Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
@@ -276,6 +282,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Value of Information-based Deceptive Path Planning Under Adversarial Interventions**|Wesley A. Suttle et.al.|[2503.24284](http://arxiv.org/abs/2503.24284)|null|
+|**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044](http://arxiv.org/abs/2503.24044)|null|
+|**2025-03-31**|**A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi**|Chenyu Zhang et.al.|[2503.23975](http://arxiv.org/abs/2503.23975)|null|
+|**2025-03-31**|**Less is More: Contextual Sampling for Nonlinear Data-Enabled Predictive Control**|Julius Beerwerth et.al.|[2503.23890](http://arxiv.org/abs/2503.23890)|null|
+|**2025-03-31**|**Trajectory Planning for Automated Driving using Target Funnels**|Benjamin Bogenberger et.al.|[2503.23795](http://arxiv.org/abs/2503.23795)|null|
+|**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[2503.23650](http://arxiv.org/abs/2503.23650)|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
+|**2025-03-30**|**Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**|Jiexin Wang et.al.|[2503.23381](http://arxiv.org/abs/2503.23381)|null|
+|**2025-03-29**|**Energy-Aware Lane Planning for Connected Electric Vehicles in Urban Traffic: Design and Vehicle-in-the-Loop Validation**|Hansung Kim et.al.|[2503.23228](http://arxiv.org/abs/2503.23228)|null|
+|**2025-03-29**|**Distortion Bounds of Subdivision Models for SO(3)**|Zhaoqi Zhang et.al.|[2503.22961](http://arxiv.org/abs/2503.22961)|null|
 |**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588](http://arxiv.org/abs/2503.22588)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
 |**2025-03-27**|**Bayesian Inferential Motion Planning Using Heavy-Tailed Distributions**|Ali Vaziri et.al.|[2503.22030](http://arxiv.org/abs/2503.22030)|null|
