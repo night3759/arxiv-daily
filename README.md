@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**|Chandra Raskoti et.al.|[2504.05059](http://arxiv.org/abs/2504.05059)|null|
+|**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991](http://arxiv.org/abs/2504.04991)|null|
+|**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
 |**2025-04-03**|**Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework**|Christian Alexander Holz et.al.|[2504.02519](http://arxiv.org/abs/2504.02519)|null|
 |**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
 |**2025-04-01**|**Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes**|Dhanika Mahipala et.al.|[2504.00731](http://arxiv.org/abs/2504.00731)|null|
@@ -205,6 +208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Control Map Distribution using Map Query Bank for Online Map Generation**|Ziming Liu et.al.|[2504.03868](http://arxiv.org/abs/2504.03868)|null|
 |**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
 |**2025-03-29**|**Uncertainty-Instructed Structure Injection for Generalizable HD Map Construction**|Xiaolu Liu et.al.|[2503.23109](http://arxiv.org/abs/2503.23109)|**[link](https://github.com/xiaolul2/uigenmap)**|
 |**2025-03-29**|**Advancing THz Radio Map Construction and Obstacle Sensing: An Integrated Generative Framework in ISAC**|Tianyu Hu et.al.|[2503.23055](http://arxiv.org/abs/2503.23055)|null|
@@ -285,6 +289,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Safe and Efficient Coexistence of Autonomous Vehicles with Human-Driven Traffic at Signalized Intersections**|Filippos N. Tzortzoglou et.al.|[2504.05101](http://arxiv.org/abs/2504.05101)|null|
+|**2025-04-07**|**Constrained Gaussian Process Motion Planning via Stein Variational Newton Inference**|Jiayun Li et.al.|[2504.04936](http://arxiv.org/abs/2504.04936)|null|
+|**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
+|**2025-04-07**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675](http://arxiv.org/abs/2504.04675)|null|
+|**2025-04-06**|**B4P: Simultaneous Grasp and Motion Planning for Object Placement via Parallelized Bidirectional Forests and Path Repair**|Benjamin H. Leebron et.al.|[2504.04598](http://arxiv.org/abs/2504.04598)|null|
+|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
+|**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[2504.04419](http://arxiv.org/abs/2504.04419)|null|
+|**2025-04-06**|**Data Scaling Laws for End-to-End Autonomous Driving**|Alexander Naumann et.al.|[2504.04338](http://arxiv.org/abs/2504.04338)|null|
+|**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
+|**2025-04-04**|**Deep Learning-Enhanced Robotic Subretinal Injection with Real-Time Retinal Motion Compensation**|Tianle Wu et.al.|[2504.03939](http://arxiv.org/abs/2504.03939)|null|
 |**2025-04-04**|**Dynamic Objective MPC for Motion Planning of Seamless Docking Maneuvers**|Oliver Schumann et.al.|[2504.03280](http://arxiv.org/abs/2504.03280)|null|
 |**2025-04-04**|**Energy Aware and Safe Path Planning for Unmanned Aircraft Systems**|Sebastian Gasche et.al.|[2504.03271](http://arxiv.org/abs/2504.03271)|null|
 |**2025-04-04**|**Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments**|Ze Zhang et.al.|[2504.03260](http://arxiv.org/abs/2504.03260)|null|
