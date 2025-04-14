@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654](http://arxiv.org/abs/2504.08654)|null|
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-07**|**DyTTP: Trajectory Prediction with Normalization-Free Transformers**|Yunxiang Liu et.al.|[2504.05356](http://arxiv.org/abs/2504.05356)|null|
 |**2025-04-07**|**MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**|Chandra Raskoti et.al.|[2504.05059](http://arxiv.org/abs/2504.05059)|null|
@@ -210,6 +211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
 |**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647](http://arxiv.org/abs/2504.06647)|**[link](https://github.com/pnnnnnnn/uni-prevpredmap)**|
 |**2025-04-04**|**Control Map Distribution using Map Query Bank for Online Map Generation**|Ziming Liu et.al.|[2504.03868](http://arxiv.org/abs/2504.03868)|null|
@@ -293,6 +295,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
+|**2025-04-11**|**Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots**|Juntao He et.al.|[2504.08615](http://arxiv.org/abs/2504.08615)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
+|**2025-04-11**|**Approximation Algorithms for the UAV Path Planning with Object Coverage Constraints**|Jiawei Wang et.al.|[2504.08405](http://arxiv.org/abs/2504.08405)|null|
+|**2025-04-11**|**RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments**|Zhang Zhaopeng et.al.|[2504.08338](http://arxiv.org/abs/2504.08338)|null|
+|**2025-04-11**|**Interior Point Differential Dynamic Programming, Redux**|Ming Xu et.al.|[2504.08278](http://arxiv.org/abs/2504.08278)|null|
+|**2025-04-11**|**CATCH-FORM-ACTer: Compliance-Aware Tactile Control and Hybrid Deformation Regulation-Based Action Transformer for Viscoelastic Object Manipulation**|Hongjun Ma et.al.|[2504.08232](http://arxiv.org/abs/2504.08232)|null|
+|**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
 |**2025-04-10**|**Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation**|Yisheng Li et.al.|[2504.07554](http://arxiv.org/abs/2504.07554)|null|
 |**2025-04-09**|**Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments**|Licheng Luo et.al.|[2504.07283](http://arxiv.org/abs/2504.07283)|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001](http://arxiv.org/abs/2504.07001)|null|
