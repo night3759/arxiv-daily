@@ -1,4 +1,4 @@
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -204,7 +204,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Perception
 
@@ -287,7 +287,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Planning
 
@@ -300,7 +300,7 @@
 |**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Junrui Zhang et.al.|[2504.06584](http://arxiv.org/abs/2504.06584)|**[link](https://github.com/alniyatrui/cafe-ad)**|
 |**2025-04-08**|**Extended Version: Multi-Robot Motion Planning with Cooperative Localization**|Anne Theurkauf et.al.|[2504.06429](http://arxiv.org/abs/2504.06429)|null|
 |**2025-04-08**|**Conformal Slit Mapping Based Spiral Tool Trajectory Planning for Ball-end Milling on Complex Freeform Surfaces**|Changqing Shen et.al.|[2504.06310](http://arxiv.org/abs/2504.06310)|null|
-|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
+|**2025-04-11**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
 |**2025-04-08**|**Exploring Adversarial Obstacle Attacks in Search-based Path Planning for Autonomous Mobile Robots**|Adrian Szvoren et.al.|[2504.06154](http://arxiv.org/abs/2504.06154)|null|
 |**2025-04-08**|**Accelerated Reeds-Shepp and Under-Specified Reeds-Shepp Algorithms for Mobile Robot Path Planning**|Ibrahim Ibrahim et.al.|[2504.05921](http://arxiv.org/abs/2504.05921)|null|
 |**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649](http://arxiv.org/abs/2504.05649)|null|
@@ -1022,5 +1022,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
