@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
 |**2025-04-12**|**IMPACT: Behavioral Intention-aware Multimodal Trajectory Prediction with Adaptive Context Trimming**|Jiawei Sun et.al.|[2504.09103](http://arxiv.org/abs/2504.09103)|null|
 |**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654](http://arxiv.org/abs/2504.08654)|null|
@@ -213,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
 |**2025-04-14**|**SIO-Mapper: A Framework for Lane-Level HD Map Construction Using Satellite Images and OpenStreetMap with No On-Site Visits**|Younghun Cho et.al.|[2504.09882](http://arxiv.org/abs/2504.09882)|null|
 |**2025-04-11**|**DSM: Building A Diverse Semantic Map for 3D Visual Grounding**|Qinghongbing Xie et.al.|[2504.08307](http://arxiv.org/abs/2504.08307)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
@@ -298,6 +300,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
+|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
+|**2025-04-15**|**A Sublinear Algorithm for Path Feasibility Among Rectangular Obstacles**|Alex Fan et.al.|[2504.10859](http://arxiv.org/abs/2504.10859)|null|
+|**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
+|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
+|**2025-04-14**|**HyRRT-Connect: Bidirectional Motion Planning for Hybrid Dynamical Systems**|Nan Wang et.al.|[2504.10699](http://arxiv.org/abs/2504.10699)|null|
 |**2025-04-14**|**Layered Multirate Control of Constrained Linear Systems**|Charis Stamouli et.al.|[2504.10461](http://arxiv.org/abs/2504.10461)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
 |**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225](http://arxiv.org/abs/2504.10225)|null|
