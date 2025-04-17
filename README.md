@@ -300,6 +300,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing**|Frederik Werner et.al.|[2504.12115](http://arxiv.org/abs/2504.12115)|null|
+|**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[2504.12109](http://arxiv.org/abs/2504.12109)|null|
+|**2025-04-16**|**Generation of Paths for Motion Planning for a Dubins Vehicle on Sphere**|Deepak Prakash Kumar et.al.|[2504.11832](http://arxiv.org/abs/2504.11832)|null|
+|**2025-04-16**|**Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning**|Thu Hang Khuat et.al.|[2504.11823](http://arxiv.org/abs/2504.11823)|null|
 |**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
 |**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
 |**2025-04-15**|**A Sublinear Algorithm for Path Feasibility Among Rectangular Obstacles**|Alex Fan et.al.|[2504.10859](http://arxiv.org/abs/2504.10859)|null|
