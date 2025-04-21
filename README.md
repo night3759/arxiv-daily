@@ -260,7 +260,7 @@
 |**2024-11-19**|**Dimension estimate and existence of holomorphic sections with polynomial growth on gradient Kähler Ricci shrinkers**|Fei He et.al.|[2411.12171](http://arxiv.org/abs/2411.12171)|null|
 |**2024-11-17**|**Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation**|Nayeon Kim et.al.|[2411.11002](http://arxiv.org/abs/2411.11002)|null|
 |**2024-12-10**|**M3TR: Generalist HD Map Construction with Variable Map Priors**|Fabian Immel et.al.|[2411.10316](http://arxiv.org/abs/2411.10316)|**[link](https://github.com/immel-f/m3tr)**|
-|**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887](http://arxiv.org/abs/2411.08887)|null|
+|**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887](http://arxiv.org/abs/2411.08887)|**[link](https://github.com/darwen9/ckmimagenet)**|
 |**2024-11-13**|**Efficient Trajectory Generation in 3D Environments with Multi-Level Map Construction**|Chengkun Tian et.al.|[2411.08323](http://arxiv.org/abs/2411.08323)|null|
 |**2024-11-03**|**HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning**|Wenzhao Qiu et.al.|[2411.01408](http://arxiv.org/abs/2411.01408)|**[link](https://github.com/adasfag/heightmapnet)**|
 |**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278](http://arxiv.org/abs/2410.23278)|null|
@@ -312,17 +312,17 @@
 |**2025-04-17**|**UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control**|Yan Wu et.al.|[2504.12540](http://arxiv.org/abs/2504.12540)|null|
 |**2025-04-16**|**GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing**|Frederik Werner et.al.|[2504.12115](http://arxiv.org/abs/2504.12115)|null|
 |**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[2504.12109](http://arxiv.org/abs/2504.12109)|null|
-|**2025-04-16**|**Generation of Paths for Motion Planning for a Dubins Vehicle on Sphere**|Deepak Prakash Kumar et.al.|[2504.11832](http://arxiv.org/abs/2504.11832)|null|
-|**2025-04-16**|**Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning**|Thu Hang Khuat et.al.|[2504.11823](http://arxiv.org/abs/2504.11823)|null|
+|**2025-04-16**|**Generation of Paths for Motion Planning for a Dubins Vehicle on Sphere**|Deepak Prakash Kumar et.al.|[2504.11832](http://arxiv.org/abs/2504.11832)|**[link](https://github.com/deepakprakashkumar/motion-planning-on-sphere)**|
+|**2025-04-16**|**Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning**|Thu Hang Khuat et.al.|[2504.11823](http://arxiv.org/abs/2504.11823)|**[link](https://github.com/duynamrcv/multi-target_rrt)**|
 |**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
-|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
+|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|**[link](https://github.com/lc-robotics/freedom)**|
 |**2025-04-15**|**A Sublinear Algorithm for Path Feasibility Among Rectangular Obstacles**|Alex Fan et.al.|[2504.10859](http://arxiv.org/abs/2504.10859)|null|
 |**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
-|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
+|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|**[link](https://github.com/wernerpe/csdecomp)**|
 |**2025-04-14**|**HyRRT-Connect: Bidirectional Motion Planning for Hybrid Dynamical Systems**|Nan Wang et.al.|[2504.10699](http://arxiv.org/abs/2504.10699)|null|
 |**2025-04-14**|**Layered Multirate Control of Constrained Linear Systems**|Charis Stamouli et.al.|[2504.10461](http://arxiv.org/abs/2504.10461)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
-|**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225](http://arxiv.org/abs/2504.10225)|null|
+|**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225](http://arxiv.org/abs/2504.10225)|**[link](https://github.com/tum-avs/gggvdiagrams)**|
 |**2025-04-13**|**Unification of Consensus-Based Multi-Objective Optimization and Multi-Robot Path Planning**|Michael P. Wozniak et.al.|[2504.09577](http://arxiv.org/abs/2504.09577)|null|
 |**2025-04-12**|**Explorer: Robust Collection of Interactable GUI Elements**|Iason Chaimalas et.al.|[2504.09352](http://arxiv.org/abs/2504.09352)|**[link](https://github.com/varnelis/Explorer)**|
 |**2025-04-12**|**Concurrent-Allocation Task Execution for Multi-Robot Path-Crossing-Minimal Navigation in Obstacle Environments**|Bin-Bin Hu et.al.|[2504.09230](http://arxiv.org/abs/2504.09230)|null|
@@ -345,14 +345,14 @@
 |**2025-04-08**|**Exploring Adversarial Obstacle Attacks in Search-based Path Planning for Autonomous Mobile Robots**|Adrian Szvoren et.al.|[2504.06154](http://arxiv.org/abs/2504.06154)|null|
 |**2025-04-08**|**Accelerated Reeds-Shepp and Under-Specified Reeds-Shepp Algorithms for Mobile Robot Path Planning**|Ibrahim Ibrahim et.al.|[2504.05921](http://arxiv.org/abs/2504.05921)|null|
 |**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649](http://arxiv.org/abs/2504.05649)|null|
-|**2025-04-07**|**Lazy-DaSH: Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning**|Seongwon Lee et.al.|[2504.05552](http://arxiv.org/abs/2504.05552)|null|
+|**2025-04-07**|**Lazy-DaSH: Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning**|Seongwon Lee et.al.|[2504.05552](http://arxiv.org/abs/2504.05552)|**[link](https://github.com/parasollab/open-ppl)**|
 |**2025-04-07**|**Path Database Guidance for Motion Planning**|Amnon Attali et.al.|[2504.05550](http://arxiv.org/abs/2504.05550)|null|
 |**2025-04-07**|**Safe and Efficient Coexistence of Autonomous Vehicles with Human-Driven Traffic at Signalized Intersections**|Filippos N. Tzortzoglou et.al.|[2504.05101](http://arxiv.org/abs/2504.05101)|null|
 |**2025-04-07**|**Constrained Gaussian Process Motion Planning via Stein Variational Newton Inference**|Jiayun Li et.al.|[2504.04936](http://arxiv.org/abs/2504.04936)|null|
 |**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
 |**2025-04-08**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675](http://arxiv.org/abs/2504.04675)|null|
 |**2025-04-06**|**B4P: Simultaneous Grasp and Motion Planning for Object Placement via Parallelized Bidirectional Forests and Path Repair**|Benjamin H. Leebron et.al.|[2504.04598](http://arxiv.org/abs/2504.04598)|null|
-|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
+|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|**[link](https://github.com/mcgrche/LetsPi--Planning-Safety-Trajectories-with-Dual-Phase-Physics-Informed-LLM)**|
 |**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[2504.04419](http://arxiv.org/abs/2504.04419)|null|
 |**2025-04-06**|**Data Scaling Laws for End-to-End Autonomous Driving**|Alexander Naumann et.al.|[2504.04338](http://arxiv.org/abs/2504.04338)|null|
 |**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
@@ -718,7 +718,7 @@
 |**2024-12-13**|**Adaptive Dual-Headway Unicycle Pose Control and Motion Prediction for Optimal Sampling-Based Feedback Motion Planning**|Aykut İşleyen et.al.|[2412.10350](http://arxiv.org/abs/2412.10350)|null|
 |**2024-12-13**|**MeshA*: Efficient Path Planing With Motion Primitives**|Marat Agranovskiy et.al.|[2412.10320](http://arxiv.org/abs/2412.10320)|null|
 |**2024-12-13**|**Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**|Yuchen Fang et.al.|[2412.09972](http://arxiv.org/abs/2412.09972)|**[link](https://github.com/lmissher/patchstg)**|
-|**2024-12-13**|**WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**|Songyan Zhang et.al.|[2412.09951](http://arxiv.org/abs/2412.09951)|null|
+|**2024-12-13**|**WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**|Songyan Zhang et.al.|[2412.09951](http://arxiv.org/abs/2412.09951)|**[link](https://github.com/wyddmw/WiseAD)**|
 |**2024-12-12**|**Should We Learn Contact-Rich Manipulation Policies from Sampling-Based Planners?**|Huaijiang Zhu et.al.|[2412.09743](http://arxiv.org/abs/2412.09743)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
