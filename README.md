@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Any Convex Parametric Shapes**|Duy-Tho Le et.al.|[2504.16443](http://arxiv.org/abs/2504.16443)|null|
+|**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[2504.16377](http://arxiv.org/abs/2504.16377)|null|
 |**2025-04-23**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
 |**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766](http://arxiv.org/abs/2504.15766)|null|
 |**2025-04-22**|**SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction**|Kai Chen et.al.|[2504.15616](http://arxiv.org/abs/2504.15616)|null|
@@ -222,6 +224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Lightweight and Self-Evolving Channel Twinning: An Ensemble DMD-Assisted Approach**|Yashuai Cao et.al.|[2504.16376](http://arxiv.org/abs/2504.16376)|null|
 |**2025-04-22**|**RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623](http://arxiv.org/abs/2504.15623)|null|
 |**2025-04-19**|**RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**|Xiucheng Wang et.al.|[2504.14298](http://arxiv.org/abs/2504.14298)|null|
 |**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[2504.12826](http://arxiv.org/abs/2504.12826)|null|
@@ -311,6 +314,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
+|**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954](http://arxiv.org/abs/2504.15954)|null|
 |**2025-04-23**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
 |**2025-04-22**|**An ACO-MPC Framework for Energy-Efficient and Collision-Free Path Planning in Autonomous Maritime Navigation**|Yaoze Liu et.al.|[2504.15611](http://arxiv.org/abs/2504.15611)|null|
