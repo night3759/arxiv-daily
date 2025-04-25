@@ -314,6 +314,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
+|**2025-04-24**|**AGCo-MATA: Air-Ground Collaborative Multi-Agent Task Allocation in Mobile Crowdsensing**|Tianhao Shao et.al.|[2504.17409](http://arxiv.org/abs/2504.17409)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
 |**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954](http://arxiv.org/abs/2504.15954)|null|
