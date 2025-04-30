@@ -1,4 +1,4 @@
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -221,7 +221,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## Perception
 
@@ -311,7 +311,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## Planning
 
@@ -326,7 +326,7 @@
 |**2025-04-27**|**Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator**|Yanhao Yang et.al.|[2504.19072](http://arxiv.org/abs/2504.19072)|null|
 |**2025-04-26**|**A biconvex method for minimum-time motion planning through sequences of convex sets**|Tobia Marcucci et.al.|[2504.18978](http://arxiv.org/abs/2504.18978)|null|
 |**2025-04-26**|**Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks**|Zijie Zheng et.al.|[2504.18944](http://arxiv.org/abs/2504.18944)|null|
-|**2025-04-26**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899](http://arxiv.org/abs/2504.18899)|null|
+|**2025-04-29**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899](http://arxiv.org/abs/2504.18899)|null|
 |**2025-04-25**|**Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning**|Lars Ullrich et.al.|[2504.18421](http://arxiv.org/abs/2504.18421)|null|
 |**2025-04-25**|**Joint Resource Estimation and Trajectory Optimization for eVTOL-involved CR network: A Monte Carlo Tree Search-based Approach**|Kai Xiong et.al.|[2504.18031](http://arxiv.org/abs/2504.18031)|null|
 |**2025-04-24**|**Fuzzy-RRT for Obstacle Avoidance in a 2-DOF Semi-Autonomous Surgical Robotic Arm**|Kaaustaaub Shankar et.al.|[2504.17979](http://arxiv.org/abs/2504.17979)|null|
@@ -1112,5 +1112,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
