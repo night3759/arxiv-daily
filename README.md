@@ -319,6 +319,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622](http://arxiv.org/abs/2504.21622)|null|
+|**2025-04-30**|**Leveraging Pre-trained Large Language Models with Refined Prompting for Online Task and Motion Planning**|Huihui Guo et.al.|[2504.21596](http://arxiv.org/abs/2504.21596)|null|
+|**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486](http://arxiv.org/abs/2504.21486)|null|
+|**2025-04-30**|**Assessing LLM code generation quality through path planning tasks**|Wanyi Chen et.al.|[2504.21276](http://arxiv.org/abs/2504.21276)|null|
 |**2025-04-29**|**Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors**|Norah K. Alghamdi et.al.|[2504.20947](http://arxiv.org/abs/2504.20947)|null|
 |**2025-04-29**|**Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing**|Zhaoyang Jacopo Hu et.al.|[2504.20761](http://arxiv.org/abs/2504.20761)|null|
 |**2025-04-29**|**Quantum-Enhanced Hybrid Reinforcement Learning Framework for Dynamic Path Planning in Autonomous Systems**|Sahil Tomar et.al.|[2504.20660](http://arxiv.org/abs/2504.20660)|null|
