@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
+|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
 |**2025-04-28**|**Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer**|Daniel Kienzle et.al.|[2504.19863](http://arxiv.org/abs/2504.19863)|**[link](https://github.com/KieDani/SpinAndTrajectoryTableTennis)**|
 |**2025-04-26**|**Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks**|Zijie Zheng et.al.|[2504.18944](http://arxiv.org/abs/2504.18944)|null|
 |**2025-04-25**|**Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning**|Lars Ullrich et.al.|[2504.18421](http://arxiv.org/abs/2504.18421)|null|
@@ -319,6 +322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction**|Ze Zhang et.al.|[2505.00237](http://arxiv.org/abs/2505.00237)|null|
 |**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622](http://arxiv.org/abs/2504.21622)|null|
 |**2025-04-30**|**Leveraging Pre-trained Large Language Models with Refined Prompting for Online Task and Motion Planning**|Huihui Guo et.al.|[2504.21596](http://arxiv.org/abs/2504.21596)|null|
 |**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486](http://arxiv.org/abs/2504.21486)|null|
