@@ -322,6 +322,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
+|**2025-05-02**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512](http://arxiv.org/abs/2505.00512)|null|
 |**2025-05-01**|**Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction**|Ze Zhang et.al.|[2505.00237](http://arxiv.org/abs/2505.00237)|null|
 |**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622](http://arxiv.org/abs/2504.21622)|null|
 |**2025-04-30**|**Leveraging Pre-trained Large Language Models with Refined Prompting for Online Task and Motion Planning**|Huihui Guo et.al.|[2504.21596](http://arxiv.org/abs/2504.21596)|null|
