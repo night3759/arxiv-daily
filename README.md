@@ -324,6 +324,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
+|**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695](http://arxiv.org/abs/2505.03695)|null|
+|**2025-05-06**|**Rapid AI-based generation of coverage paths for dispensing applications**|Simon Baeuerle et.al.|[2505.03560](http://arxiv.org/abs/2505.03560)|null|
+|**2025-05-06**|**Simulation to Reality: Testbeds and Architectures for Connected and Automated Vehicles**|David Klüner et.al.|[2505.03472](http://arxiv.org/abs/2505.03472)|null|
+|**2025-05-06**|**Enabling Robots to Autonomously Search Dynamic Cluttered Post-Disaster Environments**|Karlo Rado et.al.|[2505.03283](http://arxiv.org/abs/2505.03283)|null|
+|**2025-05-06**|**Model Predictive Fuzzy Control: A Hierarchical Multi-Agent Control Architecture for Outdoor Search-and-Rescue Robots**|Craig Maxwell et.al.|[2505.03257](http://arxiv.org/abs/2505.03257)|null|
+|**2025-05-06**|**HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments**|Evangelos Psomiadis et.al.|[2505.03128](http://arxiv.org/abs/2505.03128)|null|
 |**2025-05-05**|**Wise Goose Chase: A Predictive Path Planning Algorithm for Dynamic Rebalancing in Ride-Hailing Systems**|Avalpreet Singh Brar et.al.|[2505.02603](http://arxiv.org/abs/2505.02603)|null|
 |**2025-05-05**|**ZeloS -- A Research Platform for Early-Stage Validation of Research Findings Related to Automated Driving**|Christopher Bohn et.al.|[2505.02460](http://arxiv.org/abs/2505.02460)|null|
 |**2025-05-05**|**A Real-Time Control Barrier Function-Based Safety Filter for Motion Planning with Arbitrary Road Boundary Constraints**|Jianye Xu et.al.|[2505.02395](http://arxiv.org/abs/2505.02395)|null|
