@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
+|**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
 |**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
 |**2025-05-04**|**Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty**|Runhao Liu et.al.|[2505.02186](http://arxiv.org/abs/2505.02186)|null|
 |**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
@@ -326,6 +328,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning**|Petr Ježek et.al.|[2505.06126](http://arxiv.org/abs/2505.06126)|null|
+|**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
+|**2025-05-09**|**Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**|Ruiqi Ni et.al.|[2505.05691](http://arxiv.org/abs/2505.05691)|null|
+|**2025-05-08**|**Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**|Mohamed-Khalil Bouzidi et.al.|[2505.05638](http://arxiv.org/abs/2505.05638)|null|
 |**2025-05-08**|**Online Velocity Profile Generation and Tracking for Sampling-Based Local Planning Algorithms in Autonomous Racing Environments**|Alexander Langmann et.al.|[2505.05157](http://arxiv.org/abs/2505.05157)|null|
 |**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989](http://arxiv.org/abs/2505.04989)|null|
 |**2025-05-08**|**A Vehicle System for Navigating Among Vulnerable Road Users Including Remote Operation**|Oscar de Groot et.al.|[2505.04982](http://arxiv.org/abs/2505.04982)|null|
