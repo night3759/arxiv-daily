@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374](http://arxiv.org/abs/2505.07374)|**[link](https://github.com/eyesofworld/maritime-monitoring)**|
+|**2025-05-12**|**Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking**|Mohamed Nagy et.al.|[2505.07254](http://arxiv.org/abs/2505.07254)|null|
+|**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
+|**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[2505.06743](http://arxiv.org/abs/2505.06743)|null|
+|**2025-05-10**|**Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06740](http://arxiv.org/abs/2505.06740)|null|
 |**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
 |**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
 |**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
@@ -328,6 +333,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
+|**2025-05-12**|**Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots**|Davide Torielli et.al.|[2505.07668](http://arxiv.org/abs/2505.07668)|null|
+|**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari et.al.|[2505.07484](http://arxiv.org/abs/2505.07484)|null|
+|**2025-05-12**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
+|**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266](http://arxiv.org/abs/2505.07266)|null|
+|**2025-05-12**|**A Framework for Joint Grasp and Motion Planning in Confined Spaces**|Martin Rudorfer et.al.|[2505.07259](http://arxiv.org/abs/2505.07259)|null|
+|**2025-05-11**|**Terrain-aware Low Altitude Path Planning**|Yixuan Jia et.al.|[2505.07141](http://arxiv.org/abs/2505.07141)|null|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
+|**2025-05-11**|**YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action**|Junjie Lu et.al.|[2505.06923](http://arxiv.org/abs/2505.06923)|null|
+|**2025-05-11**|**cpRRTC: GPU-Parallel RRT-Connect for Constrained Motion Planning**|Jiaming Hu et.al.|[2505.06791](http://arxiv.org/abs/2505.06791)|null|
 |**2025-05-09**|**KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning**|Petr Ježek et.al.|[2505.06126](http://arxiv.org/abs/2505.06126)|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-09**|**Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**|Ruiqi Ni et.al.|[2505.05691](http://arxiv.org/abs/2505.05691)|null|
