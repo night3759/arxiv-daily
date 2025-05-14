@@ -333,6 +333,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
+|**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593](http://arxiv.org/abs/2505.08593)|null|
+|**2025-05-13**|**Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning**|Mirco Theile et.al.|[2505.08382](http://arxiv.org/abs/2505.08382)|null|
+|**2025-05-12**|**Land-Coverage Aware Path-Planning for Multi-UAV Swarms in Search and Rescue Scenarios**|Pedro Antonio Alarcon Granadeno et.al.|[2505.08060](http://arxiv.org/abs/2505.08060)|null|
+|**2025-05-12**|**Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations**|Maksim Surov et.al.|[2505.07983](http://arxiv.org/abs/2505.07983)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots**|Davide Torielli et.al.|[2505.07668](http://arxiv.org/abs/2505.07668)|null|
 |**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari et.al.|[2505.07484](http://arxiv.org/abs/2505.07484)|null|
