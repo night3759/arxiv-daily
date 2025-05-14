@@ -1,4 +1,4 @@
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,9 +19,9 @@
 |**2025-05-10**|**Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06740](http://arxiv.org/abs/2505.06740)|null|
 |**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
 |**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
-|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|**[link](https://github.com/ai4co/trajevo)**|
 |**2025-05-04**|**Probabilistic Method for Optimizing Submarine Search and Rescue Strategy Under Environmental Uncertainty**|Runhao Liu et.al.|[2505.02186](http://arxiv.org/abs/2505.02186)|null|
-|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
+|**2025-05-13**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
 |**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
 |**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
 |**2025-04-28**|**Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer**|Daniel Kienzle et.al.|[2504.19863](http://arxiv.org/abs/2504.19863)|**[link](https://github.com/KieDani/SpinAndTrajectoryTableTennis)**|
@@ -233,7 +233,7 @@
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|**[link](https://github.com/bigdasgit/caper)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Perception
 
@@ -327,7 +327,7 @@
 |**2024-08-26**|**Online regularization of Poincaré map of storage rings with Shannon entropy**|Yongjun Li et.al.|[2408.14333](http://arxiv.org/abs/2408.14333)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## Planning
 
@@ -336,7 +336,7 @@
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots**|Davide Torielli et.al.|[2505.07668](http://arxiv.org/abs/2505.07668)|null|
 |**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari et.al.|[2505.07484](http://arxiv.org/abs/2505.07484)|null|
-|**2025-05-12**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
+|**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266](http://arxiv.org/abs/2505.07266)|null|
 |**2025-05-12**|**A Framework for Joint Grasp and Motion Planning in Confined Spaces**|Martin Rudorfer et.al.|[2505.07259](http://arxiv.org/abs/2505.07259)|null|
 |**2025-05-11**|**Terrain-aware Low Altitude Path Planning**|Yixuan Jia et.al.|[2505.07141](http://arxiv.org/abs/2505.07141)|null|
@@ -1174,5 +1174,5 @@
 |**2024-09-10**|**Asymptotically Optimal Lazy Lifelong Sampling-based Algorithm for Efficient Motion Planning in Dynamic Environments**|Lu Huang et.al.|[2409.06521](http://arxiv.org/abs/2409.06521)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
