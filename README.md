@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
 |**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374](http://arxiv.org/abs/2505.07374)|**[link](https://github.com/eyesofworld/maritime-monitoring)**|
 |**2025-05-12**|**Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking**|Mohamed Nagy et.al.|[2505.07254](http://arxiv.org/abs/2505.07254)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
@@ -239,6 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**SparseMeXT Unlocking the Potential of Sparse Representations for HD Map Construction**|Anqing Jiang et.al.|[2505.08808](http://arxiv.org/abs/2505.08808)|null|
 |**2025-05-10**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
 |**2025-05-04**|**A Deep Learning-Aided Approach for Estimating Field Permeability Map by Fusing Well Logs, Well Tests, and Seismic Data**|Grigoriy Shutov et.al.|[2505.02093](http://arxiv.org/abs/2505.02093)|null|
 |**2025-04-29**|**Mapping a Movement: Exploring a Proposed Police Training Facility in Atlanta and the Stop Cop City Movement through Online Maps**|Camille Harris et.al.|[2504.20886](http://arxiv.org/abs/2504.20886)|null|
@@ -333,6 +335,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562](http://arxiv.org/abs/2505.09562)|null|
+|**2025-05-14**|**aUToPath: Unified Planning and Control for Autonomous Vehicles in Urban Environments Using Hybrid Lattice and Free-Space Search**|Tanmay P. Patel et.al.|[2505.09475](http://arxiv.org/abs/2505.09475)|null|
+|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
+|**2025-05-14**|**Improved Corner Cutting Constraints for Mixed-Integer Motion Planning of a Differential Drive Micro-Mobility Vehicle**|Angelo Caregnato-Neto et.al.|[2505.09359](http://arxiv.org/abs/2505.09359)|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[2505.09315](http://arxiv.org/abs/2505.09315)|null|
+|**2025-05-14**|**Robot-Assisted Drone Recovery on a Wavy Surface Using Error-State Kalman Filter and Receding Horizon Model Predictive Control**|Yimou Wu et.al.|[2505.09145](http://arxiv.org/abs/2505.09145)|null|
+|**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[2505.09074](http://arxiv.org/abs/2505.09074)|null|
+|**2025-05-13**|**Multi-step manipulation task and motion planning guided by video demonstration**|Kateryna Zorina et.al.|[2505.08949](http://arxiv.org/abs/2505.08949)|null|
+|**2025-05-13**|**Efficiently Manipulating Clutter via Learning and Search-Based Reasoning**|Baichuan Huang et.al.|[2505.08853](http://arxiv.org/abs/2505.08853)|null|
 |**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
 |**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593](http://arxiv.org/abs/2505.08593)|null|
 |**2025-05-13**|**Continuous World Coverage Path Planning for Fixed-Wing UAVs using Deep Reinforcement Learning**|Mirco Theile et.al.|[2505.08382](http://arxiv.org/abs/2505.08382)|null|
