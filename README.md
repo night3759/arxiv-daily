@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction**|Hao Yang et.al.|[2505.09965](http://arxiv.org/abs/2505.09965)|null|
 |**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
 |**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374](http://arxiv.org/abs/2505.07374)|**[link](https://github.com/eyesofworld/maritime-monitoring)**|
 |**2025-05-12**|**Towards Accurate State Estimation: Kalman Filter Incorporating Motion Dynamics for 3D Multi-Object Tracking**|Mohamed Nagy et.al.|[2505.07254](http://arxiv.org/abs/2505.07254)|null|
@@ -240,6 +241,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258](http://arxiv.org/abs/2505.10258)|null|
 |**2025-05-12**|**SparseMeXT Unlocking the Potential of Sparse Representations for HD Map Construction**|Anqing Jiang et.al.|[2505.08808](http://arxiv.org/abs/2505.08808)|null|
 |**2025-05-10**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
 |**2025-05-04**|**A Deep Learning-Aided Approach for Estimating Field Permeability Map by Fusing Well Logs, Well Tests, and Seismic Data**|Grigoriy Shutov et.al.|[2505.02093](http://arxiv.org/abs/2505.02093)|null|
@@ -335,6 +337,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect**|Tyler Wilson et.al.|[2505.10542](http://arxiv.org/abs/2505.10542)|null|
+|**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
+|**2025-05-15**|**pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams**|Khaled Wahba et.al.|[2505.10355](http://arxiv.org/abs/2505.10355)|null|
+|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|null|
+|**2025-05-15**|**Fast Heuristic Scheduling and Trajectory Planning for Robotic Fruit Harvesters with Multiple Cartesian Arms**|Yuankai Zhu et.al.|[2505.10028](http://arxiv.org/abs/2505.10028)|null|
+|**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin et.al.|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
+|**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 1. Analysis of phases and dynamics in standard models**|Wen-Long Jin et.al.|[2505.09987](http://arxiv.org/abs/2505.09987)|null|
+|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|null|
+|**2025-05-14**|**Learning Rock Pushability on Rough Planetary Terrain**|Tuba Girgin et.al.|[2505.09833](http://arxiv.org/abs/2505.09833)|null|
+|**2025-05-14**|**Trailblazer: Learning offroad costmaps for long range planning**|Kasi Viswanath et.al.|[2505.09739](http://arxiv.org/abs/2505.09739)|null|
 |**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562](http://arxiv.org/abs/2505.09562)|null|
 |**2025-05-14**|**aUToPath: Unified Planning and Control for Autonomous Vehicles in Urban Environments Using Hybrid Lattice and Free-Space Search**|Tanmay P. Patel et.al.|[2505.09475](http://arxiv.org/abs/2505.09475)|null|
 |**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
