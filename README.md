@@ -337,6 +337,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Decoupling Collision Avoidance in and for Optimal Control using Least-Squares Support Vector Machines**|Dries Dirckx et.al.|[2505.11376](http://arxiv.org/abs/2505.11376)|null|
+|**2025-05-16**|**Geofenced Unmanned Aerial Robotic Defender for Deer Detection and Deterrence (GUARD)**|Ebasa Temesgen et.al.|[2505.10770](http://arxiv.org/abs/2505.10770)|null|
 |**2025-05-15**|**AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect**|Tyler Wilson et.al.|[2505.10542](http://arxiv.org/abs/2505.10542)|null|
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
 |**2025-05-15**|**pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams**|Khaled Wahba et.al.|[2505.10355](http://arxiv.org/abs/2505.10355)|null|
