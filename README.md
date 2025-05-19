@@ -46,7 +46,7 @@
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-07**|**DyTTP: Trajectory Prediction with Normalization-Free Transformers**|Yunxiang Liu et.al.|[2504.05356](http://arxiv.org/abs/2504.05356)|null|
 |**2025-04-07**|**MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**|Chandra Raskoti et.al.|[2504.05059](http://arxiv.org/abs/2504.05059)|null|
-|**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991](http://arxiv.org/abs/2504.04991)|null|
+|**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991](http://arxiv.org/abs/2504.04991)|**[link](https://github.com/lurenjia384/wavelet_policy)**|
 |**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862](http://arxiv.org/abs/2504.04862)|null|
 |**2025-04-03**|**Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework**|Christian Alexander Holz et.al.|[2504.02519](http://arxiv.org/abs/2504.02519)|null|
 |**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
@@ -311,7 +311,7 @@
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
 |**2024-09-24**|**Underground Mapping and Localization Based on Ground-Penetrating Radar**|Jinchang Zhang et.al.|[2409.16446](http://arxiv.org/abs/2409.16446)|null|
 |**2024-09-23**|**A common fixed point theorem for two self-mappings defined on strictly convex probabilistic cone metric space**|M. H. M. Rashid et.al.|[2409.15482](http://arxiv.org/abs/2409.15482)|null|
-|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723](http://arxiv.org/abs/2409.14723)|null|
+|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723](http://arxiv.org/abs/2409.14723)|**[link](https://github.com/ghm0819/erpot)**|
 |**2024-09-20**|**Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control using Graphs of Scan Regions**|Dharshan Bashkaran Latha et.al.|[2409.13838](http://arxiv.org/abs/2409.13838)|null|
 |**2024-09-18**|**Peaks in weak lensing mass maps for cluster astrophysics and cosmology**|Masamune Oguri et.al.|[2409.12361](http://arxiv.org/abs/2409.12361)|null|
 |**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178](http://arxiv.org/abs/2409.10178)|null|
@@ -362,21 +362,21 @@
 |**2025-05-12**|**Land-Coverage Aware Path-Planning for Multi-UAV Swarms in Search and Rescue Scenarios**|Pedro Antonio Alarcon Granadeno et.al.|[2505.08060](http://arxiv.org/abs/2505.08060)|null|
 |**2025-05-12**|**Virtual Holonomic Constraints in Motion Planning: Revisiting Feasibility and Limitations**|Maksim Surov et.al.|[2505.07983](http://arxiv.org/abs/2505.07983)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
-|**2025-05-12**|**Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots**|Davide Torielli et.al.|[2505.07668](http://arxiv.org/abs/2505.07668)|null|
+|**2025-05-12**|**Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots**|Davide Torielli et.al.|[2505.07668](http://arxiv.org/abs/2505.07668)|**[link](https://github.com/advrhumanoids/nn_laser_spot_tracking)**|
 |**2025-05-12**|**Integrated Localization and Path Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control**|Mohsen Eskandari et.al.|[2505.07484](http://arxiv.org/abs/2505.07484)|null|
 |**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266](http://arxiv.org/abs/2505.07266)|null|
 |**2025-05-12**|**A Framework for Joint Grasp and Motion Planning in Confined Spaces**|Martin Rudorfer et.al.|[2505.07259](http://arxiv.org/abs/2505.07259)|null|
 |**2025-05-11**|**Terrain-aware Low Altitude Path Planning**|Yixuan Jia et.al.|[2505.07141](http://arxiv.org/abs/2505.07141)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
-|**2025-05-11**|**YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action**|Junjie Lu et.al.|[2505.06923](http://arxiv.org/abs/2505.06923)|null|
+|**2025-05-11**|**YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action**|Junjie Lu et.al.|[2505.06923](http://arxiv.org/abs/2505.06923)|**[link](https://github.com/TJU-Aerial-Robotics/YOPO-Tracker)**|
 |**2025-05-11**|**cpRRTC: GPU-Parallel RRT-Connect for Constrained Motion Planning**|Jiaming Hu et.al.|[2505.06791](http://arxiv.org/abs/2505.06791)|null|
 |**2025-05-09**|**KRRF: Kinodynamic Rapidly-exploring Random Forest algorithm for multi-goal motion planning**|Petr Ježek et.al.|[2505.06126](http://arxiv.org/abs/2505.06126)|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
-|**2025-05-09**|**Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**|Ruiqi Ni et.al.|[2505.05691](http://arxiv.org/abs/2505.05691)|null|
+|**2025-05-09**|**Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**|Ruiqi Ni et.al.|[2505.05691](http://arxiv.org/abs/2505.05691)|**[link](https://github.com/ruiqini/ntrl-demo)**|
 |**2025-05-08**|**Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**|Mohamed-Khalil Bouzidi et.al.|[2505.05638](http://arxiv.org/abs/2505.05638)|null|
 |**2025-05-08**|**Online Velocity Profile Generation and Tracking for Sampling-Based Local Planning Algorithms in Autonomous Racing Environments**|Alexander Langmann et.al.|[2505.05157](http://arxiv.org/abs/2505.05157)|null|
-|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989](http://arxiv.org/abs/2505.04989)|null|
+|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989](http://arxiv.org/abs/2505.04989)|**[link](https://github.com/iaerialrobo/cpp-dip)**|
 |**2025-05-08**|**A Vehicle System for Navigating Among Vulnerable Road Users Including Remote Operation**|Oscar de Groot et.al.|[2505.04982](http://arxiv.org/abs/2505.04982)|null|
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[2505.04980](http://arxiv.org/abs/2505.04980)|null|
 |**2025-05-08**|**Real-Time Model Predictive Control of Vehicles with Convex-Polygon-Aware Collision Avoidance in Tight Spaces**|Haruki Kojima et.al.|[2505.04935](http://arxiv.org/abs/2505.04935)|null|
@@ -402,7 +402,7 @@
 |**2025-05-01**|**Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction**|Ze Zhang et.al.|[2505.00237](http://arxiv.org/abs/2505.00237)|null|
 |**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622](http://arxiv.org/abs/2504.21622)|null|
 |**2025-04-30**|**Leveraging Pre-trained Large Language Models with Refined Prompting for Online Task and Motion Planning**|Huihui Guo et.al.|[2504.21596](http://arxiv.org/abs/2504.21596)|null|
-|**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486](http://arxiv.org/abs/2504.21486)|null|
+|**2025-04-30**|**Provably-Safe, Online System Identification**|Bohao Zhang et.al.|[2504.21486](http://arxiv.org/abs/2504.21486)|**[link](https://github.com/roahmlab/OnlineSafeSysID)**|
 |**2025-04-30**|**Assessing LLM code generation quality through path planning tasks**|Wanyi Chen et.al.|[2504.21276](http://arxiv.org/abs/2504.21276)|null|
 |**2025-04-29**|**Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors**|Norah K. Alghamdi et.al.|[2504.20947](http://arxiv.org/abs/2504.20947)|null|
 |**2025-04-29**|**Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing**|Zhaoyang Jacopo Hu et.al.|[2504.20761](http://arxiv.org/abs/2504.20761)|null|
@@ -410,13 +410,13 @@
 |**2025-04-28**|**Clustering-based Recurrent Neural Network Controller synthesis under Signal Temporal Logic Specifications**|Kazunobu Serizawa et.al.|[2504.19846](http://arxiv.org/abs/2504.19846)|null|
 |**2025-04-28**|**Robot Motion Planning using One-Step Diffusion with Noise-Optimized Approximate Motions**|Tomoharu Aizu et.al.|[2504.19652](http://arxiv.org/abs/2504.19652)|null|
 |**2025-04-28**|**A Time-dependent Risk-aware distributed Multi-Agent Path Finder based on A***|S Nordström et.al.|[2504.19593](http://arxiv.org/abs/2504.19593)|null|
-|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|null|
+|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|**[link](https://github.com/Lg0914/ARTEMIS)**|
 |**2025-04-28**|**An End-to-End Framework for Optimizing Foot Trajectory and Force in Dry Adhesion Legged Wall-Climbing Robots**|Jichun Xiao et.al.|[2504.19448](http://arxiv.org/abs/2504.19448)|null|
 |**2025-04-27**|**Trajectory Planning with Model Predictive Control for Obstacle Avoidance Considering Prediction Uncertainty**|Eric Schöneberg et.al.|[2504.19193](http://arxiv.org/abs/2504.19193)|null|
 |**2025-04-27**|**Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator**|Yanhao Yang et.al.|[2504.19072](http://arxiv.org/abs/2504.19072)|null|
 |**2025-04-26**|**A biconvex method for minimum-time motion planning through sequences of convex sets**|Tobia Marcucci et.al.|[2504.18978](http://arxiv.org/abs/2504.18978)|null|
 |**2025-04-26**|**Demonstrating DVS: Dynamic Virtual-Real Simulation Platform for Mobile Robotic Tasks**|Zijie Zheng et.al.|[2504.18944](http://arxiv.org/abs/2504.18944)|null|
-|**2025-04-29**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899](http://arxiv.org/abs/2504.18899)|null|
+|**2025-04-29**|**Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems**|Zhongqi Wei et.al.|[2504.18899](http://arxiv.org/abs/2504.18899)|**[link](https://github.com/intelligent-control-lab/Task_Motion_Planning_with_HLTL_and_GCS)**|
 |**2025-04-25**|**Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning**|Lars Ullrich et.al.|[2504.18421](http://arxiv.org/abs/2504.18421)|null|
 |**2025-04-25**|**Joint Resource Estimation and Trajectory Optimization for eVTOL-involved CR network: A Monte Carlo Tree Search-based Approach**|Kai Xiong et.al.|[2504.18031](http://arxiv.org/abs/2504.18031)|null|
 |**2025-04-24**|**Fuzzy-RRT for Obstacle Avoidance in a 2-DOF Semi-Autonomous Surgical Robotic Arm**|Kaaustaaub Shankar et.al.|[2504.17979](http://arxiv.org/abs/2504.17979)|null|
@@ -593,7 +593,7 @@
 |**2025-03-11**|**Geometric Data-Driven Multi-Jet Locomotion Inspired by Salps**|Yanhao Yang et.al.|[2503.08817](http://arxiv.org/abs/2503.08817)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
 |**2025-03-11**|**Cross-Embodiment Robotic Manipulation Synthesis via Guided Demonstrations through CycleVAE and Human Behavior Transformer**|Apan Dastider et.al.|[2503.08622](http://arxiv.org/abs/2503.08622)|null|
-|**2025-03-11**|**Soft Actor-Critic-based Control Barrier Adaptation for Robust Autonomous Navigation in Unknown Environments**|Nicholas Mohammad et.al.|[2503.08479](http://arxiv.org/abs/2503.08479)|null|
+|**2025-03-11**|**Soft Actor-Critic-based Control Barrier Adaptation for Robust Autonomous Navigation in Unknown Environments**|Nicholas Mohammad et.al.|[2503.08479](http://arxiv.org/abs/2503.08479)|**[link](https://github.com/UVA-BezzoRobotics-AMRLab/cbf_tracking)**|
 |**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302](http://arxiv.org/abs/2503.08302)|null|
 |**2025-03-11**|**Control Barrier Functions for Prescribed-time Reach-Avoid-Stay Tasks using Spatiotemporal Tubes**|Ratnangshu Das et.al.|[2503.08106](http://arxiv.org/abs/2503.08106)|null|
 |**2025-03-11**|**Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning**|Tianyu Li et.al.|[2503.08029](http://arxiv.org/abs/2503.08029)|null|
