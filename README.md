@@ -78,7 +78,7 @@
 |**2025-03-11**|**STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model**|Jin Wenzhe et.al.|[2503.08065](http://arxiv.org/abs/2503.08065)|null|
 |**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016](http://arxiv.org/abs/2503.08016)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
-|**2025-03-10**|**GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought**|Sungsik Kim et.al.|[2503.06832](http://arxiv.org/abs/2503.06832)|null|
+|**2025-03-10**|**GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought**|Sungsik Kim et.al.|[2503.06832](http://arxiv.org/abs/2503.06832)|**[link](https://github.com/ai-kmu/guide-cot)**|
 |**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[2503.06779](http://arxiv.org/abs/2503.06779)|**[link](https://github.com/renkai99/LCSS-control)**|
 |**2025-03-08**|**TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**|Hangyu Du et.al.|[2503.06071](http://arxiv.org/abs/2503.06071)|null|
 |**2025-03-07**|**Universal Framework to Evaluate Automotive Perception Sensor Impact on Perception Functions**|A Gamage et.al.|[2503.05939](http://arxiv.org/abs/2503.05939)|**[link](https://github.com/asha-gamage/perception4prediction)**|
@@ -369,7 +369,7 @@
 |**2025-05-19**|**From Structural Design to Dynamics Modeling: Control-Oriented Development of a 3-RRR Parallel Ankle Rehabilitation Robot**|Siyuan Zhang et.al.|[2505.13762](http://arxiv.org/abs/2505.13762)|null|
 |**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
 |**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
-|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|**[link](https://github.com/HEmile/neurosymbolic-diffusion)**|
 |**2025-05-19**|**SafeMove-RL: A Certifiable Reinforcement Learning Framework for Dynamic Motion Constraints in Trajectory Planning**|Tengfei Liu et.al.|[2505.12648](http://arxiv.org/abs/2505.12648)|null|
 |**2025-05-19**|**Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**|Li Lin et.al.|[2505.12631](http://arxiv.org/abs/2505.12631)|**[link](https://github.com/xhaughearl/haarmodic)**|
 |**2025-05-18**|**Optimal Task and Motion Planning for Autonomous Systems Using Petri Nets**|Zhou He et.al.|[2505.12503](http://arxiv.org/abs/2505.12503)|null|
@@ -382,7 +382,7 @@
 |**2025-05-17**|**AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect**|Tyler Wilson et.al.|[2505.10542](http://arxiv.org/abs/2505.10542)|null|
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
 |**2025-05-15**|**pc-dbCBS: Kinodynamic Motion Planning of Physically-Coupled Robot Teams**|Khaled Wahba et.al.|[2505.10355](http://arxiv.org/abs/2505.10355)|null|
-|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|null|
+|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|**[link](https://github.com/Nusha97/Quad-LCD)**|
 |**2025-05-15**|**Fast Heuristic Scheduling and Trajectory Planning for Robotic Fruit Harvesters with Multiple Cartesian Arms**|Yuankai Zhu et.al.|[2505.10028](http://arxiv.org/abs/2505.10028)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 2. A parsimonious multi-phase model with projected braking**|Wen-Long Jin et.al.|[2505.09988](http://arxiv.org/abs/2505.09988)|null|
 |**2025-05-15**|**Provably safe and human-like car-following behaviors: Part 1. Analysis of phases and dynamics in standard models**|Wen-Long Jin et.al.|[2505.09987](http://arxiv.org/abs/2505.09987)|null|
