@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Dynamical ON-OFF Control with Trajectory Prediction for Multi-RIS Wireless Networks**|Kaining Wang et.al.|[2505.20887](http://arxiv.org/abs/2505.20887)|null|
 |**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[2505.18945](http://arxiv.org/abs/2505.18945)|null|
 |**2025-05-26**|**DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration**|Haotian Liu et.al.|[2505.17490](http://arxiv.org/abs/2505.17490)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[2505.16805](http://arxiv.org/abs/2505.16805)|null|
@@ -346,6 +347,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161](http://arxiv.org/abs/2505.21161)|null|
+|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
+|**2025-05-27**|**Can LLMs Learn to Map the World from Local Descriptions?**|Sirui Xia et.al.|[2505.20874](http://arxiv.org/abs/2505.20874)|null|
+|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|null|
+|**2025-05-26**|**CoRI: Synthesizing Communication of Robot Intent for Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2505.20537](http://arxiv.org/abs/2505.20537)|null|
+|**2025-05-26**|**RetroMotion: Retrocausal Motion Forecasting Models are Instructable**|Royden Wagner et.al.|[2505.20414](http://arxiv.org/abs/2505.20414)|null|
 |**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175](http://arxiv.org/abs/2505.20175)|null|
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments**|Yuhe Gong et.al.|[2505.19688](http://arxiv.org/abs/2505.19688)|null|
