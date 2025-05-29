@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**|Haicheng Liao et.al.|[2505.21565](http://arxiv.org/abs/2505.21565)|null|
 |**2025-05-27**|**Dynamical ON-OFF Control with Trajectory Prediction for Multi-RIS Wireless Networks**|Kaining Wang et.al.|[2505.20887](http://arxiv.org/abs/2505.20887)|null|
 |**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[2505.18945](http://arxiv.org/abs/2505.18945)|null|
 |**2025-05-26**|**DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration**|Haotian Liu et.al.|[2505.17490](http://arxiv.org/abs/2505.17490)|null|
@@ -347,6 +348,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables**|Frédéric Berthommier et.al.|[2505.22455](http://arxiv.org/abs/2505.22455)|null|
+|**2025-05-28**|**Attention-Enhanced Prompt Decision Transformers for UAV-Assisted Communications with AoI**|Chi Lu et.al.|[2505.22170](http://arxiv.org/abs/2505.22170)|null|
+|**2025-05-28**|**Autoregression-free video prediction using diffusion model for mitigating error propagation**|Woonho Ko et.al.|[2505.22111](http://arxiv.org/abs/2505.22111)|null|
+|**2025-05-28**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
+|**2025-05-28**|**Enhanced SIRRT*: A Structure-Aware RRT* for 2D Path Planning with Hybrid Smoothing and Bidirectional Rewiring**|Hyejeong Ryu et.al.|[2505.21968](http://arxiv.org/abs/2505.21968)|null|
+|**2025-05-28**|**Mastering Agile Tasks with Limited Trials**|Yihang Hu et.al.|[2505.21916](http://arxiv.org/abs/2505.21916)|null|
 |**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161](http://arxiv.org/abs/2505.21161)|null|
 |**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
 |**2025-05-27**|**Can LLMs Learn to Map the World from Local Descriptions?**|Sirui Xia et.al.|[2505.20874](http://arxiv.org/abs/2505.20874)|null|
