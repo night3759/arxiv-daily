@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[2505.23612](http://arxiv.org/abs/2505.23612)|null|
 |**2025-05-27**|**Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**|Haicheng Liao et.al.|[2505.21565](http://arxiv.org/abs/2505.21565)|null|
 |**2025-05-27**|**Dynamical ON-OFF Control with Trajectory Prediction for Multi-RIS Wireless Networks**|Kaining Wang et.al.|[2505.20887](http://arxiv.org/abs/2505.20887)|null|
 |**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[2505.18945](http://arxiv.org/abs/2505.18945)|null|
@@ -348,6 +350,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
+|**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Jianlin Ye et.al.|[2505.23267](http://arxiv.org/abs/2505.23267)|null|
+|**2025-05-29**|**UPP: Unified Path Planner with Adaptive Safety and Optimality**|Jatin Kumar Arora et.al.|[2505.23197](http://arxiv.org/abs/2505.23197)|null|
+|**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
+|**2025-05-29**|**Redundancy Parameterization of the ABB YuMi Robot Arm**|Alexander J. Elias et.al.|[2505.23111](http://arxiv.org/abs/2505.23111)|null|
 |**2025-05-28**|**Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables**|Frédéric Berthommier et.al.|[2505.22455](http://arxiv.org/abs/2505.22455)|null|
 |**2025-05-28**|**Attention-Enhanced Prompt Decision Transformers for UAV-Assisted Communications with AoI**|Chi Lu et.al.|[2505.22170](http://arxiv.org/abs/2505.22170)|null|
 |**2025-05-28**|**Autoregression-free video prediction using diffusion model for mitigating error propagation**|Woonho Ko et.al.|[2505.22111](http://arxiv.org/abs/2505.22111)|null|
