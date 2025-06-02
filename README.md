@@ -361,12 +361,12 @@
 |**2025-05-29**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
 |**2025-05-28**|**Enhanced SIRRT*: A Structure-Aware RRT* for 2D Path Planning with Hybrid Smoothing and Bidirectional Rewiring**|Hyejeong Ryu et.al.|[2505.21968](http://arxiv.org/abs/2505.21968)|null|
 |**2025-05-28**|**Mastering Agile Tasks with Limited Trials**|Yihang Hu et.al.|[2505.21916](http://arxiv.org/abs/2505.21916)|null|
-|**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161](http://arxiv.org/abs/2505.21161)|null|
-|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
+|**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161](http://arxiv.org/abs/2505.21161)|**[link](https://github.com/Tolksdorf/Collision-Probaility-Estimation)**|
+|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|**[link](https://github.com/cainand/refav)**|
 |**2025-05-27**|**Can LLMs Learn to Map the World from Local Descriptions?**|Sirui Xia et.al.|[2505.20874](http://arxiv.org/abs/2505.20874)|null|
-|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|null|
+|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|**[link](https://github.com/ntu-icg/fm-planner)**|
 |**2025-05-26**|**CoRI: Synthesizing Communication of Robot Intent for Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2505.20537](http://arxiv.org/abs/2505.20537)|null|
-|**2025-05-26**|**RetroMotion: Retrocausal Motion Forecasting Models are Instructable**|Royden Wagner et.al.|[2505.20414](http://arxiv.org/abs/2505.20414)|null|
+|**2025-05-26**|**RetroMotion: Retrocausal Motion Forecasting Models are Instructable**|Royden Wagner et.al.|[2505.20414](http://arxiv.org/abs/2505.20414)|**[link](https://github.com/kit-mrt/future-motion)**|
 |**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175](http://arxiv.org/abs/2505.20175)|null|
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments**|Yuhe Gong et.al.|[2505.19688](http://arxiv.org/abs/2505.19688)|null|
@@ -379,7 +379,7 @@
 |**2025-05-23**|**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**|Hongshu Guo et.al.|[2505.17866](http://arxiv.org/abs/2505.17866)|null|
 |**2025-05-23**|**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**|Shuang Zeng et.al.|[2505.17685](http://arxiv.org/abs/2505.17685)|null|
 |**2025-05-23**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[2505.17659](http://arxiv.org/abs/2505.17659)|null|
-|**2025-05-22**|**LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios**|Huaiyuan Yao et.al.|[2505.17209](http://arxiv.org/abs/2505.17209)|null|
+|**2025-05-22**|**LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios**|Huaiyuan Yao et.al.|[2505.17209](http://arxiv.org/abs/2505.17209)|**[link](https://github.com/hyan-yao/lilodriver)**|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-22**|**Coverage Path Planning For Multi-view SAR-UAV Observation System Under Energy Constraint**|Deyu Song et.al.|[2505.16389](http://arxiv.org/abs/2505.16389)|null|
 |**2025-05-21**|**Extremum Seeking for PDE Systems using Physics-Informed Neural Networks**|Haojin Guo et.al.|[2505.15972](http://arxiv.org/abs/2505.15972)|null|
@@ -548,7 +548,7 @@
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**Approximation Algorithms for the UAV Path Planning with Object Coverage Constraints**|Jiawei Wang et.al.|[2504.08405](http://arxiv.org/abs/2504.08405)|null|
 |**2025-04-11**|**RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments**|Zhang Zhaopeng et.al.|[2504.08338](http://arxiv.org/abs/2504.08338)|null|
-|**2025-04-11**|**Interior Point Differential Dynamic Programming, Redux**|Ming Xu et.al.|[2504.08278](http://arxiv.org/abs/2504.08278)|null|
+|**2025-04-11**|**Interior Point Differential Dynamic Programming, Redux**|Ming Xu et.al.|[2504.08278](http://arxiv.org/abs/2504.08278)|**[link](https://github.com/mingu6/interiorpointddp.jl)**|
 |**2025-04-11**|**CATCH-FORM-ACTer: Compliance-Aware Tactile Control and Hybrid Deformation Regulation-Based Action Transformer for Viscoelastic Object Manipulation**|Hongjun Ma et.al.|[2504.08232](http://arxiv.org/abs/2504.08232)|null|
 |**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
 |**2025-04-10**|**Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation**|Yisheng Li et.al.|[2504.07554](http://arxiv.org/abs/2504.07554)|null|
@@ -875,7 +875,7 @@
 |**2025-01-09**|**A Fast Path-Planning Method for Continuous Harvesting of Table-Top Grown Strawberries**|Zhonghua Miao et.al.|[2501.05004](http://arxiv.org/abs/2501.05004)|null|
 |**2025-01-09**|**Intelligent Sailing Model for Open Sea Navigation**|Hanna Krasowski et.al.|[2501.04988](http://arxiv.org/abs/2501.04988)|null|
 |**2025-01-08**|**A Survey on Path Planning Problem of Rolling Contacts: Approaches, Applications and Future Challenges**|Seyed Amir Tafrishi et.al.|[2501.04442](http://arxiv.org/abs/2501.04442)|null|
-|**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|null|
+|**2025-01-06**|**OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles**|Yuhang Wang et.al.|[2501.03287](http://arxiv.org/abs/2501.03287)|**[link](https://github.com/openlka/openlka)**|
 |**2025-01-03**|**Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning with Kinematic Constraints**|Thi Thuy Ngan Duong et.al.|[2501.03261](http://arxiv.org/abs/2501.03261)|**[link](https://github.com/ngandng/nmopso)**|
 |**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
 |**2025-01-06**|**Enhancing Lifelong Multi-Agent Path Finding with Cache Mechanism**|Yimin Tang et.al.|[2501.02803](http://arxiv.org/abs/2501.02803)|null|
