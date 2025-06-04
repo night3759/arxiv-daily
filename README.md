@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-01**|**Towards Predicting Any Human Trajectory In Context**|Ryo Fujii et.al.|[2506.00871](http://arxiv.org/abs/2506.00871)|null|
+|**2025-05-27**|**GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving**|Shuai Liu et.al.|[2506.00034](http://arxiv.org/abs/2506.00034)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[2505.23612](http://arxiv.org/abs/2505.23612)|null|
 |**2025-05-27**|**Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**|Haicheng Liao et.al.|[2505.21565](http://arxiv.org/abs/2505.21565)|null|
@@ -251,6 +253,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models**|Junjie Li et.al.|[2506.02354](http://arxiv.org/abs/2506.02354)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[2505.16524](http://arxiv.org/abs/2505.16524)|null|
 |**2025-05-22**|**Beamforming-Codebook-Aware Channel Knowledge Map Construction for Multi-Antenna Systems**|Haohan Wang et.al.|[2505.16132](http://arxiv.org/abs/2505.16132)|**[link](https://github.com/github-whh/transunet)**|
 |**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856](http://arxiv.org/abs/2505.13856)|null|
@@ -350,6 +353,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models**|Zewen Yang et.al.|[2506.02955](http://arxiv.org/abs/2506.02955)|null|
+|**2025-06-03**|**From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV**|Yousef Emami et.al.|[2506.02649](http://arxiv.org/abs/2506.02649)|null|
+|**2025-06-03**|**Rodrigues Network for Learning Robot Actions**|Jialiang Zhang et.al.|[2506.02618](http://arxiv.org/abs/2506.02618)|null|
+|**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[2506.02580](http://arxiv.org/abs/2506.02580)|null|
+|**2025-06-03**|**Contrast & Compress: Learning Lightweight Embeddings for Short Trajectories**|Abhishek Vivekanandan et.al.|[2506.02571](http://arxiv.org/abs/2506.02571)|null|
+|**2025-06-03**|**Dynamic real-time multi-UAV cooperative mission planning method under multiple constraints**|Chenglou Liu et.al.|[2506.02365](http://arxiv.org/abs/2506.02365)|null|
+|**2025-06-02**|**Online Competitive Information Gathering for Partially Observable Trajectory Games**|Mel Krusniak et.al.|[2506.01927](http://arxiv.org/abs/2506.01927)|null|
+|**2025-06-02**|**Captivity-Escape Games as a Means for Safety in Online Motion Generation**|Christopher Bohn et.al.|[2506.01399](http://arxiv.org/abs/2506.01399)|null|
+|**2025-06-02**|**From Turbulence to Tranquility: AI-Driven Low-Altitude Network**|Kürşat Tekbıyık et.al.|[2506.01378](http://arxiv.org/abs/2506.01378)|null|
+|**2025-05-31**|**Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification**|Griffin Tabor et.al.|[2506.00589](http://arxiv.org/abs/2506.00589)|null|
 |**2025-05-30**|**EL-AGHF: Extended Lagrangian Affine Geometric Heat Flow**|Sangmin Kim et.al.|[2505.24751](http://arxiv.org/abs/2505.24751)|null|
 |**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
 |**2025-05-30**|**Imitation Learning-Based Path Generation for the Complex Assembly of Deformable Objects**|Yitaek Kim et.al.|[2505.24339](http://arxiv.org/abs/2505.24339)|null|
